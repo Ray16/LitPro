@@ -1,0 +1,2978 @@
+{
+  "download_tool": "/homes/rzhu/Enzyme_agent/enzyme_discovery_agent/tools/fulltext.py",
+  "retrieved": "2026-10-21",
+  "papers": [
+    {
+      "field": "MOF",
+      "number": 1,
+      "title": "Ultrathin metal-organic framework array for efficient electrocatalytic water splitting",
+      "doi": "10.1038/ncomms15341",
+      "pmcid": "PMC5465318",
+      "year": 2017,
+      "journal": "Nature Communications",
+      "authors": "Duan J, Chen S, Zhao C.",
+      "abstract": "Two-dimensional metal-organic frameworks represent a family of materials with attractive chemical and structural properties, which are usually prepared in the form of bulk powders. Here we show a generic approach to fabricate ultrathin nanosheet array of metal-organic frameworks on different substrates through a dissolution-crystallization mechanism. These materials exhibit intriguing properties for electrocatalysis including highly exposed active molecular metal sites owning to ultra-small thickness of nanosheets, improved electrical conductivity and a combination of hierarchical porosity. We fabricate a nickel-iron-based metal-organic framework array, which demonstrates superior electrocatalytic performance towards oxygen evolution reaction with a small overpotential of 240 mV at 10 mA cm -2 , and robust operation for 20,000 s with no detectable activity decay. Remarkably, the turnover frequency of the electrode is 3.8 s -1  at an overpotential of 400 mV. We further demonstrate the promise of these electrodes for other important catalytic reactions including hydrogen evolution reaction and overall water splitting.",
+      "cited_by_europe_pmc": 419,
+      "publication_types": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/",
+      "files": [
+        {
+          "file": "MOF/01_Ultrathin-metal-organic-framework-array-for-efficient-electrocatalytic-water-splitting.pdf",
+          "format": "pdf",
+          "bytes": 1218646,
+          "sha256": "df0cdd9201c75631af91e7dc94c281e3607a63b4f269ff5542c63a3ba94184a2",
+          "source_url": "https://www.nature.com/articles/ncomms15341.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 7,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 0.889,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Results",
+          "Discussion",
+          "Methods",
+          "Additional information",
+          "Supplementary Material",
+          "Acknowledgments",
+          "Footnotes",
+          "References",
+          "Associated Data"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/ncomms15341",
+        "journal": "Nature Communications",
+        "title": "Ultrathin metal-organic framework array for efficient electrocatalytic water splitting",
+        "type": "journal-article",
+        "published": [
+          [
+            2017,
+            6,
+            5
+          ]
+        ],
+        "url": "https://doi.org/10.1038/ncomms15341",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Ultrathin MOF synthesis and catalytic water splitting"
+    },
+    {
+      "field": "MOF",
+      "number": 2,
+      "title": "Efficient purification of ethene by an ethane-trapping metal-organic framework",
+      "doi": "10.1038/ncomms9697",
+      "pmcid": "PMC4846320",
+      "year": 2015,
+      "journal": "Nature Communications",
+      "authors": "Liao PQ, Zhang WX, Zhang JP, Chen XM.",
+      "abstract": "Separating ethene (C2H4) from ethane (C2H6) is of paramount importance and difficulty. Here we show that C2H4 can be efficiently purified by trapping the inert C2H6 in a judiciously designed metal-organic framework. Under ambient conditions, passing a typical cracked gas mixture (15:1 C2H4/C2H6) through 1 litre of this C2H6 selective adsorbent directly produces 56 litres of C2H4 with 99.95%+ purity (required by the C2H4 polymerization reactor) at the outlet, with a single breakthrough operation, while other C2H6 selective materials can only produce ca. ⩽  litre, and conventional C2H4 selective adsorbents require at least four adsorption-desorption cycles to achieve the same C2H4 purity. Single-crystal X-ray diffraction and computational simulation studies showed that the exceptional C2H6 selectivity arises from the proper positioning of multiple electronegative and electropositive functional groups on the ultramicroporous pore surface, which form multiple C-H···N hydrogen bonds with C2H6 instead of the more polar competitor C2H4.",
+      "cited_by_europe_pmc": 269,
+      "publication_types": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "https://creativecommons.org/licenses/by/4.0/ This work is licensed under a Creative Commons Attribution 4.0\nInternational License. The images or other third party material in this article are\nincluded in the article's Creative Commons license, unless indicated\notherwise in the credit line; if the material is not included under the Creative\nCommons license, users will need to obtain permission from the license holder to\nreproduce the material. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/",
+      "files": [
+        {
+          "file": "MOF/02_Efficient-purification-of-ethene-by-an-ethane-trapping-metal-organic-framework.pdf",
+          "format": "pdf",
+          "bytes": 1028108,
+          "sha256": "b39321c8527e73ecc56016d20f26276813110e7f0e9a478a2d6122b619497eec",
+          "source_url": "https://www.nature.com/articles/ncomms9697.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 9,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 0.75,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Results",
+          "Discussion",
+          "Methods",
+          "Additional information",
+          "Supplementary Material"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/ncomms9697",
+        "journal": "Nature Communications",
+        "title": "Efficient purification of ethene by an ethane-trapping metal-organic framework",
+        "type": "journal-article",
+        "published": [
+          [
+            2015,
+            10,
+            29
+          ]
+        ],
+        "url": "https://doi.org/10.1038/ncomms9697",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Ethane-selective adsorption and ethene purification"
+    },
+    {
+      "field": "MOF",
+      "number": 3,
+      "title": "Conductive 2D metal-organic framework for high-performance cathodes in aqueous rechargeable zinc batteries",
+      "doi": "10.1038/s41467-019-12857-4",
+      "pmcid": "PMC6821766",
+      "year": 2019,
+      "journal": "Nature Communications",
+      "authors": "Nam KW, Park SS, Dos Reis R, Dravid VP, Kim H, Mirkin CA, Stoddart JF.",
+      "abstract": "Currently, there is considerable interest in developing advanced rechargeable batteries that boast efficient distribution of electricity and economic feasibility for use in large-scale energy storage systems. Rechargeable aqueous zinc batteries are promising alternatives to lithium-ion batteries in terms of rate performance, cost, and safety. In this investigation, we employ Cu 3 (HHTP) 2 , a two-dimensional (2D) conductive metal-organic framework (MOF) with large one-dimensional channels, as a zinc battery cathode. Owing to its unique structure, hydrated Zn 2+  ions which are inserted directly into the host structure, Cu 3 (HHTP) 2 , allow high diffusion rate and low interfacial resistance which enable the Cu 3 (HHTP) 2  cathode to follow the intercalation pseudocapacitance mechanism. Cu 3 (HHTP) 2  exhibits a high reversible capacity of 228 mAh g -1  at 50 mA g -1 . At a high current density of 4000 mA g -1  (~18 C), 75.0% of the initial capacity is maintained after 500 cycles. These results provide key insights into high-performance, 2D conductive MOF designs for battery electrodes.",
+      "cited_by_europe_pmc": 246,
+      "publication_types": [
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/ .",
+      "files": [
+        {
+          "file": "MOF/03_Conductive-2D-metal-organic-framework-for-high-performance-cathodes-in-aqueous-rechargeable-zinc-batterie.pdf",
+          "format": "pdf",
+          "bytes": 3165477,
+          "sha256": "e7c7dc95452dac01f6745ce2685bcfbb4475d720d35641d0c6db3944c7cb4887",
+          "source_url": "https://www.nature.com/articles/s41467-019-12857-4.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 10,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 1.0,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Introduction",
+          "Results",
+          "Discussion",
+          "Methods",
+          "Supplementary information",
+          "Acknowledgements",
+          "Author contributions",
+          "Data availability",
+          "Competing interests",
+          "Footnotes",
+          "Supplementary information",
+          "References",
+          "Associated Data"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/s41467-019-12857-4",
+        "journal": "Nature Communications",
+        "title": "Conductive 2D metal-organic framework for high-performance cathodes in aqueous rechargeable zinc batteries",
+        "type": "journal-article",
+        "published": [
+          [
+            2019,
+            10,
+            30
+          ]
+        ],
+        "url": "https://doi.org/10.1038/s41467-019-12857-4",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Conductive MOF electrodes and zinc-ion storage"
+    },
+    {
+      "field": "MOF",
+      "number": 4,
+      "title": "Understanding the diversity of the metal-organic framework ecosystem",
+      "doi": "10.1038/s41467-020-17755-8",
+      "pmcid": "PMC7426948",
+      "year": 2020,
+      "journal": "Nature Communications",
+      "authors": "Moosavi SM, Nandy A, Jablonka KM, Ongari D, Janet JP, Boyd PG, Lee Y, Smit B, Kulik HJ.",
+      "abstract": "Millions of distinct metal-organic frameworks (MOFs) can be made by combining metal nodes and organic linkers. At present, over 90,000 MOFs have been synthesized and over 500,000 predicted. This raises the question whether a new experimental or predicted structure adds new information. For MOF chemists, the chemical design space is a combination of pore geometry, metal nodes, organic linkers, and functional groups, but at present we do not have a formalism to quantify optimal coverage of chemical design space. In this work, we develop a machine learning method to quantify similarities of MOFs to analyse their chemical diversity. This diversity analysis identifies biases in the databases, and we show that such bias can lead to incorrect conclusions. The developed formalism in this study provides a simple and practical guideline to see whether new structures will have the potential for new insights, or constitute a relatively small variation of existing structures.",
+      "cited_by_europe_pmc": 232,
+      "publication_types": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/ .",
+      "files": [
+        {
+          "file": "MOF/04_Understanding-the-diversity-of-the-metal-organic-framework-ecosystem.pdf",
+          "format": "pdf",
+          "bytes": 3196393,
+          "sha256": "63317363583932b255b6b861f0affffbabfb46d2c1d3c216b6f90cf80e7f19bb",
+          "source_url": "https://www.nature.com/articles/s41467-020-17755-8.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 10,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 1.0,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Introduction",
+          "Results",
+          "Discussion",
+          "Methods",
+          "Supplementary information",
+          "Acknowledgements",
+          "Author contributions",
+          "Data availability",
+          "Code availability",
+          "Competing interests",
+          "Footnotes",
+          "Contributor Information",
+          "Supplementary information",
+          "References",
+          "Associated Data"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/s41467-020-17755-8",
+        "journal": "Nature Communications",
+        "title": "Understanding the diversity of the metal-organic framework ecosystem",
+        "type": "journal-article",
+        "published": [
+          [
+            2020,
+            8,
+            13
+          ]
+        ],
+        "url": "https://doi.org/10.1038/s41467-020-17755-8",
+        "update_to": [],
+        "relation": {
+          "has-preprint": [
+            {
+              "id-type": "doi",
+              "id": "10.26434/chemrxiv.12251186.v1",
+              "asserted-by": "object"
+            }
+          ]
+        }
+      },
+      "research_focus": "Original computational method for MOF chemical-space diversity"
+    },
+    {
+      "field": "MOF",
+      "number": 5,
+      "title": "Microporous metal-organic framework with dual functionalities for highly efficient removal of acetylene from ethylene/acetylene mixtures",
+      "doi": "10.1038/ncomms8328",
+      "pmcid": "PMC4468854",
+      "year": 2015,
+      "journal": "Nature Communications",
+      "authors": "Hu TL, Wang H, Li B, Krishna R, Wu H, Zhou W, Zhou W, Zhao Y, Han Y, Wang X, Zhu W, Yao Z, Xiang S, Chen B.",
+      "abstract": "The removal of acetylene from ethylene/acetylene mixtures containing 1% acetylene is a technologically very important, but highly challenging task. Current removal approaches include the partial hydrogenation over a noble metal catalyst and the solvent extraction of cracked olefins, both of which are cost and energy consumptive. Here we report a microporous metal-organic framework in which the suitable pore/cage spaces preferentially take up much more acetylene than ethylene while the functional amine groups on the pore/cage surfaces further enforce their interactions with acetylene molecules, leading to its superior performance for this separation. The single X-ray diffraction studies, temperature dependent gas sorption isotherms, simulated and experimental column breakthrough curves and molecular simulation studies collaboratively support the claim, underlying the potential of this material for the industrial usage of the removal of acetylene from ethylene/acetylene mixtures containing 1% acetylene at room temperature through the cost- and energy-efficient adsorption separation process.",
+      "cited_by_europe_pmc": 213,
+      "publication_types": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "https://creativecommons.org/licenses/by/4.0/ This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/",
+      "files": [
+        {
+          "file": "MOF/05_Microporous-metal-organic-framework-with-dual-functionalities-for-highly-efficient-removal-of-acetylene-f.pdf",
+          "format": "pdf",
+          "bytes": 1130270,
+          "sha256": "d4420e75c70c805f54ca0ab90ec57078862b725d4db47070073fdede36091679",
+          "source_url": "https://www.nature.com/articles/ncomms8328.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 9,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 0.933,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Results",
+          "Discussion",
+          "Methods",
+          "Additional information",
+          "Supplementary Material"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/ncomms8328",
+        "journal": "Nature Communications",
+        "title": "Microporous metal–organic framework with dual functionalities for highly efficient removal of acetylene from ethylene/acetylene mixtures",
+        "type": "journal-article",
+        "published": [
+          [
+            2015,
+            6,
+            4
+          ]
+        ],
+        "url": "https://doi.org/10.1038/ncomms8328",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Acetylene separation by pore chemistry"
+    },
+    {
+      "field": "MOF",
+      "number": 6,
+      "title": "Hybrid glasses from strong and fragile metal-organic framework liquids",
+      "doi": "10.1038/ncomms9079",
+      "pmcid": "PMC4560802",
+      "year": 2015,
+      "journal": "Nature Communications",
+      "authors": "Bennett TD, Tan JC, Yue Y, Baxter E, Ducati C, Terrill NJ, Yeung HH, Zhou Z, Chen W, Henke S, Cheetham AK, Greaves GN.",
+      "abstract": "Hybrid glasses connect the emerging field of metal-organic frameworks (MOFs) with the glass formation, amorphization and melting processes of these chemically versatile systems. Though inorganic zeolites collapse around the glass transition and melt at higher temperatures, the relationship between amorphization and melting has so far not been investigated. Here we show how heating MOFs of zeolitic topology first results in a low density 'perfect' glass, similar to those formed in ice, silicon and disaccharides. This order-order transition leads to a super-strong liquid of low fragility that dynamically controls collapse, before a subsequent order-disorder transition, which creates a more fragile high-density liquid. After crystallization to a dense phase, which can be remelted, subsequent quenching results in a bulk glass, virtually identical to the high-density phase. We provide evidence that the wide-ranging melting temperatures of zeolitic MOFs are related to their network topologies and opens up the possibility of 'melt-casting' MOF glasses.",
+      "cited_by_europe_pmc": 190,
+      "publication_types": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "https://creativecommons.org/licenses/by/4.0/ This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/",
+      "files": [
+        {
+          "file": "MOF/06_Hybrid-glasses-from-strong-and-fragile-metal-organic-framework-liquids.pdf",
+          "format": "pdf",
+          "bytes": 942796,
+          "sha256": "6a230597373f020dd86236352ca07c520c88da18c5e3cc4e9597bb45fcdaeefc",
+          "source_url": "https://www.nature.com/articles/ncomms9079.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 7,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 1.0,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Results",
+          "Discussion",
+          "Methods",
+          "Additional information",
+          "Supplementary Material"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/ncomms9079",
+        "journal": "Nature Communications",
+        "title": "Hybrid glasses from strong and fragile metal-organic framework liquids",
+        "type": "journal-article",
+        "published": [
+          [
+            2015,
+            8,
+            28
+          ]
+        ],
+        "url": "https://doi.org/10.1038/ncomms9079",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "MOF melting and glass formation"
+    },
+    {
+      "field": "MOF",
+      "number": 7,
+      "title": "Metal-organic framework with optimally selective xenon adsorption and separation",
+      "doi": "10.1038/ncomms11831",
+      "pmcid": "PMC4909987",
+      "year": 2016,
+      "journal": "Nature Communications",
+      "authors": "Banerjee D, Simon CM, Plonka AM, Motkuri RK, Liu J, Chen X, Smit B, Parise JB, Haranczyk M, Thallapally PK.",
+      "abstract": "Nuclear energy is among the most viable alternatives to our current fossil fuel-based energy economy. The mass deployment of nuclear energy as a low-emissions source requires the reprocessing of used nuclear fuel to recover fissile materials and mitigate radioactive waste. A major concern with reprocessing used nuclear fuel is the release of volatile radionuclides such as xenon and krypton that evolve into reprocessing facility off-gas in parts per million concentrations. The existing technology to remove these radioactive noble gases is a costly cryogenic distillation; alternatively, porous materials such as metal-organic frameworks have demonstrated the ability to selectively adsorb xenon and krypton at ambient conditions. Here we carry out a high-throughput computational screening of large databases of metal-organic frameworks and identify SBMOF-1 as the most selective for xenon. We affirm this prediction and report that SBMOF-1 exhibits by far the highest reported xenon adsorption capacity and a remarkable Xe/Kr selectivity under conditions pertinent to nuclear fuel reprocessing.",
+      "cited_by_europe_pmc": 186,
+      "publication_types": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "https://creativecommons.org/licenses/by/4.0/ This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/",
+      "files": [
+        {
+          "file": "MOF/07_Metal-organic-framework-with-optimally-selective-xenon-adsorption-and-separation.pdf",
+          "format": "pdf",
+          "bytes": 1257458,
+          "sha256": "325583eee2ba2c6353410796f9f8db93ab9c97fa1906ea53535001e6438c8199",
+          "source_url": "https://www.nature.com/articles/ncomms11831.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 7,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 1.0,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Results",
+          "Discussion",
+          "Methods",
+          "Additional information",
+          "Supplementary Material"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/ncomms11831",
+        "journal": "Nature Communications",
+        "title": "Metal–organic framework with optimally selective xenon adsorption and separation",
+        "type": "journal-article",
+        "published": [
+          [
+            2016,
+            6,
+            13
+          ]
+        ],
+        "url": "https://doi.org/10.1038/ncomms11831",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Combined screening and experiments for xenon separation"
+    },
+    {
+      "field": "MOF",
+      "number": 8,
+      "title": "A metal-organic framework with ultrahigh glass-forming ability",
+      "doi": "10.1126/sciadv.aao6827",
+      "pmcid": "PMC5844704",
+      "year": 2018,
+      "journal": "Science Advances",
+      "authors": "Qiao A, Bennett TD, Tao H, Krajnc A, Mali G, Doherty CM, Thornton AW, Mauro JC, Greaves GN, Yue Y.",
+      "abstract": "Glass-forming ability (GFA) is the ability of a liquid to avoid crystallization during cooling. Metal-organic frameworks (MOFs) are a new class of glass formers ( 1 - 3 ), with hitherto unknown dynamic and thermodynamic properties. We report the discovery of a new series of tetrahedral glass systems, zeolitic imidazolate framework-62 (ZIF-62) [Zn(Im 2- x   bIm   x   )], which have ultrahigh GFA, superior to any other known glass formers. This ultrahigh GFA is evidenced by a high viscosity η (10 5  Pa·s) at the melting temperature  T  m , a large crystal-glass network density deficit (Δρ/ρ g ) network , no crystallization in supercooled region on laboratory time scales, a low fragility ( m  = 23), an extremely high Poisson's ratio (ν = 0.45), and the highest  T  g / T  m  ratio (0.84) ever reported.  T  m  and  T  g  both increase with benzimidazolate (bIm) content but retain the same ultrahigh  T  g / T  m  ratio, owing to high steric hindrance and frustrated network dynamics and also to the unusually low enthalpy and entropy typical of the soft and flexible nature of MOFs. On the basis of these versatile properties, we explain the exceptional GFA of the ZIF-62 system.",
+      "cited_by_europe_pmc": 166,
+      "publication_types": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/"
+      ],
+      "license_text": "This is an open-access article distributed under the terms of the  Creative Commons Attribution-NonCommercial license , which permits use, distribution, and reproduction in any medium, so long as the resultant use is  not  for commercial advantage and provided the original work is properly cited.",
+      "files": [
+        {
+          "file": "MOF/08_A-metal-organic-framework-with-ultrahigh-glass-forming-ability.pdf",
+          "format": "pdf",
+          "bytes": 559577,
+          "sha256": "c414d534f60006064db3a8179e29e40cc07f3e10193d37b8b8dd9ff64fa198a2",
+          "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5844704.1/PMC5844704.1.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 7,
+        "pdf_doi_on_first_two_pages": false,
+        "pdf_title_word_overlap": 1.0,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Science Advances",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "INTRODUCTION",
+          "RESULTS",
+          "DISCUSSION",
+          "MATERIALS AND METHODS",
+          "Supplementary Material",
+          "Acknowledgments",
+          "SUPPLEMENTARY MATERIALS",
+          "REFERENCES AND NOTES",
+          "Associated Data"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1126/sciadv.aao6827",
+        "journal": "Science Advances",
+        "title": "A metal-organic framework with ultrahigh glass-forming ability",
+        "type": "journal-article",
+        "published": [
+          [
+            2018,
+            3,
+            2
+          ]
+        ],
+        "url": "https://doi.org/10.1126/sciadv.aao6827",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Discovery and characterization of ultrahigh glass-forming ability"
+    },
+    {
+      "field": "MOF",
+      "number": 9,
+      "title": "Carbon dioxide capture and conversion by an acid-base resistant metal-organic framework",
+      "doi": "10.1038/s41467-017-01166-3",
+      "pmcid": "PMC5663901",
+      "year": 2017,
+      "journal": "Nature Communications",
+      "authors": "Liang L, Liu C, Jiang F, Chen Q, Zhang L, Xue H, Jiang HL, Qian J, Yuan D, Hong M.",
+      "abstract": "Considering the rapid increase of CO 2  emission, especially from power plants, there is a constant need for materials which can effectively eliminate post-combustion CO 2  (the main component: CO 2 /N 2  = 15/85). Here, we show the design and synthesis of a Cu(II) metal-organic framework (FJI-H14) with a high density of active sites, which displays unusual acid and base stability and high volumetric uptake (171 cm 3  cm -3 ) of CO 2  under ambient conditions (298 K, 1 atm), making it a potential adsorbing agent for post-combustion CO 2 . Moreover, CO 2  from simulated post-combustion flue gas can be smoothly converted into corresponding cyclic carbonates by the FJI-H14 catalyst. Such high CO 2  adsorption capacity and moderate catalytic activity may result from the synergistic effect of multiple active sites.",
+      "cited_by_europe_pmc": 141,
+      "publication_types": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/ .",
+      "files": [
+        {
+          "file": "MOF/09_Carbon-dioxide-capture-and-conversion-by-an-acid-base-resistant-metal-organic-framework.pdf",
+          "format": "pdf",
+          "bytes": 1891972,
+          "sha256": "a89cb19da42e4392942d20b33d5f321affc0e648f52761755ead9c7ee660623c",
+          "source_url": "https://www.nature.com/articles/s41467-017-01166-3.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 10,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 1.0,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Introduction",
+          "Results",
+          "Discussion",
+          "Methods",
+          "Electronic supplementary material",
+          "Acknowledgements",
+          "Author contributions",
+          "Footnotes",
+          "Contributor Information",
+          "References",
+          "Associated Data"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/s41467-017-01166-3",
+        "journal": "Nature Communications",
+        "title": "Carbon dioxide capture and conversion by an acid-base resistant metal-organic framework",
+        "type": "journal-article",
+        "published": [
+          [
+            2017,
+            11,
+            1
+          ]
+        ],
+        "url": "https://doi.org/10.1038/s41467-017-01166-3",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "CO2 capture and catalytic conversion in a stable MOF"
+    },
+    {
+      "field": "MOF",
+      "number": 10,
+      "title": "Metal-organic framework glasses with permanent accessible porosity",
+      "doi": "10.1038/s41467-018-07532-z",
+      "pmcid": "PMC6262007",
+      "year": 2018,
+      "journal": "Nature Communications",
+      "authors": "Zhou C, Longley L, Krajnc A, Smales GJ, Qiao A, Erucar I, Doherty CM, Thornton AW, Hill AJ, Ashling CW, Qazvini OT, Lee SJ, Chater PA, Terrill NJ, Smith AJ, Yue Y, Mali G, Keen DA, Telfer SG, Bennett TD.",
+      "abstract": "To date, only several microporous, and even fewer nanoporous, glasses have been produced, always via post synthesis acid treatment of phase separated dense materials, e.g. Vycor glass. In contrast, high internal surface areas are readily achieved in crystalline materials, such as metal-organic frameworks (MOFs). It has recently been discovered that a new family of melt quenched glasses can be produced from MOFs, though they have thus far lacked the accessible and intrinsic porosity of their crystalline precursors. Here, we report the first glasses that are permanently and reversibly porous toward incoming gases, without post-synthetic treatment. We characterize the structure of these glasses using a range of experimental techniques, and demonstrate pores in the range of 4 - 8 Å. The discovery of MOF glasses with permanent accessible porosity reveals a new category of porous glass materials that are elevated beyond conventional inorganic and organic porous glasses by their diversity and tunability.",
+      "cited_by_europe_pmc": 115,
+      "publication_types": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/ .",
+      "files": [
+        {
+          "file": "MOF/10_Metal-organic-framework-glasses-with-permanent-accessible-porosity.pdf",
+          "format": "pdf",
+          "bytes": 1867425,
+          "sha256": "30fab6bc9e39b34cd747b4273929e36c4c30344500584156a2bd243478f96d7e",
+          "source_url": "https://www.nature.com/articles/s41467-018-07532-z.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 9,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 1.0,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Introduction",
+          "Results",
+          "Discussion",
+          "Methods",
+          "Electronic supplementary material",
+          "Acknowledgements",
+          "Author contributions",
+          "Data availability",
+          "Competing interests",
+          "Footnotes",
+          "Contributor Information",
+          "Electronic supplementary material",
+          "References",
+          "Associated Data"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/s41467-018-07532-z",
+        "journal": "Nature Communications",
+        "title": "Metal-organic framework glasses with permanent accessible porosity",
+        "type": "journal-article",
+        "published": [
+          [
+            2018,
+            11,
+            28
+          ]
+        ],
+        "url": "https://doi.org/10.1038/s41467-018-07532-z",
+        "update_to": [],
+        "relation": {
+          "has-preprint": [
+            {
+              "id-type": "doi",
+              "id": "10.26434/chemrxiv.6723473.v1",
+              "asserted-by": "object"
+            }
+          ]
+        }
+      },
+      "research_focus": "Permanent gas-accessible porosity in MOF glasses"
+    },
+    {
+      "field": "FET",
+      "number": 1,
+      "title": "Lead iodide perovskite light-emitting field-effect transistor",
+      "doi": "10.1038/ncomms8383",
+      "pmcid": "PMC4491174",
+      "year": 2015,
+      "journal": "Nature Communications",
+      "authors": "Chin XY, Cortecchia D, Yin J, Bruno A, Soci C.",
+      "abstract": "Despite the widespread use of solution-processable hybrid organic-inorganic perovskites in photovoltaic and light-emitting applications, determination of their intrinsic charge transport parameters has been elusive due to the variability of film preparation and history-dependent device performance. Here we show that screening effects associated to ionic transport can be effectively eliminated by lowering the operating temperature of methylammonium lead iodide perovskite (CH3NH3PbI3) field-effect transistors. Field-effect carrier mobility is found to increase by almost two orders of magnitude below 200 K, consistent with phonon scattering-limited transport. Under balanced ambipolar carrier injection, gate-dependent electroluminescence is also observed from the transistor channel, with spectra revealing the tetragonal to orthorhombic phase transition. This demonstration of CH3NH3PbI3 light-emitting field-effect transistors provides intrinsic transport parameters to guide materials and solar cell optimization, and will drive the development of new electro-optic device concepts, such as gated light-emitting diodes and lasers operating at room temperature.",
+      "cited_by_europe_pmc": 245,
+      "publication_types": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/",
+      "files": [
+        {
+          "file": "FET/01_Lead-iodide-perovskite-light-emitting-field-effect-transistor.pdf",
+          "format": "pdf",
+          "bytes": 1431053,
+          "sha256": "b55f428cc72bb09436644be1181ea913ead5098ea9894acc5d1218e78e784e47",
+          "source_url": "https://www.nature.com/articles/ncomms8383.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 9,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 1.0,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Results",
+          "Methods",
+          "Additional information",
+          "Supplementary Material",
+          "Acknowledgments",
+          "Footnotes",
+          "References",
+          "Associated Data"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/ncomms8383",
+        "journal": "Nature Communications",
+        "title": "Lead iodide perovskite light-emitting field-effect transistor",
+        "type": "journal-article",
+        "published": [
+          [
+            2015,
+            6,
+            25
+          ]
+        ],
+        "url": "https://doi.org/10.1038/ncomms8383",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Perovskite charge transport and light-emitting transistors"
+    },
+    {
+      "field": "FET",
+      "number": 2,
+      "title": "Wearable aptamer-field-effect transistor sensing system for noninvasive cortisol monitoring",
+      "doi": "10.1126/sciadv.abk0967",
+      "pmcid": "PMC8730602",
+      "year": 2022,
+      "journal": "Science Advances",
+      "authors": "Wang B, Zhao C, Wang Z, Yang KA, Cheng X, Liu W, Yu W, Lin S, Zhao Y, Cheung KM, Lin H, Hojaiji H, Weiss PS, Stojanović MN, Tomiyama AJ, Andrews AM, Emaminejad S.",
+      "abstract": "Wearable technologies for personalized monitoring require sensors that track biomarkers often present at low levels. Cortisol—a key stress biomarker—is present in sweat at low nanomolar concentrations. Previous wearable sensing systems are limited to analytes in the micromolar-millimolar ranges. To overcome this and other limitations, we developed a flexible field-effect transistor (FET) biosensor array that exploits a previously unreported cortisol aptamer coupled to nanometer-thin-film In 2 O 3  FETs. Cortisol levels were determined via molecular recognition by aptamers where binding was transduced to electrical signals on FETs. The physiological relevance of cortisol as a stress biomarker was demonstrated by tracking salivary cortisol levels in participants in a Trier Social Stress Test and establishing correlations between cortisol in diurnal saliva and sweat samples. These correlations motivated the development and on-body validation of an aptamer-FET array–based smartwatch equipped with a custom, multichannel, self-referencing, and autonomous source measurement unit enabling seamless, real-time cortisol sweat sensing.",
+      "cited_by_europe_pmc": 224,
+      "publication_types": [
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "https://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "This is an open-access article distributed under the terms of the  Creative Commons Attribution license , which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+      "files": [
+        {
+          "file": "FET/02_Wearable-aptamer-field-effect-transistor-sensing-system-for-noninvasive-cortisol-monitoring.pdf",
+          "format": "pdf",
+          "bytes": 6952958,
+          "sha256": "379034f6d0e0dfed1b5b438a8bf159ed1286408bdc80d0a9c3020a2ca8cfd414",
+          "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8730602.1/PMC8730602.1.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 15,
+        "pdf_doi_on_first_two_pages": false,
+        "pdf_title_word_overlap": 1.0,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Science Advances",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "INTRODUCTION",
+          "RESULTS",
+          "DISCUSSION",
+          "METHODS",
+          "Acknowledgments",
+          "Supplementary Materials",
+          "REFERENCES AND NOTES",
+          "Associated Data"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1126/sciadv.abk0967",
+        "journal": "Science Advances",
+        "title": "Wearable aptamer-field-effect transistor sensing system for noninvasive cortisol monitoring",
+        "type": "journal-article",
+        "published": [
+          [
+            2022,
+            1,
+            7
+          ]
+        ],
+        "url": "https://doi.org/10.1126/sciadv.abk0967",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Integrated wearable aptamer-FET cortisol detection"
+    },
+    {
+      "field": "FET",
+      "number": 3,
+      "title": "Implantable aptamer-field-effect transistor neuroprobes for in vivo neurotransmitter monitoring",
+      "doi": "10.1126/sciadv.abj7422",
+      "pmcid": "PMC8612678",
+      "year": 2021,
+      "journal": "Science Advances",
+      "authors": "Zhao C, Cheung KM, Huang IW, Yang H, Nakatsuka N, Liu W, Cao Y, Man T, Weiss PS, Monbouquette HG, Andrews AM.",
+      "abstract": "While tools for monitoring in vivo electrophysiology have been extensively developed, neurochemical recording technologies remain limited. Nevertheless, chemical communication via neurotransmitters plays central roles in brain information processing. We developed implantable aptamer–field-effect transistor (FET) neuroprobes for monitoring neurotransmitters. Neuroprobes were fabricated using high-throughput microelectromechanical system (MEMS) technologies, where 150 probes with shanks of either 150- or 50-μm widths and thicknesses were fabricated on 4-inch Si wafers. Nanoscale FETs with ultrathin (~3 to 4 nm) In 2 O 3  semiconductor films were prepared using sol-gel processing. The In 2 O 3  surfaces were coupled with synthetic oligonucleotide receptors (aptamers) to recognize and to detect the neurotransmitter serotonin. Aptamer-FET neuroprobes enabled femtomolar serotonin detection limits in brain tissue with minimal biofouling. Stimulated serotonin release was detected in vivo. This study opens opportunities for integrated neural activity recordings at high spatiotemporal resolution by combining these aptamer-FET sensors with other types of Si-based implantable probes to advance our understanding of brain function.",
+      "cited_by_europe_pmc": 109,
+      "publication_types": [
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "https://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the  Creative Commons Attribution license , which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+      "files": [
+        {
+          "file": "FET/03_Implantable-aptamer-field-effect-transistor-neuroprobes-for-in-vivo-neurotransmitter-monitoring.pdf",
+          "format": "pdf",
+          "bytes": 3281731,
+          "sha256": "f1dd58a6d48e5dd51606228addcc3e994e2841bcd6b619a8c21a0cce58bcc2d5",
+          "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8612678.1/PMC8612678.1.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 10,
+        "pdf_doi_on_first_two_pages": false,
+        "pdf_title_word_overlap": 1.0,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Science Advances",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "INTRODUCTION",
+          "RESULTS",
+          "DISCUSSION",
+          "MATERIALS AND METHODS"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1126/sciadv.abj7422",
+        "journal": "Science Advances",
+        "title": "Implantable aptamer–field-effect transistor neuroprobes for in vivo neurotransmitter monitoring",
+        "type": "journal-article",
+        "published": [
+          [
+            2021,
+            11,
+            26
+          ]
+        ],
+        "url": "https://doi.org/10.1126/sciadv.abj7422",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Implantable FET neuroprobes and in vivo serotonin detection"
+    },
+    {
+      "field": "FET",
+      "number": 4,
+      "title": "Nanopore extended field-effect transistor for selective single-molecule biosensing",
+      "doi": "10.1038/s41467-017-00549-w",
+      "pmcid": "PMC5605549",
+      "year": 2017,
+      "journal": "Nature Communications",
+      "authors": "Ren R, Zhang Y, Nadappuram BP, Akpinar B, Klenerman D, Ivanov AP, Edel JB, Korchev Y.",
+      "abstract": "There has been a significant drive to deliver nanotechnological solutions to biosensing, yet there remains an unmet need in the development of biosensors that are affordable, integrated, fast, capable of multiplexed detection, and offer high selectivity for trace analyte detection in biological fluids. Herein, some of these challenges are addressed by designing a new class of nanoscale sensors dubbed nanopore extended field-effect transistor (nexFET) that combine the advantages of nanopore single-molecule sensing, field-effect transistors, and recognition chemistry. We report on a polypyrrole functionalized nexFET, with controllable gate voltage that can be used to switch on/off, and slow down single-molecule DNA transport through a nanopore. This strategy enables higher molecular throughput, enhanced signal-to-noise, and even heightened selectivity via functionalization with an embedded receptor. This is shown for selective sensing of an anti-insulin antibody in the presence of its IgG isotype.Efficient detection of single molecules is vital to many biosensing technologies, which require analytical platforms with high selectivity and sensitivity. Ren et al. combine a nanopore sensor and a field-effect transistor, whereby gate voltage mediates DNA and protein transport through the nanopore.",
+      "cited_by_europe_pmc": 89,
+      "publication_types": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Evaluation Study",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "https://creativecommons.org/licenses/by/4.0/ \n Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/ .",
+      "files": [
+        {
+          "file": "FET/04_Nanopore-extended-field-effect-transistor-for-selective-single-molecule-biosensing.pdf",
+          "format": "pdf",
+          "bytes": 3354550,
+          "sha256": "0842756bab666f812ba08a50cd835dda5f931bd19b111045c6c40e713653288a",
+          "source_url": "https://www.nature.com/articles/s41467-017-00549-w.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 9,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 1.0,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Introduction",
+          "Results",
+          "Discussion",
+          "Methods",
+          "Electronic supplementary material"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/s41467-017-00549-w",
+        "journal": "Nature Communications",
+        "title": "Nanopore extended field-effect transistor for selective single-molecule biosensing",
+        "type": "journal-article",
+        "published": [
+          [
+            2017,
+            9,
+            19
+          ]
+        ],
+        "url": "https://doi.org/10.1038/s41467-017-00549-w",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Nanopore-gated single-molecule transistor sensing"
+    },
+    {
+      "field": "FET",
+      "number": 5,
+      "title": "Selective ion sensing with high resolution large area graphene field effect transistor arrays",
+      "doi": "10.1038/s41467-020-16979-y",
+      "pmcid": "PMC7320191",
+      "year": 2020,
+      "journal": "Nature Communications",
+      "authors": "Fakih I, Durnan O, Mahvash F, Napal I, Centeno A, Zurutuza A, Yargeau V, Szkopek T.",
+      "abstract": "Real-time, high resolution, simultaneous measurement of multiple ionic species is challenging with existing chromatographic, spectrophotometric and potentiometric techniques. Potentiometric ion sensors exhibit limitations in both resolution and selectivity. Herein, we develop wafer scale graphene transistor technology for overcoming these limitations. Large area graphene is an ideal material for high resolution ion sensitive field effect transistors (ISFETs), while simultaneously enabling facile fabrication as compared to conventional semiconductors. We develop the ISFETs into an array and apply Nikolskii-Eisenman analysis to account for cross-sensitivity and thereby achieve high selectivity. We experimentally demonstrate real-time, simultaneous concentration measurement of K + , Na + , [Formula: see text], [Formula: see text], [Formula: see text], [Formula: see text] and Cl -  with a resolution of [Formula: see text] concentration units. The array achieves an accuracy of  ±0.05 log concentration. Finally, we demonstrate real-time ion concentration measurement in an aquarium with lemnoideae lemna over three weeks, where mineral uptake by aquatic organisms can be observed during their growth.",
+      "cited_by_europe_pmc": 72,
+      "publication_types": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/ .",
+      "files": [
+        {
+          "file": "FET/05_Selective-ion-sensing-with-high-resolution-large-area-graphene-field-effect-transistor-arrays.pdf",
+          "format": "pdf",
+          "bytes": 1950092,
+          "sha256": "e36c7fd7a00513620fd3b7c3fafba8ca1b5f5534469dc238b1d058afd0753d19",
+          "source_url": "https://www.nature.com/articles/s41467-020-16979-y.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 12,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 0.917,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Introduction",
+          "Results",
+          "Discussion",
+          "Methods",
+          "Supplementary information",
+          "Acknowledgements",
+          "Author contributions",
+          "Data availability",
+          "Code availability",
+          "Competing interests",
+          "Footnotes",
+          "Contributor Information",
+          "Supplementary information",
+          "References",
+          "Associated Data"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/s41467-020-16979-y",
+        "journal": "Nature Communications",
+        "title": "Selective ion sensing with high resolution large area graphene field effect transistor arrays",
+        "type": "journal-article",
+        "published": [
+          [
+            2020,
+            6,
+            26
+          ]
+        ],
+        "url": "https://doi.org/10.1038/s41467-020-16979-y",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Graphene transistor arrays for selective ion sensing"
+    },
+    {
+      "field": "FET",
+      "number": 6,
+      "title": "Hydrogenated monolayer graphene with reversible and tunable wide band gap and its field-effect transistor",
+      "doi": "10.1038/ncomms13261",
+      "pmcid": "PMC5109464",
+      "year": 2016,
+      "journal": "Nature Communications",
+      "authors": "Son J, Lee S, Kim SJ, Park BC, Lee HK, Kim S, Kim JH, Hong BH, Hong J.",
+      "abstract": "Graphene is currently at the forefront of cutting-edge science and technology due to exceptional electronic, optical, mechanical, and thermal properties. However, the absence of a sizeable band gap in graphene has been a major obstacle for application. To open and control a band gap in functionalized graphene, several gapping strategies have been developed. In particular, hydrogen plasma treatment has triggered a great scientific interest, because it has been known to be an efficient way to modify the surface of single-layered graphene and to apply for standard wafer-scale fabrication. Here we show a monolayer chemical-vapour-deposited graphene hydrogenated by indirect hydrogen plasma without structural defect and we demonstrate that a band gap can be tuned as wide as 3.9 eV by varying hydrogen coverage. We also show a hydrogenated graphene field-effect transistor, showing that on/off ratio changes over three orders of magnitude at room temperature.",
+      "cited_by_europe_pmc": 58,
+      "publication_types": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/",
+      "files": [
+        {
+          "file": "FET/06_Hydrogenated-monolayer-graphene-with-reversible-and-tunable-wide-band-gap-and-its-field-effect-transistor.pdf",
+          "format": "pdf",
+          "bytes": 1166192,
+          "sha256": "6dcf558d6b5a91fa292e90dab4c117c524fffeaed50428e5b13a6eca3fc23a22",
+          "source_url": "https://www.nature.com/articles/ncomms13261.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 7,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 0.909,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Results",
+          "Methods",
+          "Additional information",
+          "Supplementary Material",
+          "Acknowledgments",
+          "Footnotes",
+          "References",
+          "Associated Data"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/ncomms13261",
+        "journal": "Nature Communications",
+        "title": "Hydrogenated monolayer graphene with reversible and tunable wide band gap and its field-effect transistor",
+        "type": "journal-article",
+        "published": [
+          [
+            2016,
+            11,
+            10
+          ]
+        ],
+        "url": "https://doi.org/10.1038/ncomms13261",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Bandgap engineering and transistor switching in graphene"
+    },
+    {
+      "field": "FET",
+      "number": 7,
+      "title": "Contact-engineered reconfigurable two-dimensional Schottky junction field-effect transistor with low leakage currents",
+      "doi": "10.1038/s41467-023-39705-w",
+      "pmcid": "PMC10352327",
+      "year": 2023,
+      "journal": "Nature Communications",
+      "authors": "Zhou Y, Tong L, Chen Z, Tao L, Pang Y, Xu JB.",
+      "abstract": "Two-dimensional (2D) materials have been considered promising candidates for future low power-dissipation and reconfigurable integrated circuit applications. However, 2D transistors with intrinsic ambipolar transport polarity are usually affected by large off-state leakage currents and small on/off ratios. Here, we report the realization of a reconfigurable Schottky junction field-effect transistor (SJFET) in an asymmetric van der Waals contact geometry, showing a balanced and switchable n- and p-unipolarity with the I ds  on/off ratio kept >10 6 . Meanwhile, the static leakage power consumption was suppressed to 10 -5  nW. The SJFET worked as a reversible Schottky rectifier with an ideality factor of ~1.0 and a tuned rectifying ratio from 3 × 10 6  to 2.5 × 10 -6 . This empowered the SJFET with a reconfigurable photovoltaic performance in which the sign of the open-circuit voltage and photo-responsivity were substantially switched. This polarity-reversible SJFET paves an alternative way to develop reconfigurable 2D devices for low-power-consumption photovoltaic logic circuits.",
+      "cited_by_europe_pmc": 30,
+      "publication_types": [
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "https://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/ .",
+      "files": [
+        {
+          "file": "FET/07_Contact-engineered-reconfigurable-two-dimensional-Schottky-junction-field-effect-transistor-with-low-leak.pdf",
+          "format": "pdf",
+          "bytes": 3430659,
+          "sha256": "95112b10287b3cbcbdec51c81cfaaa264ff99501a543959b1f8112eaacc006d4",
+          "source_url": "https://www.nature.com/articles/s41467-023-39705-w.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 10,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 0.833,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Introduction",
+          "Results and discusssion",
+          "Conclusions",
+          "Methods",
+          "Supplementary information",
+          "Acknowledgements",
+          "Author contributions",
+          "Peer review",
+          "Data availability",
+          "Code availability",
+          "Competing interests",
+          "Footnotes",
+          "Supplementary information",
+          "References",
+          "Associated Data"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/s41467-023-39705-w",
+        "journal": "Nature Communications",
+        "title": "Contact-engineered reconfigurable two-dimensional Schottky junction field-effect transistor with low leakage currents",
+        "type": "journal-article",
+        "published": [
+          [
+            2023,
+            7,
+            17
+          ]
+        ],
+        "url": "https://doi.org/10.1038/s41467-023-39705-w",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Contact engineering for reconfigurable low-leakage transistors"
+    },
+    {
+      "field": "FET",
+      "number": 8,
+      "title": "A steep switching WSe2 impact ionization field-effect transistor",
+      "doi": "10.1038/s41467-022-33770-3",
+      "pmcid": "PMC9568662",
+      "year": 2022,
+      "journal": "Nature Communications",
+      "authors": "Choi H, Li J, Kang T, Kang C, Son H, Jeon J, Hwang E, Lee S, Lee S.",
+      "abstract": "The Fermi-Dirac distribution of carriers and the drift-diffusion mode of transport represent two fundamental barriers towards the reduction of the subthreshold slope (SS) and the optimization of the energy consumption of field-effect transistors. In this study, we report the realization of steep-slope impact ionization field-effect transistors (I 2 FETs) based on a gate-controlled homogeneous WSe 2  lateral junction. The devices showed average SS down to 2.73 mV/dec over three decades of source-drain current and an on/off ratio of ~10 6  at room temperature and low bias voltages ( 2 , allowing our I 2 FETs to have high impact ionization coefficients and low SS at room temperature. Moreover, we fabricated a logic inverter based on a WSe 2  I 2 FET and a MoS 2  FET, exhibiting an inverter gain of 73 and almost ideal noise margin for high- and low-logic states. Our results provide a promising approach for developing functional devices as front runners for energy-efficient electronic device technology.",
+      "cited_by_europe_pmc": 24,
+      "publication_types": [
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "https://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/ .",
+      "files": [
+        {
+          "file": "FET/08_A-steep-switching-WSe2-impact-ionization-field-effect-transistor.pdf",
+          "format": "pdf",
+          "bytes": 1556261,
+          "sha256": "67a7b553c09187485d698d3e4c111104916544171b42d332f32cb5482b7236fe",
+          "source_url": "https://www.nature.com/articles/s41467-022-33770-3.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 9,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 0.857,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Introduction",
+          "Results and discussions",
+          "Methods",
+          "Supplementary information",
+          "Acknowledgements",
+          "Author contributions",
+          "Peer review",
+          "Data availability",
+          "Code availability",
+          "Competing interests",
+          "Inclusion & Ethics",
+          "Footnotes",
+          "Contributor Information",
+          "Supplementary information",
+          "References",
+          "Associated Data"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/s41467-022-33770-3",
+        "journal": "Nature Communications",
+        "title": "A steep switching WSe2 impact ionization field-effect transistor",
+        "type": "journal-article",
+        "published": [
+          [
+            2022,
+            10,
+            14
+          ]
+        ],
+        "url": "https://doi.org/10.1038/s41467-022-33770-3",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Impact-ionization switching beyond thermal limits"
+    },
+    {
+      "field": "FET",
+      "number": 9,
+      "title": "Impact ionization by hot carriers in a black phosphorus field effect transistor",
+      "doi": "10.1038/s41467-018-05981-0",
+      "pmcid": "PMC6109174",
+      "year": 2018,
+      "journal": "Nature Communications",
+      "authors": "Ahmed F, Kim YD, Yang Z, He P, Hwang E, Yang H, Hone J, Yoo WJ.",
+      "abstract": "The strong Coulombic interactions in miniaturized structures can lead to efficient carrier multiplication, which is essential for many-body physics and design of efficient photonic devices beyond thermodynamic conversion limits. However, carrier multiplication has rarely been realized in layered semiconducting materials despite strong electronic interactions. Here, we report the experimental observation of unusual carrier multiplication in a multilayer black phosphorus device. Electric field-dependent Hall measurements confirm a substantial increase of carrier density in multilayer black phosphorus channel, which is attributed to the impact ionization by energetic carriers. This mechanism relies on the generation of self-heating induced charge carriers under the large electric field due to competition between electron-electron and electron-phonon interactions in the direct and narrow band gap (0.3 eV) of the multilayer black phosphorus. These findings point the way toward utilization of carrier multiplication to enhance the performance of electronics and optoelectronics devices based on two-dimensional materials.",
+      "cited_by_europe_pmc": 24,
+      "publication_types": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "https://creativecommons.org/licenses/by/4.0/ Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/ .",
+      "files": [
+        {
+          "file": "FET/09_Impact-ionization-by-hot-carriers-in-a-black-phosphorus-field-effect-transistor.pdf",
+          "format": "pdf",
+          "bytes": 1054828,
+          "sha256": "f8626acd79a93c9a2d31c8185f0cf069d61c81ac6c3dd077d54e76095d82b993",
+          "source_url": "https://www.nature.com/articles/s41467-018-05981-0.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 7,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 0.875,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Introduction",
+          "Results",
+          "Discussion",
+          "Methods",
+          "Electronic supplementary material"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/s41467-018-05981-0",
+        "journal": "Nature Communications",
+        "title": "Impact ionization by hot carriers in a black phosphorus field effect transistor",
+        "type": "journal-article",
+        "published": [
+          [
+            2018,
+            8,
+            24
+          ]
+        ],
+        "url": "https://doi.org/10.1038/s41467-018-05981-0",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Hot-carrier impact ionization in black phosphorus"
+    },
+    {
+      "field": "FET",
+      "number": 10,
+      "title": "Laterally gated ferroelectric field effect transistor (LG-FeFET) using α-In2Se3 for stacked in-memory computing array",
+      "doi": "10.1038/s41467-023-41991-3",
+      "pmcid": "PMC10600126",
+      "year": 2023,
+      "journal": "Nature Communications",
+      "authors": "Park S, Lee D, Kang J, Choi H, Park JH.",
+      "abstract": "In-memory computing is an attractive alternative for handling data-intensive tasks as it employs parallel processing without the need for data transfer. Nevertheless, it necessitates a high-density memory array to effectively manage large data volumes. Here, we present a stacked ferroelectric memory array comprised of laterally gated ferroelectric field-effect transistors (LG-FeFETs). The interlocking effect of the α-In 2 Se 3  is utilized to regulate the channel conductance. Our study examined the distinctive characteristics of the LG-FeFET, such as a notably wide memory window, effective ferroelectric switching, long retention time (over 3 × 10 4  seconds), and high endurance (over 10 5  cycles). This device is also well-suited for implementing vertically stacked structures because decreasing its height can help mitigate the challenges associated with the integration process. We devised a 3D stacked structure using the LG-FeFET and verified its feasibility by performing multiply-accumulate (MAC) operations in a two-tier stacked memory configuration.",
+      "cited_by_europe_pmc": 19,
+      "publication_types": [
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "https://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "https://creativecommons.org/licenses/by/4.0/ Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ .",
+      "files": [
+        {
+          "file": "FET/10_Laterally-gated-ferroelectric-field-effect-transistor-LG-FeFET-using-In2Se3-for-stacked-in-memory-computi.pdf",
+          "format": "pdf",
+          "bytes": 2894589,
+          "sha256": "6d6ecd413daf11ea290650f155d0bdd1bd7170b2e5d7a5d1fea1f58f56e8985e",
+          "source_url": "https://www.nature.com/articles/s41467-023-41991-3.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 10,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 0.917,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Introduction",
+          "Results",
+          "Discussion",
+          "Methods"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/s41467-023-41991-3",
+        "journal": "Nature Communications",
+        "title": "Laterally gated ferroelectric field effect transistor (LG-FeFET) using α-In2Se3 for stacked in-memory computing array",
+        "type": "journal-article",
+        "published": [
+          [
+            2023,
+            10,
+            25
+          ]
+        ],
+        "url": "https://doi.org/10.1038/s41467-023-41991-3",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Ferroelectric transistors for stacked in-memory computing"
+    },
+    {
+      "field": "electrocatalysis",
+      "number": 1,
+      "title": "Platinum single-atom and cluster catalysis of the hydrogen evolution reaction",
+      "doi": "10.1038/ncomms13638",
+      "pmcid": "PMC5141386",
+      "year": 2016,
+      "journal": "Nature Communications",
+      "authors": "Cheng N, Stambula S, Wang D, Banis MN, Liu J, Riese A, Xiao B, Li R, Sham TK, Liu LM, Botton GA, Sun X.",
+      "abstract": "Platinum-based catalysts have been considered the most effective electrocatalysts for the hydrogen evolution reaction in water splitting. However, platinum utilization in these electrocatalysts is extremely low, as the active sites are only located on the surface of the catalyst particles. Downsizing catalyst nanoparticles to single atoms is highly desirable to maximize their efficiency by utilizing nearly all platinum atoms. Here we report on a practical synthesis method to produce isolated single platinum atoms and clusters using the atomic layer deposition technique. The single platinum atom catalysts are investigated for the hydrogen evolution reaction, where they exhibit significantly enhanced catalytic activity (up to 37 times) and high stability in comparison with the state-of-the-art commercial platinum/carbon catalysts. The X-ray absorption fine structure and density functional theory analyses indicate that the partially unoccupied density of states of the platinum atoms' 5d orbitals on the nitrogen-doped graphene are responsible for the excellent performance.",
+      "cited_by_europe_pmc": 587,
+      "publication_types": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "https://creativecommons.org/licenses/by/4.0/ This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/",
+      "files": [
+        {
+          "file": "electrocatalysis/01_Platinum-single-atom-and-cluster-catalysis-of-the-hydrogen-evolution-reaction.pdf",
+          "format": "pdf",
+          "bytes": 1515718,
+          "sha256": "4d5b865db23ad02ea4f0ebd97ee7e15206003706a383a6ee5839a177c68957ff",
+          "source_url": "https://www.nature.com/articles/ncomms13638.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 9,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 1.0,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Results",
+          "Discussion",
+          "Methods",
+          "Additional information",
+          "Supplementary Material"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/ncomms13638",
+        "journal": "Nature Communications",
+        "title": "Platinum single-atom and cluster catalysis of the hydrogen evolution reaction",
+        "type": "journal-article",
+        "published": [
+          [
+            2016,
+            11,
+            30
+          ]
+        ],
+        "url": "https://doi.org/10.1038/ncomms13638",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Single-atom and cluster platinum hydrogen evolution"
+    },
+    {
+      "field": "electrocatalysis",
+      "number": 2,
+      "title": "Electrodeposition of hierarchically structured three-dimensional nickel-iron electrodes for efficient oxygen evolution at high current densities",
+      "doi": "10.1038/ncomms7616",
+      "pmcid": "PMC4382694",
+      "year": 2015,
+      "journal": "Nature Communications",
+      "authors": "Lu X, Zhao C.",
+      "abstract": "Large-scale industrial application of electrolytic splitting of water has called for the development of oxygen evolution electrodes that are inexpensive, robust and can deliver large current density (>500 mA cm(-2)) at low applied potentials. Here we show that an efficient oxygen electrode can be developed by electrodepositing amorphous mesoporous nickel-iron composite nanosheets directly onto macroporous nickel foam substrates. The as-prepared oxygen electrode exhibits high catalytic activity towards water oxidation in alkaline solutions, which only requires an overpotential of 200 mV to initiate the reaction, and is capable of delivering current densities of 500 and 1,000 mA cm(-2) at overpotentials of 240 and 270 mV, respectively. The electrode also shows prolonged stability against bulk water electrolysis at large current. Collectively, the as-prepared three-dimensional structured electrode is the most efficient oxygen evolution electrode in alkaline electrolytes reported to the best of our knowledge, and can potentially be applied for industrial scale water electrolysis.",
+      "cited_by_europe_pmc": 527,
+      "publication_types": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/",
+      "files": [
+        {
+          "file": "electrocatalysis/02_Electrodeposition-of-hierarchically-structured-three-dimensional-nickel-iron-electrodes-for-efficient-oxy.pdf",
+          "format": "pdf",
+          "bytes": 1199571,
+          "sha256": "7026f284e90e4615d56352b34230e74c06ab396f487839ed3cf887d9323c0dcc",
+          "source_url": "https://www.nature.com/articles/ncomms7616.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 7,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 0.929,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Results",
+          "Discussion",
+          "Methods",
+          "Author contributions",
+          "Additional information",
+          "Supplementary Material",
+          "Acknowledgments",
+          "Footnotes",
+          "References",
+          "Associated Data"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/ncomms7616",
+        "journal": "Nature Communications",
+        "title": "Electrodeposition of hierarchically structured three-dimensional nickel–iron electrodes for efficient oxygen evolution at high current densities",
+        "type": "journal-article",
+        "published": [
+          [
+            2015,
+            3,
+            17
+          ]
+        ],
+        "url": "https://doi.org/10.1038/ncomms7616",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "High-current-density nickel-iron oxygen-evolution electrodes"
+    },
+    {
+      "field": "electrocatalysis",
+      "number": 3,
+      "title": "In-situ structure and catalytic mechanism of NiFe and CoFe layered double hydroxides during oxygen evolution",
+      "doi": "10.1038/s41467-020-16237-1",
+      "pmcid": "PMC7239861",
+      "year": 2020,
+      "journal": "Nature Communications",
+      "authors": "Dionigi F, Zeng Z, Sinev I, Merzdorf T, Deshpande S, Lopez MB, Kunze S, Zegkinoglou I, Sarodnik H, Fan D, Bergmann A, Drnec J, Araujo JF, Gliech M, Teschner D, Zhu J, Li WX, Greeley J, Cuenya BR, Strasser P.",
+      "abstract": "NiFe and CoFe (MFe) layered double hydroxides (LDHs) are among the most active electrocatalysts for the alkaline oxygen evolution reaction (OER). Herein, we combine electrochemical measurements, operando X-ray scattering and absorption spectroscopy, and density functional theory (DFT) calculations to elucidate the catalytically active phase, reaction center and the OER mechanism. We provide the first direct atomic-scale evidence that, under applied anodic potentials, MFe LDHs oxidize from as-prepared α-phases to activated γ-phases. The OER-active γ-phases are characterized by about 8% contraction of the lattice spacing and switching of the intercalated ions. DFT calculations reveal that the OER proceeds via a Mars van Krevelen mechanism. The flexible electronic structure of the surface Fe sites, and their synergy with nearest-neighbor M sites through formation of O-bridged Fe-M reaction centers, stabilize OER intermediates that are unfavorable on pure M-M centers and single Fe sites, fundamentally accounting for the high catalytic activity of MFe LDHs.",
+      "cited_by_europe_pmc": 385,
+      "publication_types": [
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/ .",
+      "files": [
+        {
+          "file": "electrocatalysis/03_In-situ-structure-and-catalytic-mechanism-of-NiFe-and-CoFe-layered-double-hydroxides-during-oxygen-evolut.pdf",
+          "format": "pdf",
+          "bytes": 1955049,
+          "sha256": "92670c6b5f16684d9e85b2ead730549b1295fa216c701d7270c65527826202db",
+          "source_url": "https://www.nature.com/articles/s41467-020-16237-1.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 10,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 1.0,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Introduction",
+          "Results",
+          "Discussion",
+          "Methods",
+          "Supplementary information",
+          "Acknowledgements",
+          "Author contributions",
+          "Data availability.",
+          "Competing interests",
+          "Footnotes",
+          "Contributor Information",
+          "Supplementary information",
+          "References",
+          "Associated Data"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/s41467-020-16237-1",
+        "journal": "Nature Communications",
+        "title": "In-situ structure and catalytic mechanism of NiFe and CoFe layered double hydroxides during oxygen evolution",
+        "type": "journal-article",
+        "published": [
+          [
+            2020,
+            5,
+            20
+          ]
+        ],
+        "url": "https://doi.org/10.1038/s41467-020-16237-1",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Operando structure and reaction mechanisms of NiFe/CoFe catalysts"
+    },
+    {
+      "field": "electrocatalysis",
+      "number": 4,
+      "title": "Water electrolysis on La(1-x)Sr(x)CoO(3-δ) perovskite electrocatalysts",
+      "doi": "10.1038/ncomms11053",
+      "pmcid": "PMC4814573",
+      "year": 2016,
+      "journal": "Nature Communications",
+      "authors": "Mefford JT, Rong X, Abakumov AM, Hardin WG, Dai S, Kolpak AM, Johnston KP, Stevenson KJ.",
+      "abstract": "Perovskite oxides are attractive candidates as catalysts for the electrolysis of water in alkaline energy storage and conversion systems. However, the rational design of active catalysts has been hampered by the lack of understanding of the mechanism of water electrolysis on perovskite surfaces. Key parameters that have been overlooked include the role of oxygen vacancies, B-O bond covalency, and redox activity of lattice oxygen species. Here we present a series of cobaltite perovskites where the covalency of the Co-O bond and the concentration of oxygen vacancies are controlled through Sr(2+) substitution into La(1-x)Sr(x)CoO(3-δ) . We attempt to rationalize the high activities of La(1-x)Sr(x)CoO(3-δ) through the electronic structure and participation of lattice oxygen in the mechanism of water electrolysis as revealed through ab initio modelling. Using this approach, we report a material, SrCoO2.7, with a high, room temperature-specific activity and mass activity towards alkaline water electrolysis.",
+      "cited_by_europe_pmc": 377,
+      "publication_types": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/",
+      "files": [
+        {
+          "file": "electrocatalysis/04_Water-electrolysis-on-La-1-x-Sr-x-CoO-3-perovskite-electrocatalysts.pdf",
+          "format": "pdf",
+          "bytes": 2360319,
+          "sha256": "3608ad8bdf12cc49682396770e85f31ef1ba8262e1a515177281a65306e242bd",
+          "source_url": "https://www.nature.com/articles/ncomms11053.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 11,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 1.0,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Results",
+          "Discussion",
+          "Methods",
+          "Additional information",
+          "Supplementary Material",
+          "Acknowledgments",
+          "Footnotes",
+          "References",
+          "Associated Data"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/ncomms11053",
+        "journal": "Nature Communications",
+        "title": "Water electrolysis on La1−xSrxCoO3−δ perovskite electrocatalysts",
+        "type": "journal-article",
+        "published": [
+          [
+            2016,
+            3,
+            23
+          ]
+        ],
+        "url": "https://doi.org/10.1038/ncomms11053",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Perovskite electrocatalyst structure and water electrolysis"
+    },
+    {
+      "field": "electrocatalysis",
+      "number": 5,
+      "title": "Identification of catalytic sites for oxygen reduction and oxygen evolution in N-doped graphene materials: Development of highly efficient metal-free bifunctional electrocatalyst",
+      "doi": "10.1126/sciadv.1501122",
+      "pmcid": "PMC4846433",
+      "year": 2016,
+      "journal": "Science Advances",
+      "authors": "Yang HB, Miao J, Hung SF, Chen J, Tao HB, Wang X, Zhang L, Chen R, Gao J, Chen HM, Dai L, Liu B.",
+      "abstract": "Oxygen reduction reaction (ORR) and oxygen evolution reaction (OER) are critical to renewable energy conversion and storage technologies. Heteroatom-doped carbon nanomaterials have been reported to be efficient metal-free electrocatalysts for ORR in fuel cells for energy conversion, as well as ORR and OER in metal-air batteries for energy storage. We reported that metal-free three-dimensional (3D) graphene nanoribbon networks (N-GRW) doped with nitrogen exhibited superb bifunctional electrocatalytic activities for both ORR and OER, with an excellent stability in alkaline electrolytes (for example, KOH). For the first time, it was experimentally demonstrated that the electron-donating quaternary N sites were responsible for ORR, whereas the electron-withdrawing pyridinic N moieties in N-GRW served as active sites for OER. The unique 3D nanoarchitecture provided a high density of the ORR and OER active sites and facilitated the electrolyte and electron transports. As a result, the as-prepared N-GRW holds great potential as a low-cost, highly efficient air cathode in rechargeable metal-air batteries. Rechargeable zinc-air batteries with the N-GRW air electrode in a two-electrode configuration exhibited an open-circuit voltage of 1.46 V, a specific capacity of 873 mAh g(-1), and a peak power density of 65 mW cm(-2), which could be continuously charged and discharged with an excellent cycling stability. Our work should open up new avenues for the development of various carbon-based metal-free bifunctional electrocatalysts of practical significance.",
+      "cited_by_europe_pmc": 363,
+      "publication_types": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by-nc/4.0/"
+      ],
+      "license_text": "This is an open-access article distributed under the terms of the  Creative Commons Attribution-NonCommercial license , which permits use, distribution, and reproduction in any medium, so long as the resultant use is  not  for commercial advantage and provided the original work is properly cited.",
+      "files": [
+        {
+          "file": "electrocatalysis/05_Identification-of-catalytic-sites-for-oxygen-reduction-and-oxygen-evolution-in-N-doped-graphene-materials.pdf",
+          "format": "pdf",
+          "bytes": 8685180,
+          "sha256": "4eb9f8bc9aee7635b97bf81466aa39b57fd8a0dc067a9bc7c2d609f96533fde6",
+          "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC4846433.1/PMC4846433.1.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 11,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 1.0,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Science Advances",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "INTRODUCTION",
+          "RESULTS",
+          "DISCUSSION",
+          "MATERIALS AND METHODS",
+          "Supplementary Material",
+          "Funding",
+          "SUPPLEMENTARY MATERIALS",
+          "REFERENCES AND NOTES",
+          "Associated Data"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1126/sciadv.1501122",
+        "journal": "Science Advances",
+        "title": "Identification of catalytic sites for oxygen reduction and oxygen evolution in N-doped graphene materials: Development of highly efficient metal-free bifunctional electrocatalyst",
+        "type": "journal-article",
+        "published": [
+          [
+            2016,
+            4
+          ]
+        ],
+        "url": "https://doi.org/10.1126/sciadv.1501122",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Experimental identification of ORR/OER sites in N-doped graphene"
+    },
+    {
+      "field": "electrocatalysis",
+      "number": 6,
+      "title": "Anchoring zero valence single atoms of nickel and iron on graphdiyne for hydrogen evolution",
+      "doi": "10.1038/s41467-018-03896-4",
+      "pmcid": "PMC5899097",
+      "year": 2018,
+      "journal": "Nature Communications",
+      "authors": "Xue Y, Huang B, Yi Y, Guo Y, Zuo Z, Li Y, Jia Z, Liu H, Li Y.",
+      "abstract": "Electrocatalysis by atomic catalysts is a major focus of chemical and energy conversion effort. Although transition-metal-based bulk electrocatalysts for electrochemical application on energy conversion processes have been reported frequently, anchoring the stable transition-metal atoms (e.g. nickel and iron) still remains a practical challenge. Here we report a strategy for fabrication of ACs comprising only isolated nickel/iron atoms anchored on graphdiyne. Our findings identify the very narrow size distributions of both nickel (1.23 Å) and iron (1.02 Å), typical sizes of single-atom nickel and iron. The precision of this method motivates us to develop a general approach in the field of single-atom transition-metal catalysis. Such atomic catalysts have high catalytic activity and stability for hydrogen evolution reactions.",
+      "cited_by_europe_pmc": 332,
+      "publication_types": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "https://creativecommons.org/licenses/by/4.0/ Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/ .",
+      "files": [
+        {
+          "file": "electrocatalysis/06_Anchoring-zero-valence-single-atoms-of-nickel-and-iron-on-graphdiyne-for-hydrogen-evolution.pdf",
+          "format": "pdf",
+          "bytes": 2863216,
+          "sha256": "172d5410208a78df17b0e0e5e8b6b52c9ed81fedcd00197d5e5cb4fa3dfd5ad7",
+          "source_url": "https://www.nature.com/articles/s41467-018-03896-4.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 10,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 1.0,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Introduction",
+          "Results",
+          "Discussion",
+          "Methods",
+          "Electronic supplementary material"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/s41467-018-03896-4",
+        "journal": "Nature Communications",
+        "title": "Anchoring zero valence single atoms of nickel and iron on graphdiyne for hydrogen evolution",
+        "type": "journal-article",
+        "published": [
+          [
+            2018,
+            4,
+            13
+          ]
+        ],
+        "url": "https://doi.org/10.1038/s41467-018-03896-4",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Atomically dispersed Ni/Fe catalysts for hydrogen evolution"
+    },
+    {
+      "field": "electrocatalysis",
+      "number": 7,
+      "title": "Efficient hydrogen production on MoNi4 electrocatalysts with fast water dissociation kinetics",
+      "doi": "10.1038/ncomms15437",
+      "pmcid": "PMC5442356",
+      "year": 2017,
+      "journal": "Nature Communications",
+      "authors": "Zhang J, Wang T, Liu P, Liao Z, Liu S, Zhuang X, Chen M, Chen M, Zschech E, Feng X.",
+      "abstract": "Various platinum-free electrocatalysts have been explored for hydrogen evolution reaction in acidic solutions. However, in economical water-alkali electrolysers, sluggish water dissociation kinetics (Volmer step) on platinum-free electrocatalysts results in poor hydrogen-production activities. Here we report a MoNi 4  electrocatalyst supported by MoO 2  cuboids on nickel foam (MoNi 4 /MoO 2 @Ni), which is constructed by controlling the outward diffusion of nickel atoms on annealing precursor NiMoO 4  cuboids on nickel foam. Experimental and theoretical results confirm that a rapid Tafel-step-decided hydrogen evolution proceeds on MoNi 4  electrocatalyst. As a result, the MoNi 4  electrocatalyst exhibits zero onset overpotential, an overpotential of 15 mV at 10 mA cm -2  and a low Tafel slope of 30 mV per decade in 1 M potassium hydroxide electrolyte, which are comparable to the results for platinum and superior to those for state-of-the-art platinum-free electrocatalysts. Benefiting from its scalable preparation and stability, the MoNi 4  electrocatalyst is promising for practical water-alkali electrolysers.",
+      "cited_by_europe_pmc": 331,
+      "publication_types": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "https://creativecommons.org/licenses/by/4.0/ This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/",
+      "files": [
+        {
+          "file": "electrocatalysis/07_Efficient-hydrogen-production-on-MoNi4-electrocatalysts-with-fast-water-dissociation-kinetics.pdf",
+          "format": "pdf",
+          "bytes": 1894504,
+          "sha256": "bd7912ead087810fe8b1de6c502faf5c66e2b731e54c64a205450c8a1ea6eac5",
+          "source_url": "https://www.nature.com/articles/ncomms15437.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 8,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 0.9,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Results",
+          "Discussion",
+          "Methods",
+          "Additional information",
+          "Supplementary Material"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/ncomms15437",
+        "journal": "Nature Communications",
+        "title": "Efficient hydrogen production on MoNi4 electrocatalysts with fast water dissociation kinetics",
+        "type": "journal-article",
+        "published": [
+          [
+            2017,
+            5,
+            17
+          ]
+        ],
+        "url": "https://doi.org/10.1038/ncomms15437",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Water-dissociation kinetics in alkaline hydrogen evolution"
+    },
+    {
+      "field": "electrocatalysis",
+      "number": 8,
+      "title": "Ultrathin bismuth nanosheets from in situ topotactic transformation for selective electrocatalytic CO2 reduction to formate",
+      "doi": "10.1038/s41467-018-03712-z",
+      "pmcid": "PMC5882965",
+      "year": 2018,
+      "journal": "Nature Communications",
+      "authors": "Han N, Wang Y, Yang H, Deng J, Wu J, Li Y, Li Y.",
+      "abstract": "Electrocatalytic carbon dioxide reduction to formate is desirable but challenging. Current attention is mostly focused on tin-based materials, which, unfortunately, often suffer from limited Faradaic efficiency. The potential of bismuth in carbon dioxide reduction has been suggested but remained understudied. Here, we report that ultrathin bismuth nanosheets are prepared from the in situ topotactic transformation of bismuth oxyiodide nanosheets. They process single crystallinity and enlarged surface areas. Such an advantageous nanostructure affords the material with excellent electrocatalytic performance for carbon dioxide reduction to formate. High selectivity (~100%) and large current density are measured over a broad potential, as well as excellent durability for >10 h. Its selectivity for formate is also understood by density functional theory calculations. In addition, bismuth nanosheets were coupled with an iridium-based oxygen evolution electrocatalyst to achieve efficient full-cell electrolysis. When powered by two AA-size alkaline batteries, the full cell exhibits impressive Faradaic efficiency and electricity-to-formate conversion efficiency.",
+      "cited_by_europe_pmc": 314,
+      "publication_types": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "https://creativecommons.org/licenses/by/4.0/ Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/ .",
+      "files": [
+        {
+          "file": "electrocatalysis/08_Ultrathin-bismuth-nanosheets-from-in-situ-topotactic-transformation-for-selective-electrocatalytic-CO2-re.pdf",
+          "format": "pdf",
+          "bytes": 2864883,
+          "sha256": "922ba0daec5981e1c7bb225249f99ebb3be7df671c5c75f76e1366893a7dc258",
+          "source_url": "https://www.nature.com/articles/s41467-018-03712-z.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 8,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 1.0,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Introduction",
+          "Results",
+          "Discussion",
+          "Methods",
+          "Electronic supplementary material"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/s41467-018-03712-z",
+        "journal": "Nature Communications",
+        "title": "Ultrathin bismuth nanosheets from in situ topotactic transformation for selective electrocatalytic CO2 reduction to formate",
+        "type": "journal-article",
+        "published": [
+          [
+            2018,
+            4,
+            3
+          ]
+        ],
+        "url": "https://doi.org/10.1038/s41467-018-03712-z",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Bismuth nanosheets for selective CO2-to-formate electrocatalysis"
+    },
+    {
+      "field": "electrocatalysis",
+      "number": 9,
+      "title": "Highly selective and active CO2 reduction electrocatalysts based on cobalt phthalocyanine/carbon nanotube hybrid structures",
+      "doi": "10.1038/ncomms14675",
+      "pmcid": "PMC5344970",
+      "year": 2017,
+      "journal": "Nature Communications",
+      "authors": "Zhang X, Wu Z, Zhang X, Li L, Li Y, Xu H, Li X, Yu X, Zhang Z, Liang Y, Wang H.",
+      "abstract": "Electrochemical reduction of carbon dioxide with renewable energy is a sustainable way of producing carbon-neutral fuels. However, developing active, selective and stable electrocatalysts is challenging and entails material structure design and tailoring across a range of length scales. Here we report a cobalt-phthalocyanine-based high-performance carbon dioxide reduction electrocatalyst material developed with a combined nanoscale and molecular approach. On the nanoscale, cobalt phthalocyanine (CoPc) molecules are uniformly anchored on carbon nanotubes to afford substantially increased current density, improved selectivity for carbon monoxide, and enhanced durability. On the molecular level, the catalytic performance is further enhanced by introducing cyano groups to the CoPc molecule. The resulting hybrid catalyst exhibits >95% Faradaic efficiency for carbon monoxide production in a wide potential range and extraordinary catalytic activity with a current density of 15.0 mA cm -2  and a turnover frequency of 4.1 s -1  at the overpotential of 0.52 V in a near-neutral aqueous solution.",
+      "cited_by_europe_pmc": 314,
+      "publication_types": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/",
+      "files": [
+        {
+          "file": "electrocatalysis/09_Highly-selective-and-active-CO2-reduction-electrocatalysts-based-on-cobalt-phthalocyanine-carbon-nanotube.pdf",
+          "format": "pdf",
+          "bytes": 1274120,
+          "sha256": "cdb71dbfca30d847f7164f590e744f471ee673ec44203a5c0dc8722d355c71c5",
+          "source_url": "https://www.nature.com/articles/ncomms14675.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 8,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 1.0,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Results",
+          "Discussion",
+          "Methods",
+          "Additional information",
+          "Supplementary Material",
+          "Acknowledgments",
+          "Footnotes",
+          "References",
+          "Associated Data"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/ncomms14675",
+        "journal": "Nature Communications",
+        "title": "Highly selective and active CO2 reduction electrocatalysts based on cobalt phthalocyanine/carbon nanotube hybrid structures",
+        "type": "journal-article",
+        "published": [
+          [
+            2017,
+            3,
+            8
+          ]
+        ],
+        "url": "https://doi.org/10.1038/ncomms14675",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Molecular/nanostructure design for selective CO2-to-CO conversion"
+    },
+    {
+      "field": "electrocatalysis",
+      "number": 10,
+      "title": "Reversible amorphization and the catalytically active state of crystalline Co3O4 during oxygen evolution",
+      "doi": "10.1038/ncomms9625",
+      "pmcid": "PMC4633955",
+      "year": 2015,
+      "journal": "Nature Communications",
+      "authors": "Bergmann A, Martinez-Moreno E, Teschner D, Chernev P, Gliech M, de Araújo JF, Reier T, Dau H, Strasser P.",
+      "abstract": "Water splitting catalysed by earth-abundant materials is pivotal for global-scale production of non-fossil fuels, yet our understanding of the active catalyst structure and reactivity is still insufficient. Here we report on the structurally reversible evolution of crystalline Co3O4 electrocatalysts during oxygen evolution reaction identified using advanced in situ X-ray techniques. At electrode potentials facilitating oxygen evolution, a sub-nanometre shell of the Co3O4 is transformed into an X-ray amorphous CoOx(OH)y which comprises di-μ-oxo-bridged Co(3+/4+) ions. Unlike irreversible amorphizations, here, the formation of the catalytically-active layer is reversed by re-crystallization upon return to non-catalytic electrode conditions. The Co3O4 material thus combines the stability advantages of a controlled, stable crystalline material with high catalytic activity, thanks to the structural flexibility of its active amorphous oxides. We propose that crystalline oxides may be tailored for generating reactive amorphous surface layers at catalytic potentials, just to return to their stable crystalline state under rest conditions.",
+      "cited_by_europe_pmc": 312,
+      "publication_types": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "https://creativecommons.org/licenses/by/4.0/ This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/",
+      "files": [
+        {
+          "file": "electrocatalysis/10_Reversible-amorphization-and-the-catalytically-active-state-of-crystalline-Co3O4-during-oxygen-evolution.pdf",
+          "format": "pdf",
+          "bytes": 1094008,
+          "sha256": "79facf5623ae2b479c0c62bace33f142d6167bcd585fb869a0f075d89096c3b5",
+          "source_url": "https://www.nature.com/articles/ncomms9625.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 9,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 1.0,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Results",
+          "Discussion",
+          "Methods",
+          "Additional information",
+          "Supplementary Material"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/ncomms9625",
+        "journal": "Nature Communications",
+        "title": "Reversible amorphization and the catalytically active state of crystalline Co3O4 during oxygen evolution",
+        "type": "journal-article",
+        "published": [
+          [
+            2015,
+            10,
+            12
+          ]
+        ],
+        "url": "https://doi.org/10.1038/ncomms9625",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Operando catalyst reconstruction and active-state identification"
+    },
+    {
+      "field": "PFAS",
+      "number": 1,
+      "title": "Installation of synergistic binding sites onto porous organic polymers for efficient removal of perfluorooctanoic acid",
+      "doi": "10.1038/s41467-022-29816-1",
+      "pmcid": "PMC9019033",
+      "year": 2022,
+      "journal": "Nature Communications",
+      "authors": "Liu X, Zhu C, Yin J, Li J, Zhang Z, Li J, Shui F, You Z, Shi Z, Li B, Bu XH, Nafady A, Ma S.",
+      "abstract": "Herein, we report a strategy to construct highly efficient perfluorooctanoic acid (PFOA) adsorbents by installing synergistic electrostatic/hydrophobic sites onto porous organic polymers (POPs). The constructed model material of PAF-1-NDMB (NDMB = N,N-dimethyl-butylamine) demonstrates an exceptionally high PFOA uptake capacity over 2000 mg g -1 , which is 14.8 times enhancement compared with its parent material of PAF-1. And it is 32.0 and 24.1 times higher than benchmark materials of DFB-CDP (β-cyclodextrin (β-CD)-based polymer network) and activated carbon under the same conditions. Furthermore, PAF-1-NDMB exhibits the highest k 2  value of 24,000 g mg -1  h -1  among all reported PFOA sorbents. And it can remove 99.99% PFOA from 1000 ppb to <70 ppt within 2 min, which is lower than the advisory level of Environmental Protection Agency of United States. This work thus not only provides a generic approach for constructing PFOA adsorbents, but also develops POPs as a platform for PFOA capture.",
+      "cited_by_europe_pmc": 76,
+      "publication_types": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "https://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit  http://creativecommons.org/licenses/by/4.0/ .",
+      "files": [
+        {
+          "file": "PFAS/01_Installation-of-synergistic-binding-sites-onto-porous-organic-polymers-for-efficient-removal-of-perfluoro.pdf",
+          "format": "pdf",
+          "bytes": 2614269,
+          "sha256": "0054fdaf65425c9e9efb65c80d366bcc35bd01c9ab6b97a651af5cf914445c91",
+          "source_url": "https://www.nature.com/articles/s41467-022-29816-1.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 10,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 0.833,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Introduction",
+          "Results",
+          "Methods",
+          "Supplementary information",
+          "Acknowledgements",
+          "Author contributions",
+          "Peer review",
+          "Data availability",
+          "Code availability",
+          "Competing interests",
+          "Footnotes",
+          "Contributor Information",
+          "Supplementary information",
+          "References",
+          "Associated Data"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/s41467-022-29816-1",
+        "journal": "Nature Communications",
+        "title": "Installation of synergistic binding sites onto porous organic polymers for efficient removal of perfluorooctanoic acid",
+        "type": "journal-article",
+        "published": [
+          [
+            2022,
+            4,
+            19
+          ]
+        ],
+        "url": "https://doi.org/10.1038/s41467-022-29816-1",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Selective PFOA adsorption through synergistic binding sites"
+    },
+    {
+      "field": "PFAS",
+      "number": 2,
+      "title": "Lithium-ion battery components are at the nexus of sustainable energy and environmental release of per- and polyfluoroalkyl substances",
+      "doi": "10.1038/s41467-024-49753-5",
+      "pmcid": "PMC11231300",
+      "year": 2024,
+      "journal": "Nature Communications",
+      "authors": "Guelfo JL, Ferguson PL, Beck J, Chernick M, Doria-Manzur A, Faught PW, Flug T, Gray EP, Jayasundara N, Knappe DRU, Joyce AS, Meng P, Shojaei M.",
+      "abstract": "Lithium-ion batteries (LiBs) are used globally as a key component of clean and sustainable energy infrastructure, and emerging LiB technologies have incorporated a class of per- and polyfluoroalkyl substances (PFAS) known as bis-perfluoroalkyl sulfonimides (bis-FASIs). PFAS are recognized internationally as recalcitrant contaminants, a subset of which are known to be mobile and toxic, but little is known about environmental impacts of bis-FASIs released during LiB manufacture, use, and disposal. Here we demonstrate that environmental concentrations proximal to manufacturers, ecotoxicity, and treatability of bis-FASIs are comparable to PFAS such as perfluorooctanoic acid that are now prohibited and highly regulated worldwide, and we confirm the clean energy sector as an unrecognized and potentially growing source of international PFAS release. Results underscore that environmental impacts of clean energy infrastructure merit scrutiny to ensure that reduced CO 2  emissions are not achieved at the expense of increasing global releases of persistent organic pollutants.",
+      "cited_by_europe_pmc": 67,
+      "publication_types": [
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "https://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "https://creativecommons.org/licenses/by/4.0/ Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ .",
+      "files": [
+        {
+          "file": "PFAS/02_Lithium-ion-battery-components-are-at-the-nexus-of-sustainable-energy-and-environmental-release-of-per-an.pdf",
+          "format": "pdf",
+          "bytes": 2262229,
+          "sha256": "5d2998fb413e17109dc5e0c1872c4a26183c048072c960d8052f55131fcafb16",
+          "source_url": "https://www.nature.com/articles/s41467-024-49753-5.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 13,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 0.9,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Introduction",
+          "Results",
+          "Discussion",
+          "Methods"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/s41467-024-49753-5",
+        "journal": "Nature Communications",
+        "title": "Lithium-ion battery components are at the nexus of sustainable energy and environmental release of per- and polyfluoroalkyl substances",
+        "type": "journal-article",
+        "published": [
+          [
+            2024,
+            7,
+            8
+          ]
+        ],
+        "url": "https://doi.org/10.1038/s41467-024-49753-5",
+        "update_to": [],
+        "relation": {
+          "has-preprint": [
+            {
+              "id-type": "doi",
+              "id": "10.21203/rs.3.rs-3150504/v1",
+              "asserted-by": "object"
+            }
+          ]
+        }
+      },
+      "research_focus": "Battery-related PFAS emissions, ecotoxicity, and treatment"
+    },
+    {
+      "field": "PFAS",
+      "number": 3,
+      "title": "Phosphate-enabled mechanochemical PFAS destruction for fluoride reuse",
+      "doi": "10.1038/s41586-025-08698-5",
+      "pmcid": "PMC11964924",
+      "year": 2025,
+      "journal": "Nature",
+      "authors": "Yang L, Chen Z, Goult CA, Schlatzer T, Paton RS, Gouverneur V.",
+      "abstract": "Perfluoroalkyl and polyfluoroalkyl substances (PFASs) are persistent, bioaccumulative and anthropogenic pollutants that have attracted the attention of the public and private sectors because of their adverse impact on human health 1 . Although various technologies have been deployed to degrade PFASs with a focus on non-polymeric functionalized compounds (perfluorooctanoic acid and perfluorooctanesulfonic acid) 2-4 , a general PFAS destruction method coupled with fluorine recovery for upcycling is highly desirable. Here we disclose a protocol that converts multiple classes of PFAS, including the fluoroplastics polytetrafluoroethylene and polyvinylidene fluoride, into high-value fluorochemicals. To achieve this, PFASs were reacted with potassium phosphate salts under solvent-free mechanochemical conditions, a mineralization process enabling fluorine recovery as KF and K 2 PO 3 F for fluorination chemistry. The phosphate salts can be recovered for reuse, implying no detrimental impact on the phosphorus cycle. Therefore, PFASs are not only destructible but can now contribute to a sustainable circular fluorine economy.",
+      "cited_by_europe_pmc": 66,
+      "publication_types": [
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "https://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ .",
+      "files": [
+        {
+          "file": "PFAS/03_Phosphate-enabled-mechanochemical-PFAS-destruction-for-fluoride-reuse.pdf",
+          "format": "pdf",
+          "bytes": 6147602,
+          "sha256": "b76bd9464ae9b6069de7c26c5e87898eea63bcd7d82e0e82f0772ced89b30a37",
+          "source_url": "https://www.nature.com/articles/s41586-025-08698-5.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 9,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 1.0,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Main",
+          "Results and discussion",
+          "Conclusion",
+          "Online content",
+          "Supplementary information",
+          "Acknowledgements",
+          "Author contributions",
+          "Peer review",
+          "Data availability",
+          "Competing interests",
+          "Footnotes",
+          "Contributor Information",
+          "Extended data",
+          "Supplementary information",
+          "References",
+          "Associated Data"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/s41586-025-08698-5",
+        "journal": "Nature",
+        "title": "Phosphate-enabled mechanochemical PFAS destruction for fluoride reuse",
+        "type": "journal-article",
+        "published": [
+          [
+            2025,
+            3,
+            26
+          ]
+        ],
+        "url": "https://doi.org/10.1038/s41586-025-08698-5",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Mechanochemical PFAS destruction and fluoride recovery"
+    },
+    {
+      "field": "PFAS",
+      "number": 4,
+      "title": "Cationic covalent organic framework for the fluorescent sensing and cooperative adsorption of perfluorooctanoic acid",
+      "doi": "10.1038/s41467-024-53945-4",
+      "pmcid": "PMC11612209",
+      "year": 2024,
+      "journal": "Nature Communications",
+      "authors": "Jrad A, Das G, Alkhatib N, Prakasam T, Benyettou F, Varghese S, Gándara F, Olson M, Kirmizialtin S, Trabolsi A.",
+      "abstract": "The contamination of water by per- and polyfluorinated substances (PFAS) is a pressing global issue due to their harmful effects on health and the environment. This study explores a cationic covalent organic framework (COF), TG-PD COF, for the efficient detection and removal of perfluorooctanoic acid (PFOA) from water. Synthesized via a simple sonochemical method, TG-PD COF shows remarkable selectivity and sensitivity to PFOA, with a detection limit as low as 1.8 µg·L⁻¹. It achieves significant PFOA adsorption exceeding 2600 mg·g⁻¹ within seconds over several cycles in batch mode and complete removal at environmentally relevant concentrations in column adsorption. Results reveal unique adsorption behavior characterized by two phases, leveraging PFOA aggregation through hydrophobic interactions. Computer simulations elucidate the mechanisms underlying TG-PD COF's sensing, adsorption, and charge transfer dynamics. Our findings position this COF design strategy as a promising solution for combating PFAS contamination in water bodies worldwide.",
+      "cited_by_europe_pmc": 60,
+      "publication_types": [
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      ],
+      "license_text": "Open Access  This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by-nc-nd/4.0/ .",
+      "files": [
+        {
+          "file": "PFAS/04_Cationic-covalent-organic-framework-for-the-fluorescent-sensing-and-cooperative-adsorption-of-perfluorooc.pdf",
+          "format": "pdf",
+          "bytes": 6281908,
+          "sha256": "72496a26bc1250f53c227fbe729e575c19c36b4a6acb32db31636bcb7693c6f0",
+          "source_url": "https://www.nature.com/articles/s41467-024-53945-4.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 17,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 0.8,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Introduction",
+          "Results",
+          "Discussion",
+          "Methods",
+          "Supplementary information",
+          "Acknowledgements",
+          "Author contributions",
+          "Peer review",
+          "Data availability",
+          "Competing interests",
+          "Footnotes",
+          "Contributor Information",
+          "Supplementary information",
+          "References",
+          "Associated Data"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/s41467-024-53945-4",
+        "journal": "Nature Communications",
+        "title": "Cationic covalent organic framework for the fluorescent sensing and cooperative adsorption of perfluorooctanoic acid",
+        "type": "journal-article",
+        "published": [
+          [
+            2024,
+            12,
+            2
+          ]
+        ],
+        "url": "https://doi.org/10.1038/s41467-024-53945-4",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "PFOA detection and cooperative adsorption using a COF"
+    },
+    {
+      "field": "PFAS",
+      "number": 5,
+      "title": "Uncovering per- and polyfluoroalkyl substances (PFAS) with nontargeted ion mobility spectrometry-mass spectrometry analyses",
+      "doi": "10.1126/sciadv.adj7048",
+      "pmcid": "PMC10599621",
+      "year": 2023,
+      "journal": "Science Advances",
+      "authors": "Kirkwood-Donelson KI, Dodds JN, Schnetzer A, Hall N, Baker ES.",
+      "abstract": "Because of environmental and health concerns, legacy per- and polyfluoroalkyl substances (PFAS) have been voluntarily phased out, and thousands of emerging PFAS introduced as replacements. Traditional analytical methods target a limited number of mainly legacy PFAS; therefore, many species are not routinely assessed in the environment. Nontargeted approaches using high-resolution mass spectrometry methods have therefore been used to detect and characterize unknown PFAS. However, their ability to elucidate chemical structures relies on generation of informative fragments, and many low concentration species are not fragmented in typical data-dependent acquisition approaches. Here, a data-independent method leveraging ion mobility spectrometry (IMS) and size-dependent fragmentation was developed and applied to characterize aquatic passive samplers deployed near a North Carolina fluorochemical manufacturer. From the study, 11 PFAS structures for various per- and polyfluorinated ether sulfonic acids and multiheaded perfluorinated ether acids were elucidated in addition to 36 known PFAS. Eight of these species were previously unreported in environmental media, and three suspected species were validated.",
+      "cited_by_europe_pmc": 57,
+      "publication_types": [
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "https://creativecommons.org/licenses/by-nc/4.0/"
+      ],
+      "license_text": "https://creativecommons.org/licenses/by-nc/4.0/ This is an open-access article distributed under the terms of the  Creative Commons Attribution-NonCommercial license , which permits use, distribution, and reproduction in any medium, so long as the resultant use is  not  for commercial advantage and provided the original work is properly cited.",
+      "files": [
+        {
+          "file": "PFAS/05_Uncovering-per-and-polyfluoroalkyl-substances-PFAS-with-nontargeted-ion-mobility-spectrometry-mass-spectr.pdf",
+          "format": "pdf",
+          "bytes": 1090913,
+          "sha256": "4a9597b0a4258324aee3109460ccf188059b11c8d3864b4f061e30142544dfb5",
+          "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10599621.1/PMC10599621.1.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 10,
+        "pdf_doi_on_first_two_pages": false,
+        "pdf_title_word_overlap": 1.0,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Science Advances",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "INTRODUCTION",
+          "RESULTS",
+          "DISCUSSION",
+          "MATERIALS AND METHODS",
+          "Supplementary Material"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1126/sciadv.adj7048",
+        "journal": "Science Advances",
+        "title": "Uncovering per- and polyfluoroalkyl substances (PFAS) with nontargeted ion mobility spectrometry–mass spectrometry analyses",
+        "type": "journal-article",
+        "published": [
+          [
+            2023,
+            10,
+            27
+          ]
+        ],
+        "url": "https://doi.org/10.1126/sciadv.adj7048",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Discovery of previously uncharacterized PFAS by IMS-MS"
+    },
+    {
+      "field": "PFAS",
+      "number": 6,
+      "title": "Elucidating governing factors of PFAS removal by polyamide membranes using machine learning and molecular simulations",
+      "doi": "10.1038/s41467-024-55320-9",
+      "pmcid": "PMC11686221",
+      "year": 2024,
+      "journal": "Nature Communications",
+      "authors": "Jeong N, Park S, Mahajan S, Zhou J, Blotevogel J, Li Y, Tong T, Chen Y.",
+      "abstract": "Per- and polyfluoroalkyl substances (PFASs) have recently garnered considerable concerns regarding their impacts on human and ecological health. Despite the important roles of polyamide membranes in remediating PFASs-contaminated water, the governing factors influencing PFAS transport across these membranes remain elusive. In this study, we investigate PFAS rejection by polyamide membranes using two machine learning (ML) models, namely XGBoost and multimodal transformer models. Utilizing the Shapley additive explanation method for XGBoost model interpretation unveils the impacts of both PFAS characteristics and membrane properties on model predictions. The examination of the impacts of chemical structure involves interpreting the multimodal transformer model incorporated with simplified molecular input line entry system strings through heat maps, providing a visual representation of the attention score assigned to each atom of PFAS molecules. Both ML interpretation methods highlight the dominance of electrostatic interaction in governing PFAS transport across polyamide membranes. The roles of functional groups in altering PFAS transport across membranes are further revealed by molecular simulations. The combination of ML with computer simulations not only advances our knowledge of PFAS removal by polyamide membranes, but also provides an innovative approach to facilitate data-driven feature selection for the development of high-performance membranes with improved PFAS removal efficiency.",
+      "cited_by_europe_pmc": 31,
+      "publication_types": [
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      ],
+      "license_text": "Open Access  This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by-nc-nd/4.0/ .",
+      "files": [
+        {
+          "file": "PFAS/06_Elucidating-governing-factors-of-PFAS-removal-by-polyamide-membranes-using-machine-learning-and-molecular.pdf",
+          "format": "pdf",
+          "bytes": 2086403,
+          "sha256": "ac880194a6909338ce82be757b76ffb2b1ec6cee8fa3d69b3c7514de28dcc1a6",
+          "source_url": "https://www.nature.com/articles/s41467-024-55320-9.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 13,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 1.0,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Introduction",
+          "Results and discussion",
+          "Methods",
+          "Supplementary information",
+          "Source data",
+          "Acknowledgements",
+          "Author contributions",
+          "Peer review",
+          "Data availability",
+          "Code availability",
+          "Competing interests",
+          "Footnotes",
+          "Contributor Information",
+          "Supplementary information",
+          "References",
+          "Associated Data"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/s41467-024-55320-9",
+        "journal": "Nature Communications",
+        "title": "Elucidating governing factors of PFAS removal by polyamide membranes using machine learning and molecular simulations",
+        "type": "journal-article",
+        "published": [
+          [
+            2024,
+            12,
+            30
+          ]
+        ],
+        "url": "https://doi.org/10.1038/s41467-024-55320-9",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Mechanistic modeling of membrane PFAS rejection"
+    },
+    {
+      "field": "PFAS",
+      "number": 7,
+      "title": "Machine learning-enhanced molecular network reveals global exposure to hundreds of unknown PFAS",
+      "doi": "10.1126/sciadv.adn1039",
+      "pmcid": "PMC11114235",
+      "year": 2024,
+      "journal": "Science Advances",
+      "authors": "Wang X, Yu N, Jiao Z, Li L, Yu H, Wei S.",
+      "abstract": "Unknown forever chemicals like per- and polyfluoroalkyl substances (PFASs) are difficult to identify. Current platforms designed for metabolites and natural products cannot capture the diverse structural characteristics of PFAS. Here, we report an automatic PFAS identification platform (APP-ID) that screens for PFAS in environmental samples using an enhanced molecular network and identifies unknown PFAS structures using machine learning. Our networking algorithm, which enhances characteristic fragment matches, has lower false-positive rate (0.7%) than current algorithms (2.4 to 46%). Our support vector machine model identified unknown PFAS in test set with 58.3% accuracy, surpassing current software. Further, APP-ID detected 733 PFASs in real fluorochemical wastewater, 39 of which are previously unreported in environmental media. Retrospective screening of 126 PFASs against public data repository from 20 countries show PFAS substitutes are prevalent worldwide.",
+      "cited_by_europe_pmc": 31,
+      "publication_types": [
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "https://creativecommons.org/licenses/by-nc/4.0/"
+      ],
+      "license_text": "This is an open-access article distributed under the terms of the  Creative Commons Attribution-NonCommercial license , which permits use, distribution, and reproduction in any medium, so long as the resultant use is  not  for commercial advantage and provided the original work is properly cited.",
+      "files": [
+        {
+          "file": "PFAS/07_Machine-learning-enhanced-molecular-network-reveals-global-exposure-to-hundreds-of-unknown-PFAS.pdf",
+          "format": "pdf",
+          "bytes": 1148149,
+          "sha256": "00d2f0d6eea4623a3ea509a164372033895d33199b9e5d73b59ebd7caa3da5be",
+          "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11114235.1/PMC11114235.1.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 12,
+        "pdf_doi_on_first_two_pages": false,
+        "pdf_title_word_overlap": 1.0,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Science Advances",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "INTRODUCTION",
+          "RESULTS",
+          "DISCUSSION",
+          "MATERIALS AND METHODS",
+          "Acknowledgments",
+          "Supplementary Materials",
+          "REFERENCES AND NOTES",
+          "Associated Data"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1126/sciadv.adn1039",
+        "journal": "Science Advances",
+        "title": "Machine learning–enhanced molecular network reveals global exposure to hundreds of unknown PFAS",
+        "type": "journal-article",
+        "published": [
+          [
+            2024,
+            5,
+            24
+          ]
+        ],
+        "url": "https://doi.org/10.1126/sciadv.adn1039",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Machine learning and mass spectrometry for unknown PFAS discovery"
+    },
+    {
+      "field": "PFAS",
+      "number": 8,
+      "title": "Constraining global transport of perfluoroalkyl acids on sea spray aerosol using field measurements",
+      "doi": "10.1126/sciadv.adl1026",
+      "pmcid": "PMC10997204",
+      "year": 2024,
+      "journal": "Science Advances",
+      "authors": "Sha B, Johansson JH, Salter ME, Blichner SM, Cousins IT.",
+      "abstract": "Perfluoroalkyl acids (PFAAs) are highly persistent anthropogenic pollutants that have been detected in the global oceans. Our previous laboratory studies demonstrated that PFAAs in seawater are remobilized to the air in sea spray aerosols (SSAs). Here, we conducted field experiments along a north-south transect of the Atlantic Ocean to study the enrichment of PFAAs in SSA. We show that in some cases PFAAs were enriched >100,000 times in the SSA relative to seawater concentrations. On the basis of the results of the field experiments, we estimate that the secondary emission of certain PFAAs from the global oceans via SSA emission is comparable to or greater than estimates for the other known global sources of PFAAs to the atmosphere from manufacturing emissions and precursor degradation.",
+      "cited_by_europe_pmc": 25,
+      "publication_types": [
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "https://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "This is an open-access article distributed under the terms of the  Creative Commons Attribution license , which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+      "files": [
+        {
+          "file": "PFAS/08_Constraining-global-transport-of-perfluoroalkyl-acids-on-sea-spray-aerosol-using-field-measurements.pdf",
+          "format": "pdf",
+          "bytes": 3017626,
+          "sha256": "7bd1221cf6dcd832f395439559c170e4c9c5ab742ca9791a0cf8d176ceb93e83",
+          "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10997204.1/PMC10997204.1.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 10,
+        "pdf_doi_on_first_two_pages": false,
+        "pdf_title_word_overlap": 1.0,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Science Advances",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "INTRODUCTION",
+          "RESULTS",
+          "DISCUSSION",
+          "MATERIALS AND METHODS",
+          "Acknowledgments",
+          "Supplementary Materials",
+          "REFERENCES AND NOTES",
+          "Associated Data"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1126/sciadv.adl1026",
+        "journal": "Science Advances",
+        "title": "Constraining global transport of perfluoroalkyl acids on sea spray aerosol using field measurements",
+        "type": "journal-article",
+        "published": [
+          [
+            2024,
+            4,
+            5
+          ]
+        ],
+        "url": "https://doi.org/10.1126/sciadv.adl1026",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Field measurements of PFAS atmospheric transport via sea spray"
+    },
+    {
+      "field": "PFAS",
+      "number": 9,
+      "title": "Integrating redox-electrodialysis and electrosorption for the removal of ultra-short- to long-chain PFAS",
+      "doi": "10.1038/s41467-024-52630-w",
+      "pmcid": "PMC11437098",
+      "year": 2024,
+      "journal": "Nature Communications",
+      "authors": "Kim N, Elbert J, Shchukina E, Su X.",
+      "abstract": "A major challenge in per- and polyfluoroalkyl substances (PFAS) remediation has been their structural and chemical diversity, ranging from ultra-short to long-chain compounds, which amplifies the operational complexity of water treatment and purification. Here, we present an electrochemical strategy to remove PFAS from ultra-short to long-chain PFAS within a single process. A redox-polymer electrodialysis (redox-polymer ED) system leverages a water-soluble redox polymer with inexpensive nanofiltration membranes, facilitating the treatment of varied chain lengths of PFAS without membrane fouling. Our approach combines both ion migration by electrodialysis (for PFAS with chain lengths ≤C4) and electrosorption strategies (for PFAS with chain lengths ≥C6) to eliminate approximately 90% of ultra-short-, short-chain, and long-chain PFAS. At the same time, we achieve continuous desalination of the source water down to potable water level. The redox-polymer ED exhibits remarkable PFAS removal in real source water scenarios, including from matrices with 10,000 times higher salt concentrations, as well as secondary effluents from wastewaters. Additionally, the removed PFAS is mineralized with a defluorination performance between 76-100% by electrochemical oxidation, highlighting the viability of integrating the separation step with a reactive degradation process.",
+      "cited_by_europe_pmc": 22,
+      "publication_types": [
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      ],
+      "license_text": "https://creativecommons.org/licenses/by-nc-nd/4.0/ Open Access  This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by-nc-nd/4.0/ .",
+      "files": [
+        {
+          "file": "PFAS/09_Integrating-redox-electrodialysis-and-electrosorption-for-the-removal-of-ultra-short-to-long-chain-PFAS.pdf",
+          "format": "pdf",
+          "bytes": 4278381,
+          "sha256": "d7cb9506d3997673853716e79708a28ddf77b6e41f4e0ef2925d6a4803d89e55",
+          "source_url": "https://www.nature.com/articles/s41467-024-52630-w.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 14,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 1.0,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Introduction",
+          "Results and discussion",
+          "Methods",
+          "Supplementary information",
+          "Source data"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/s41467-024-52630-w",
+        "journal": "Nature Communications",
+        "title": "Integrating redox-electrodialysis and electrosorption for the removal of ultra-short- to long-chain PFAS",
+        "type": "journal-article",
+        "published": [
+          [
+            2024,
+            9,
+            27
+          ]
+        ],
+        "url": "https://doi.org/10.1038/s41467-024-52630-w",
+        "update_to": [],
+        "relation": {}
+      },
+      "research_focus": "Electrochemical removal across PFAS chain lengths"
+    },
+    {
+      "field": "PFAS",
+      "number": 10,
+      "title": "Electrothermal mineralization of per- and polyfluoroalkyl substances for soil remediation",
+      "doi": "10.1038/s41467-024-49809-6",
+      "pmcid": "PMC11271446",
+      "year": 2024,
+      "journal": "Nature Communications",
+      "authors": "Cheng Y, Deng B, Scotland P, Eddy L, Hassan A, Wang B, Silva KJ, Li B, Wyss KM, Ucak-Astarlioglu MG, Chen J, Liu Q, Si T, Xu S, Gao X, JeBailey K, Jana D, Torres MA, Wong MS, Yakobson BI, Griggs C, McCary MA, Zhao Y, Tour JM.",
+      "abstract": "Per- and polyfluoroalkyl substances (PFAS) are persistent and bioaccumulative pollutants that can easily accumulate in soil, posing a threat to environment and human health. Current PFAS degradation processes often suffer from low efficiency, high energy and water consumption, or lack of generality. Here, we develop a rapid electrothermal mineralization (REM) process to remediate PFAS-contaminated soil. With environmentally compatible biochar as the conductive additive, the soil temperature increases to >1000 °C within seconds by current pulse input, converting PFAS to calcium fluoride with inherent calcium compounds in soil. This process is applicable for remediating various PFAS contaminants in soil, with high removal efficiencies ( >99%) and mineralization ratios ( >90%). While retaining soil particle size, composition, water infiltration rate, and cation exchange capacity, REM facilitates an increase of exchangeable nutrient supply and arthropod survival in soil, rendering it superior to the time-consuming calcination approach that severely degrades soil properties. REM is scaled up to remediate soil at two kilograms per batch and promising for large-scale, on-site soil remediation. Life-cycle assessment and techno-economic analysis demonstrate REM as an environmentally friendly and economic process, with a significant reduction of energy consumption, greenhouse gas emission, water consumption, and operation cost, when compared to existing soil remediation practices.",
+      "cited_by_europe_pmc": 20,
+      "publication_types": [
+        "research-article",
+        "Journal Article"
+      ],
+      "article_type": "research-article",
+      "license_urls": [
+        "https://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_text": "Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit  http://creativecommons.org/licenses/by/4.0/ .",
+      "files": [
+        {
+          "file": "PFAS/10_Electrothermal-mineralization-of-per-and-polyfluoroalkyl-substances-for-soil-remediation.pdf",
+          "format": "pdf",
+          "bytes": 4622404,
+          "sha256": "bc75ce92672b899247715cf01dd06c637b9a87b21373d999fd106f95edf3f2c8",
+          "source_url": "https://www.nature.com/articles/s41467-024-49809-6.pdf"
+        }
+      ],
+      "verified": true,
+      "verification": {
+        "pdf_pages": 14,
+        "pdf_doi_on_first_two_pages": true,
+        "pdf_title_word_overlap": 0.833,
+        "xml_article_type": "research-article",
+        "pdf_doi_present": true,
+        "pdf_article_identifier_present": true,
+        "crossref_title_matches": true,
+        "crossref_type": "journal-article",
+        "crossref_journal": "Nature Communications",
+        "checked_date": "2026-10-21",
+        "source_section_titles": [
+          "Introduction",
+          "Results and discussion",
+          "Methods",
+          "Acknowledgements",
+          "Author contributions",
+          "Peer review",
+          "Data availability",
+          "Competing interests",
+          "Footnotes",
+          "Contributor Information",
+          "Supplementary information",
+          "References",
+          "Associated Data"
+        ],
+        "source_doi_matches": true
+      },
+      "crossref": {
+        "doi": "10.1038/s41467-024-49809-6",
+        "journal": "Nature Communications",
+        "title": "Electrothermal mineralization of per- and polyfluoroalkyl substances for soil remediation",
+        "type": "journal-article",
+        "published": [
+          [
+            2024,
+            7,
+            20
+          ]
+        ],
+        "url": "https://doi.org/10.1038/s41467-024-49809-6",
+        "update_to": [],
+        "relation": {
+          "has-preprint": [
+            {
+              "id-type": "doi",
+              "id": "10.26434/chemrxiv-2023-79t7l",
+              "asserted-by": "object"
+            }
+          ]
+        }
+      },
+      "research_focus": "Electrothermal mineralization of PFAS-contaminated soil"
+    }
+  ],
+  "errors": [],
+  "selection_criteria": [
+    "Peer-reviewed original research in Nature, Nature Communications, or Science Advances",
+    "Direct field relevance and original experimental or computational methods/results checked in the abstracts",
+    "PMC XML article-type must be research-article; exclude reviews, perspectives, editorials, corrections, and retraction notices",
+    "Publication metadata, title, journal, DOI, full-text PDF identity, and per-article licenses verified",
+    "Influence (Europe PMC citations) and coverage of core research themes guide selection within an open-access shortlist",
+    "Exactly ten distinct papers per field, forty unique DOIs overall"
+  ],
+  "discovery": {
+    "database": "Europe PMC",
+    "publication_date_range": "2015-01-01 to 2025-12-31",
+    "searched_on": "2026-10-21",
+    "access_filter": "OPEN_ACCESS:Y AND SRC:MED",
+    "ranking": "sort_cited:y",
+    "journal_filter": [
+      "Nat Commun",
+      "Sci Adv",
+      "Nature",
+      "Nat Mater",
+      "Nat Nanotechnol",
+      "Nat Chem"
+    ],
+    "queries": {
+      "MOF": "(TITLE:\"metal organic framework\" OR TITLE:\"metal-organic framework\")",
+      "FET": "(TITLE:\"field effect transistor\" OR TITLE:\"field-effect transistor\")",
+      "electrocatalysis": "(TITLE:electrocatal* OR TITLE:\"oxygen evolution\" OR TITLE:\"hydrogen evolution\" OR TITLE:\"electrochemical CO2 reduction\")",
+      "PFAS": "(TITLE:PFAS OR TITLE:perfluoro* OR TITLE:polyfluoro*)"
+    }
+  },
+  "pdf_fallback_documentation": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/"
+}
