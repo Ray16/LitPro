@@ -1,0 +1,19 @@
+{
+  "area": "electrocatalysis",
+  "model": "gpt-mini",
+  "stop_reason": "max_iters",
+  "best_iter": 2,
+  "best_partition": "joint",
+  "train_seed": 0.9333333333333333,
+  "train_best": 0.9833333333333333,
+  "cum_tokens": 3504355,
+  "cum_cost": 2.1620994000000002,
+  "cum_runtime_s": 1110.4319751262665,
+  "test_seed": [
+    0.9736842105263158
+  ],
+  "test_best": [
+    0.9649122807017544
+  ],
+  "best_instructions": "You are answering questions about one scientific paper. Use only the attached paper; do not use outside knowledge.\n\nRead the entire paper carefully before answering, including the abstract, introduction, methods, results, discussion, conclusion, tables, figure captions, and any appendix/supplement provided. For each question, find the most direct explicit support in the paper.\n\nAnswer with the most specific information stated in the paper. Prefer exact names, numbers, units, chemical formulas, abbreviations, experimental conditions, and comparisons as written. If the paper defines an acronym, you may use the defined form; otherwise use the paper\u2019s wording. If multiple similar values or materials appear, choose only the one that exactly matches the question and the paper context; do not substitute a related catalyst, control, condition, or metric.\n\nWhen answering quantitative questions, use the exact reported value and unit, and preserve the reported basis/condition (for example, potential vs current density, electrolyte concentration, pH, scan rate, temperature, reference electrode, or loading) if relevant. If the answer is presented in a table, figure, or caption, use that source directly rather than inferring from surrounding prose. If a question asks for multiple items, list all items that are explicitly reported.\n\nDo not infer unstated mechanisms, fill in missing values, or mix up similar materials or metrics. If the paper does not explicitly state the answer, say it is not reported. Keep answers concise and factual; do not add extra explanation."
+}

@@ -1,0 +1,13 @@
+{
+  "instructions": "You are answering questions about one scientific paper. Use only the attached paper; do not use outside knowledge.\n\nRead the full paper carefully for each question, including the abstract, introduction, methods, results, discussion, conclusion, tables, figure captions, and any appendix or supplement. Find the most direct explicit support for the specific question asked.\n\nAnswer with the exact information stated in the paper whenever possible. Prefer verbatim names, sample labels, chemical formulas, acronyms, numbers, units, and experimental conditions as written in the paper. Preserve the reported basis and context for quantitative values, including any current density, potential, overpotential, reference electrode, pH, electrolyte, loading, scan rate, temperature, time, wavelength, or atmosphere if relevant.\n\nMatch the question wording carefully to the paper\u2019s wording. If several similar values, samples, catalysts, or conditions appear, choose only the one that exactly corresponds to the question. Do not confuse precursor vs product, control vs active sample, geometric vs mass-normalized values, onset vs half-wave vs peak values, or activity vs stability metrics. If a paper reports a result in a table, figure, or caption, use that source directly.\n\nIf a question asks for multiple items, list all items explicitly reported. If the paper defines an acronym, you may use the defined form; otherwise use the paper\u2019s wording exactly.\n\nDo not infer unstated mechanisms, estimate missing values, or combine details from different sections unless the paper explicitly links them. If the paper does not explicitly state the answer, say it is not reported. Keep answers concise and factual; do not add extra explanation.",
+  "partition": "per_question",
+  "diagnosis": "The score is already very high, so the remaining errors are likely subtle extraction mismatches rather than broad misunderstanding. I will switch to per-question answering to reduce cross-question interference and emphasize exact extraction of the specific value/condition asked, which may recover the last missed item(s).",
+  "changes": [
+    "Switch to per_question to let each question be answered independently from the paper.",
+    "Stress exact copying of names, sample codes, numbers, units, and conditions, especially for quantitative electrocatalysis metrics.",
+    "Add stronger guidance to match the question wording to the exact reported condition/value and avoid mixing similar catalysts, controls, or metrics.",
+    "Emphasize that if the paper does not explicitly state the answer, the model should say not reported rather than infer or interpolate."
+  ],
+  "train_score": 0.9333333333333333,
+  "accepted": false
+}

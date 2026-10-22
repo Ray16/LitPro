@@ -1,0 +1,4 @@
+corpus/paper/**/*.pdf
+runs/
+__pycache__/
+.env

@@ -1,0 +1,13 @@
+{
+  "instructions": "Answer each question using only the attached paper. Read the full text, including tables, figure captions, axis labels, and footnotes, before deciding information is absent. If a question asks for a number, report the value exactly as the paper states it, with its units and the conditions it refers to (electrolyte, pH, reference electrode, catalyst loading, current density, etc.). When several values appear, choose the one for the specific material or condition the question names, not a general or best-case value. If the paper gives a value only in a figure, use the value the text or caption states; do not estimate from plots unless the question asks for an approximate reading. If the paper does not contain the answer after this check, mark it as not reported. Do not add outside knowledge.",
+  "partition": "joint",
+  "diagnosis": "The minimal baseline already scores 0.967 (about 2 of 60 wrong), so there is little headroom and large rewrites risk regressions. The likely misses are numeric or table-based details, where the model either marks 'not reported' too early or reads the wrong value. I'll keep the baseline's scope but add targeted guidance on reading tables, figure captions, units, and SI references, while keeping the not-reported fallback for truly absent information.",
+  "changes": [
+    "Added guidance to check tables, figure captions, and footnotes before declaring 'not reported'",
+    "Added instruction to copy numeric values with their units and conditions (potential reference electrode, electrolyte, loading) as stated in the paper",
+    "Added instruction to use values for the specific material or condition the question names, not a general or best-case value",
+    "Kept the 'not reported' fallback for information that is genuinely absent"
+  ],
+  "train_score": 0.9666666666666667,
+  "accepted": false
+}

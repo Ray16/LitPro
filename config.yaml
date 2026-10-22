@@ -1,0 +1,110 @@
+# litpro_evolve config
+#
+# Prices are USD per 1M tokens, as listed in October 2026. Verify them on each provider's pricing page
+# before a real run; the budget below is in dollars, so wrong prices mean a wrong budget.
+
+models:
+  # ---------- agents: cheap tier (extract + rewrite their own prompt)
+  haiku:
+    provider: anthropic
+    model_id: claude-haiku-5-5
+    max_tokens: 8000
+    judge_max_tokens: 1000
+    optimizer_max_tokens: 16000
+    price_per_mtok: {input: 0.10, cached_input: 0.01, cache_write: 0.125, output: 0.50}   # prompts <= 100k tokens
+    extra: {}
+
+  gpt-mini:
+    provider: openai
+    model_id: gpt-5.4-mini
+    max_tokens: 16000
+    judge_max_tokens: 4000
+    optimizer_max_tokens: 24000
+    file_detail: high
+    price_per_mtok: {input: 0.75, cached_input: 0.075, output: 4.50}
+    extra: {reasoning: {effort: medium}}
+
+  gemini-lite:
+    provider: gemini
+    model_id: gemini-3.5-flash-lite
+    max_tokens: 16000
+    judge_max_tokens: 4000
+    optimizer_max_tokens: 24000
+    price_per_mtok: {input: 0.30, cached_input: 0.03, output: 2.50}
+    extra: {}
+
+  # ---------- judges: frontier tier (grade short answers against the reference; no PDF, so cheap)
+  opus:
+    provider: anthropic
+    model_id: claude-opus-5-5
+    workspace_id: null            # only for identity-linked keys (or export ANTHROPIC_WORKSPACE_ID)
+    max_tokens: 8000
+    judge_max_tokens: 2000
+    optimizer_max_tokens: 16000
+    price_per_mtok: {input: 4.00, cached_input: 0.20, cache_write: 5.00, output: 20.00}
+    extra: {}
+
+  gpt:
+    provider: openai
+    model_id: gpt-5.5
+    max_tokens: 16000
+    judge_max_tokens: 4000
+    optimizer_max_tokens: 24000
+    file_detail: high
+    price_per_mtok: {input: 5.00, cached_input: 0.50, output: 30.00}
+    extra: {reasoning: {effort: medium}}
+
+  gemini-pro:
+    provider: gemini
+    model_id: gemini-3.1-pro-preview   # verify with `check`; if it fails, use gemini-3.6-flash
+    max_tokens: 16000
+    judge_max_tokens: 4000
+    optimizer_max_tokens: 24000
+    price_per_mtok: {input: 2.00, cached_input: 0.20, output: 12.00}
+    extra: {}
+
+  # ---------- previous agents, kept for comparison runs (--extractors claude,gemini)
+  claude:
+    provider: anthropic
+    model_id: claude-sonnet-5-5
+    max_tokens: 8000
+    judge_max_tokens: 1000
+    optimizer_max_tokens: 16000
+    price_per_mtok: {input: 2.00, cached_input: 0.10, cache_write: 2.50, output: 10.00}
+    extra: {}
+
+  gemini:
+    provider: gemini
+    model_id: gemini-3.6-flash
+    max_tokens: 16000
+    judge_max_tokens: 4000
+    optimizer_max_tokens: 24000
+    price_per_mtok: {input: 0.75, cached_input: 0.075, output: 3.75}
+    extra: {}
+
+extractors: [haiku, gpt-mini, gemini-lite]   # agents: one self-improving loop per (area, agent)
+judges: [opus, gpt, gemini-pro]             # frontier judges, one per provider; majority vote
+optimizer: same                              # each agent rewrites its own prompt
+
+feedback: score                     # the agent sees only its score after each attempt
+
+budget:
+  max_iters: 5                      # prompt rewrites after the seed evaluation
+  max_usd: 5.00                     # per loop: train extraction + the agent's rewrite calls (judges and test excluded)
+
+train_frac: 0.34                    # 10 train / 20 test papers per domain
+split_mode: stratified              # balance question types across train/test
+split_seed: 0
+test_repeats: 1
+
+default_rel_tol: 0.05
+max_prompt_words: 600
+
+paper_workers: 12
+judge_workers: 8
+concurrency: {anthropic: 8, openai: 8, gemini: 8, mock: 16}   # lower if you hit rate limits
+max_retries: 4
+
+seed_partition: joint
+seed_prompt: |
+  Answer each question using only the attached paper. If the paper does not contain the answer, mark it as not reported.

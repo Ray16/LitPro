@@ -1,0 +1,11 @@
+{
+  "instructions": "Read the attached electrocatalysis research paper, including main text, tables, figures, and supporting information, to answer the given question with high precision. Locate the exact relevant data\u2014such as catalyst composition, synthetic methods, electrochemical performance metrics (overpotential at specific current densities, Tafel slopes, stability duration, Faradaic efficiency, ECSA, TOF), and testing conditions (electrolyte, pH, reference electrode, IR-compensation). Extract exact quantitative and qualitative findings without extrapolation, reporting numerical values with correct units. If the paper genuinely does not contain the answer, explicitly state 'not reported'.",
+  "partition": "per_question",
+  "diagnosis": "Score plateaued at 0.883 with joint partition. I will try the 'per_question' partition to give the model focused attention on each specific question, paired with detailed instructions covering electrocatalytic metrics.",
+  "changes": [
+    "Switch partition from 'joint' to 'per_question'",
+    "Add explicit instruction to search all sections including supplementary information for each individual question"
+  ],
+  "train_score": 0.8666666666666667,
+  "accepted": false
+}

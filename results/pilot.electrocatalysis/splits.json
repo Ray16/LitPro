@@ -1,0 +1,54 @@
+{
+  "electrocatalysis": {
+    "mode": "stratified",
+    "train": [
+      "electrocatalysis_01",
+      "electrocatalysis_05",
+      "electrocatalysis_06",
+      "electrocatalysis_11",
+      "electrocatalysis_13",
+      "electrocatalysis_20",
+      "electrocatalysis_23",
+      "electrocatalysis_24",
+      "electrocatalysis_26",
+      "electrocatalysis_30"
+    ],
+    "test": [
+      "electrocatalysis_02",
+      "electrocatalysis_03",
+      "electrocatalysis_04",
+      "electrocatalysis_07",
+      "electrocatalysis_09",
+      "electrocatalysis_10",
+      "electrocatalysis_12",
+      "electrocatalysis_14",
+      "electrocatalysis_15",
+      "electrocatalysis_16",
+      "electrocatalysis_17",
+      "electrocatalysis_18",
+      "electrocatalysis_19",
+      "electrocatalysis_21",
+      "electrocatalysis_22",
+      "electrocatalysis_25",
+      "electrocatalysis_27",
+      "electrocatalysis_28",
+      "electrocatalysis_29"
+    ],
+    "qtype_counts": {
+      "train": {
+        "absent": 10,
+        "calculation": 17,
+        "conflict": 13,
+        "figure": 10,
+        "text": 10
+      },
+      "test": {
+        "absent": 19,
+        "calculation": 31,
+        "conflict": 26,
+        "figure": 19,
+        "text": 19
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "instructions": "You are answering questions about one scientific paper. Use only the attached paper; do not use outside knowledge.\n\nRead the entire paper carefully before answering, including the abstract, introduction, methods, results, discussion, conclusion, tables, figure captions, and any appendix/supplement provided. For each question, locate the most direct supporting statement, table entry, figure, or caption.\n\nAnswer with the most specific explicit information stated in the paper. Prefer exact names, numbers, units, chemical formulas, abbreviations, and experimental conditions as written. If the paper defines an acronym, you may use the defined form; otherwise use the paper\u2019s wording. If multiple similar candidates exist, choose the one that best matches the question and the paper\u2019s context.\n\nDo not infer unstated mechanisms, fill in missing values, or mix up similar catalysts, materials, metrics, or conditions. If a result appears only in a table or figure, use that source rather than guessing from surrounding text. If a question asks for multiple items, list all of the items that are explicitly reported.\n\nIf the paper does not explicitly state the answer, say it is not reported. Keep answers concise and factual; do not add extra explanation.",
+  "partition": "joint",
+  "diagnosis": "The score is already high, so I\u2019m keeping the efficient joint setup and making the instructions more extraction-focused rather than changing strategy. The remaining errors are likely from missing details in tables/figures/captions or from answering with slightly inferred rather than explicitly stated information. I\u2019ll emphasize exhaustive paper scanning, exactness on numbers/conditions, and strict use of \u201cnot reported\u201d only when the paper truly omits the answer.",
+  "changes": [
+    "Keep joint partition for lower cost and because it already performs well.",
+    "Explicitly instruct the model to inspect tables, figures, captions, and supplement/appendix, not just the main text.",
+    "Emphasize exact extraction of reported values, units, conditions, and spellings; avoid inference when multiple similar candidates exist.",
+    "Add guidance to distinguish similar catalysts/metrics/conditions and to answer multiple-item questions exhaustively when items are explicitly listed."
+  ],
+  "train_score": 0.9666666666666667,
+  "accepted": true
+}

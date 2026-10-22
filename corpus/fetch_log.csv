@@ -1,0 +1,870 @@
+domain,doi,title,status,detail
+MOF,10.1038/s42004-019-0184-6,Metal-organic framework functionalization and design strategies for advanced electrochemical energy storage devices,kept,14 pages via https://www.nature.com/articles/s42004-019-0184-6.pdf
+MOF,10.1038/s41467-018-07850-2,Enhanced oxygen reduction with single-atomic-site iron catalysts for a zinc-air battery and hydrogen-air fuel cell,kept,12 pages via https://www.nature.com/articles/s41467-018-07850-2.pdf
+MOF,10.1038/s41467-020-16848-8,Engineering unsymmetrically coordinated Cu-S1N3 single atom sites with enhanced oxygen reduction activity,kept,11 pages via https://www.nature.com/articles/s41467-020-16848-8.pdf
+MOF,10.1038/s41586-019-1798-7,Data-driven design of metal–organic frameworks for wet flue gas CO2 capture,skipped,licence unknown
+MOF,10.1126/sciadv.aat9180,Secondary building units as the turning point in the development of the reticular chemistry of MOFs,skipped,licence unknown
+MOF,10.1038/s41467-018-04467-3,Nanoparticle-templated nanofiltration membranes for ultrahigh performance desalination,kept,9 pages via https://www.nature.com/articles/s41467-018-04467-3.pdf
+MOF,10.1038/s41467-019-10218-9,Metal-organic frameworks with photocatalytic bactericidal activity for integrated air cleaning,kept,10 pages via https://www.nature.com/articles/s41467-019-10218-9.pdf
+MOF,10.1038/s41467-017-02600-2,A versatile MOF-based trap for heavy metal ion capture and dispersion,kept,9 pages via https://www.nature.com/articles/s41467-017-02600-2.pdf
+MOF,10.1038/s41467-024-45563-x,Structured information extraction from scientific text with large language models,kept,14 pages via https://www.nature.com/articles/s41467-024-45563-x.pdf
+MOF,10.1038/s41467-021-26947-9,Horizontally arranged zinc platelet electrodeposits modulated by fluorinated covalent organic framework film for high-rate and durable aqueous zinc ion batteries,kept,14 pages via https://www.nature.com/articles/s41467-021-26947-9.pdf
+MOF,10.1038/s42004-019-0184-6,Metal-organic framework functionalization and design strategies for advanced electrochemical energy storage devices,skipped,already used (this or another domain)
+MOF,10.1038/s41467-018-07850-2,Enhanced oxygen reduction with single-atomic-site iron catalysts for a zinc-air battery and hydrogen-air fuel cell,skipped,already used (this or another domain)
+MOF,10.1038/s41467-020-16848-8,Engineering unsymmetrically coordinated Cu-S1N3 single atom sites with enhanced oxygen reduction activity,skipped,already used (this or another domain)
+MOF,10.1038/s41586-019-1798-7,Data-driven design of metal–organic frameworks for wet flue gas CO2 capture,skipped,licence unknown
+MOF,10.1126/sciadv.aat9180,Secondary building units as the turning point in the development of the reticular chemistry of MOFs,skipped,licence unknown
+MOF,10.1038/s41467-018-04467-3,Nanoparticle-templated nanofiltration membranes for ultrahigh performance desalination,skipped,already used (this or another domain)
+MOF,10.1038/s41467-019-10218-9,Metal-organic frameworks with photocatalytic bactericidal activity for integrated air cleaning,skipped,already used (this or another domain)
+MOF,10.1038/s41467-017-02600-2,A versatile MOF-based trap for heavy metal ion capture and dispersion,skipped,already used (this or another domain)
+MOF,10.1038/s41467-024-45563-x,Structured information extraction from scientific text with large language models,skipped,already used (this or another domain)
+MOF,10.1038/s41467-021-26947-9,Horizontally arranged zinc platelet electrodeposits modulated by fluorinated covalent organic framework film for high-rate and durable aqueous zinc ion batteries,skipped,already used (this or another domain)
+MOF,10.1002/advs.201801526,Metal–Organic Framework‐Based Stimuli‐Responsive Systems for Drug Delivery,skipped,venue Advanced Science not in --venues
+MOF,10.1038/s41467-018-08144-3,Chromium-ruthenium oxide solid solution electrocatalyst for highly efficient oxygen evolution reaction in acidic media,kept,13 pages via https://www.nature.com/articles/s41467-018-08144-3.pdf
+MOF,10.1038/s41467-018-03162-7,Adsorption-based atmospheric water harvesting device for arid climates,kept,8 pages via https://www.nature.com/articles/s41467-018-03162-7.pdf
+MOF,10.1126/sciadv.aat3198,Practical water production from desert air,kept,9 pages via https://europepmc.org/articles/PMC5993474?pdf=render
+MOF,10.1038/s41467-021-21595-5,Modulating electronic structure of metal-organic frameworks by introducing atomically dispersed Ru for efficient hydrogen evolution,kept,8 pages via https://www.nature.com/articles/s41467-021-21595-5.pdf
+MOF,10.1038/s41467-019-12857-4,Conductive 2D metal-organic framework for high-performance cathodes in aqueous rechargeable zinc batteries,kept,10 pages via https://www.nature.com/articles/s41467-019-12857-4.pdf
+MOF,10.1038/s41467-019-13051-2,Missing-linker metal-organic frameworks for oxygen evolution reaction,kept,8 pages via https://www.nature.com/articles/s41467-019-13051-2.pdf
+MOF,10.1039/d0sc01432j,Bimetallic metal–organic frameworks and their derivatives,skipped,venue Chemical Science not in --venues
+MOF,10.1021/acscentsci.9b00745,Rapid Cycling and Exceptional Yield in a Metal-Organic Framework Water Harvester,skipped,licence other-oa
+MOF,10.1038/s41467-020-17755-8,Understanding the diversity of the metal-organic framework ecosystem,kept,10 pages via https://www.nature.com/articles/s41467-020-17755-8.pdf
+MOF,10.1038/s41467-021-21527-3,Rational design of isostructural 2D porphyrin-based covalent organic frameworks for tunable photocatalytic hydrogen evolution,kept,9 pages via https://www.nature.com/articles/s41467-021-21527-3.pdf
+MOF,10.1126/sciadv.aaq0066,Ultrafast selective transport of alkali metal ions in metal organic frameworks with subnanometer pores,kept,8 pages via https://europepmc.org/articles/PMC5817922?pdf=render
+MOF,10.1038/s41467-019-09942-z,Circularly polarized light detection using chiral hybrid perovskite,kept,7 pages via https://www.nature.com/articles/s41467-019-09942-z.pdf
+MOF,10.1126/sciadv.abb2695,Integrated cascade nanozyme catalyzes in vivo ROS scavenging for anti-inflammatory therapy,kept,10 pages via https://europepmc.org/articles/PMC7439611?pdf=render
+MOF,10.1021/acscentsci.8b00073,Stable Metal–Organic Frameworks with Group 4 Metals: Current Status and Trends,skipped,licence other-oa
+MOF,10.1126/science.aao0865,Atomic-resolution transmission electron microscopy of electron beam–sensitive crystalline materials,skipped,licence unknown
+MOF,10.1021/acscentsci.0c00690,Postsynthetic Modification: An Enabling Technology for the Advancement of Metal–Organic Frameworks,skipped,licence other-oa
+MOF,10.1038/s41586-018-0366-x,Direct arylation of strong aliphatic C–H bonds,skipped,licence unknown
+MOF,10.1038/s41467-019-14199-7,Self-assembled single-atom nanozyme for enhanced photodynamic therapy treatment of tumor,kept,13 pages via https://www.nature.com/articles/s41467-019-14199-7.pdf
+MOF,10.1038/s41467-020-15141-y,Synergistic electroreduction of carbon dioxide to carbon monoxide on bimetallic layered conjugated metal-organic frameworks,kept,10 pages via https://www.nature.com/articles/s41467-020-15141-y.pdf
+MOF,10.1002/advs.202104374,Metal‐Organic Framework Based Gas Sensors,skipped,venue Advanced Science not in --venues
+MOF,10.1021/acscentsci.0c00678,"Metal–Organic Frameworks for Water Harvesting from Air, Anywhere, Anytime",skipped,licence other-oa
+MOF,10.1038/s41467-019-09365-w,Exceptional hydrogen storage achieved by screening nearly half a million metal-organic frameworks,kept,9 pages via https://www.nature.com/articles/s41467-019-09365-w.pdf
+MOF,10.1038/s41467-018-06938-z,Oriented electron transmission in polyoxometalate-metalloporphyrin organic framework for highly selective electroreduction of CO2,kept,8 pages via https://www.nature.com/articles/s41467-018-06938-z.pdf
+MOF,10.1038/s41467-020-16715-6,Nanocasting SiO2 into metal–organic frameworks imparts dual protection to high-loading Fe single-atom electrocatalysts,kept,7 pages via https://www.nature.com/articles/s41467-020-16715-6.pdf
+MOF,10.1002/advs.202001274,"Carbon‐Based Composite Phase Change Materials for Thermal Energy Storage, Transfer, and Conversion",skipped,venue Advanced Science not in --venues
+MOF,10.1038/s41467-019-08434-4,Stable radical anions generated from a porous perylenediimide metal-organic framework for boosting near-infrared photothermal conversion,kept,8 pages via https://www.nature.com/articles/s41467-019-08434-4.pdf
+MOF,10.1038/s41586-018-0669-y,Catalytic enantioconvergent coupling of secondary and tertiary electrophiles with olefins,skipped,licence unknown
+MOF,10.1038/s41467-020-20298-7,MOF-in-COF molecular sieving membrane for selective hydrogen separation,kept,10 pages via https://www.nature.com/articles/s41467-020-20298-7.pdf
+MOF,10.1126/science.abb3976,Cooperative carbon capture and steam regeneration with tetraamine-appended metal–organic frameworks,skipped,licence unknown
+MOF,10.1021/acscentsci.7b00605,"Rapid, Selective Heavy Metal Removal from Water by a Metal–Organic Framework/Polydopamine Composite",skipped,licence other-oa
+MOF,10.1038/s41467-022-30687-9,Towards universal neural network potential for material discovery applicable to arbitrary combination of 45 elements,kept,11 pages via https://www.nature.com/articles/s41467-022-30687-9.pdf
+MOF,10.1039/c9sc03800k,A stable covalent organic framework for photocatalytic carbon dioxide reduction,skipped,venue Chemical Science not in --venues
+MOF,10.1038/s41467-019-09157-2,Fluorinated MOF platform for selective removal and sensing of SO2 from flue gas and air,kept,10 pages via https://www.nature.com/articles/s41467-019-09157-2.pdf
+MOF,10.1126/sciadv.aar3208,Favoring the unfavored: Selective electrochemical nitrogen fixation using a reticular chemistry approach,skipped,publisher: HTTPError: HTTP Error 403: Forbidden | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: HTTPError: HTTP Error 403: Forbidden
+MOF,10.1021/acscentsci.0c00687,Metal–Organic Frameworks for Enzyme Immobilization: Beyond Host Matrix Materials,skipped,licence other-oa
+MOF,10.1021/acscentsci.9b01006,Single Crystals of Electrically Conductive Two-Dimensional Metal–Organic Frameworks: Structural and Electrical Transport Properties,skipped,licence other-oa
+MOF,10.1038/s41467-022-29076-z,In situ photodeposition of platinum clusters on a covalent organic framework for photocatalytic hydrogen production,kept,9 pages via https://www.nature.com/articles/s41467-022-29076-z.pdf
+MOF,10.1038/s41467-023-40007-4,"Covalent organic frameworks for direct photosynthesis of hydrogen peroxide from water, air and sunlight",kept,10 pages via https://www.nature.com/articles/s41467-023-40007-4.pdf
+FET,10.1038/nature25747,Multi-terminal memtransistors from polycrystalline monolayer molybdenum disulfide,skipped,licence unknown
+FET,10.1126/science.aao6750,Aptamer–field-effect transistors overcome Debye length limitations for small-molecule sensing,skipped,licence unknown
+FET,10.1038/s41586-019-1052-3,Van der Waals contacts between three-dimensional metals and two-dimensional semiconductors,skipped,licence unknown
+FET,10.1038/s41467-020-20732-w,Benchmarking monolayer MoS2 and WS2 field-effect transistors,kept,12 pages via https://www.nature.com/articles/s41467-020-20732-w.pdf
+FET,10.1002/advs.202104374,Metal‐Organic Framework Based Gas Sensors,skipped,venue Advanced Science not in --venues
+FET,10.1038/s41586-020-2861-0,Logic-in-memory based on an atomically thin semiconductor,skipped,licence unknown
+FET,10.1038/s41467-020-15330-9,Ultrasensitive detection of nucleic acids using deformed graphene channel field effect biosensors,kept,11 pages via https://www.nature.com/articles/s41467-020-15330-9.pdf
+FET,10.1126/sciadv.abk0967,Wearable aptamer-field-effect transistor sensing system for noninvasive cortisol monitoring,skipped,publisher: no URL | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: no URL
+FET,10.1038/s41586-022-05134-w,P-type electrical contacts for 2D transition-metal dichalcogenides,kept,40 pages via https://www.repository.cam.ac.uk/bitstreams/d4e120c5-b62d-4d28-9ed5-4a52ad7056a9/download
+FET,10.1038/s41467-018-07706-9,Single crystal hybrid perovskite field-effect transistors,kept,10 pages via https://www.nature.com/articles/s41467-018-07706-9.pdf
+FET,10.1126/science.aat8126,Controlled crack propagation for atomic precision handling of wafer-scale two-dimensional materials,skipped,licence unknown
+FET,10.1126/sciadv.aav9653,Metal oxide semiconductor nanomembrane–based soft unnoticeable multifunctional electronics for wearable human-machine interfaces,skipped,publisher: HTTPError: HTTP Error 403: Forbidden | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: HTTPError: HTTP Error 403: Forbidden
+FET,10.1038/s41586-019-0961-5,Molecular streaming and its voltage control in ångström-scale channels,skipped,licence other-oa
+FET,10.1126/sciadv.aat8355,"Electronic structures and unusually robust bandgap in an ultrahigh-mobility layered oxide semiconductor, Bi 2 O 2 Se",skipped,publisher: HTTPError: HTTP Error 403: Forbidden | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: HTTPError: HTTP Error 403: Forbidden
+FET,10.1038/s41586-022-04745-7,Epitaxial single-crystal hexagonal boron nitride multilayers on Ni (111),skipped,publisher: no URL | europepmc: no URL | unpaywall: no URL
+FET,10.1126/sciadv.abb2891,"Smart, soft contact lens for wireless immunosensing of cortisol",kept,9 pages via https://europepmc.org/articles/PMC7455488?pdf=render
+FET,10.1038/s41467-019-10738-4,Van der Waals negative capacitance transistors,kept,8 pages via https://www.nature.com/articles/s41467-019-10738-4.pdf
+FET,10.1126/sciadv.aap9264,Ultrahigh-performance transparent conductive films of carbon-welded isolated single-wall carbon nanotubes,skipped,publisher: HTTPError: HTTP Error 403: Forbidden | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: HTTPError: HTTP Error 403: Forbidden
+FET,10.1038/s41467-022-35339-6,Sliding induced multiple polarization states in two-dimensional ferroelectrics,kept,10 pages via https://www.nature.com/articles/s41467-022-35339-6.pdf
+FET,10.1038/s41467-021-21320-2,Van der Waals engineering of ferroelectric heterostructures for long-retention memory,kept,8 pages via https://www.nature.com/articles/s41467-021-21320-2.pdf
+FET,10.1038/s41467-018-05235-z,Single-molecule detection with a millimetre-sized transistor,kept,10 pages via https://www.nature.com/articles/s41467-018-05235-z.pdf
+FET,10.1038/s41467-022-28480-9,High-mobility hydrogenated polycrystalline In2O3 (In2O3:H) thin-film transistors,kept,8 pages via https://www.nature.com/articles/s41467-022-28480-9.pdf
+FET,10.1126/sciadv.aax0729,Organ-on-e-chip: Three-dimensional self-rolled biosensor array for electrical interrogations of human electrogenic spheroids,kept,11 pages via https://europepmc.org/articles/PMC6707782?pdf=render
+FET,10.1038/s41586-018-0788-5,Electric-field-tuned topological phase transition in ultrathin Na3Bi,skipped,licence unknown
+FET,10.1126/sciadv.aaz4948,"A general approach for hysteresis-free, operationally stable metal halide perovskite field-effect transistors",kept,12 pages via https://europepmc.org/articles/PMC7148112?pdf=render
+FET,10.1126/science.adp3575,Ultrafast high-endurance memory based on sliding ferroelectrics,skipped,licence unknown
+FET,10.1038/s41467-020-17297-z,Low-voltage 2D materials-based printed field-effect transistors for integrated digital and analog electronics on paper,kept,9 pages via https://www.nature.com/articles/s41467-020-17297-z.pdf
+FET,10.1126/science.abp8278,Carbon nanotube transistors: Making electronics from molecules,skipped,publisher: no URL | europepmc: no URL | unpaywall: no URL
+FET,10.1038/s41467-021-22332-8,A biomimetic neural encoder for spiking neural network,kept,10 pages via https://www.nature.com/articles/s41467-021-22332-8.pdf
+FET,10.1038/s41467-020-16979-y,Selective ion sensing with high resolution large area graphene field effect transistor arrays,kept,12 pages via https://www.nature.com/articles/s41467-020-16979-y.pdf
+FET,10.1038/s41467-018-05155-y,Intrinsically ionic conductive cellulose nanopapers applied as all solid dielectrics for low voltage organic transistors,kept,10 pages via https://www.nature.com/articles/s41467-018-05155-y.pdf
+FET,10.1038/s41467-019-09219-5,Radiation tolerance of two-dimensional material-based devices for space applications,kept,10 pages via https://www.nature.com/articles/s41467-019-09219-5.pdf
+FET,10.1038/s41467-020-16766-9,Oxidation-boosted charge trapping in ultra-sensitive van der Waals materials for artificial synaptic features,kept,11 pages via https://www.nature.com/articles/s41467-020-16766-9.pdf
+FET,10.1126/sciadv.abj7422,Implantable aptamer–field-effect transistor neuroprobes for in vivo neurotransmitter monitoring,skipped,publisher: HTTPError: HTTP Error 403: Forbidden | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: HTTPError: HTTP Error 403: Forbidden
+FET,10.1038/s41467-024-46170-6,Epitaxy of wafer-scale single-crystal MoS2 monolayer via buffer layer control,kept,9 pages via https://www.nature.com/articles/s41467-024-46170-6.pdf
+FET,10.1038/s41467-019-13797-9,Is negative capacitance FET a steep-slope logic switch?,kept,8 pages via https://www.nature.com/articles/s41467-019-13797-9.pdf
+FET,10.1038/s41586-024-07438-5,Van der Waals polarity-engineered 3D integration of 2D complementary logic,skipped,publisher: no URL | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: no URL
+FET,10.1038/s41586-024-07360-w,Selenium-alloyed tellurium oxide for amorphous p-channel transistors,kept,18 pages via https://www.nature.com/articles/s41586-024-07360-w.pdf
+FET,10.1038/s43246-020-00114-x,Extended gate field-effect-transistor for sensing cortisol stress hormone,skipped,venue Communications Materials not in --venues
+FET,10.1038/s41467-019-10188-y,"High-mobility, trap-free charge transport in conjugated polymer diodes",kept,9 pages via https://www.nature.com/articles/s41467-019-10188-y.pdf
+FET,10.1126/sciadv.aav3430,Dynamically controllable polarity modulation of MoTe 2 field-effect transistors through ultraviolet light and electrostatic activation,skipped,publisher: HTTPError: HTTP Error 403: Forbidden | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: HTTPError: HTTP Error 403: Forbidden
+FET,10.1126/sciadv.abf7194,Smart contact lens and transparent heat patch for remote monitoring and therapy of chronic ocular surface inflammation using mobiles,kept,10 pages via https://europepmc.org/articles/PMC8011975?pdf=render
+FET,10.1038/s41467-019-10519-z,Impact of polymorphism on the optoelectronic properties of a low-bandgap semiconducting polymer,kept,11 pages via https://www.nature.com/articles/s41467-019-10519-z.pdf
+FET,10.1038/s41467-020-16623-9,Nonvolatile ferroelectric field-effect transistors,kept,9 pages via https://www.nature.com/articles/s41467-020-16623-9.pdf
+FET,10.1038/s41586-024-07786-2,Single-crystalline metal-oxide dielectrics for top-gate 2D transistors,kept,19 pages via https://europepmc.org/articles/PMC11338823?pdf=render
+FET,10.1038/s41467-024-46878-5,High-performance ferroelectric field-effect transistors with ultra-thin indium tin oxide channels for flexible and transparent electronics,kept,9 pages via https://www.nature.com/articles/s41467-024-46878-5.pdf
+FET,10.1038/s41467-020-15096-0,A FinFET with one atomic layer channel,kept,7 pages via https://www.nature.com/articles/s41467-020-15096-0.pdf
+FET,10.1038/s41467-019-09573-4,Free radical sensors based on inner-cutting graphene field-effect transistors,kept,10 pages via https://www.nature.com/articles/s41467-019-09573-4.pdf
+FET,10.1002/advs.202305679,Integrated In‐Memory Sensor and Computing of Artificial Vision Based on Full‐vdW Optoelectronic Ferroelectric Field‐Effect Transistor,skipped,venue Advanced Science not in --venues
+FET,10.1038/s41467-022-31886-0,Low-defect-density WS2 by hydroxide vapor phase deposition,kept,8 pages via https://www.nature.com/articles/s41467-022-31886-0.pdf
+electrocatalysis,10.1126/science.aav3506,What would it take for renewably powered electrosynthesis to displace petrochemical processes?,skipped,licence unknown
+electrocatalysis,10.1126/science.aar6611,Beyond fossil fuel–driven nitrogen transformations,skipped,licence unknown
+electrocatalysis,10.1126/science.aaw7493,Engineering bunched Pt-Ni alloy nanocages for efficient oxygen reduction in practical fuel cells,skipped,licence unknown
+electrocatalysis,10.1126/science.aay4217,CO 2 electrolysis to multicarbon products at activities greater than 1 A cm −2,skipped,licence unknown
+electrocatalysis,10.1038/s41586-019-1603-7,PdMo bimetallene for oxygen reduction catalysis,skipped,licence unknown
+electrocatalysis,10.1038/s41467-019-13092-7,Non-noble metal-nitride based electrocatalysts for high-performance alkaline seawater electrolysis,kept,10 pages via https://www.nature.com/articles/s41467-019-13092-7.pdf
+electrocatalysis,10.1038/s41586-019-1782-2,Molecular tuning of CO2-to-ethylene conversion,skipped,licence unknown
+electrocatalysis,10.1038/s41467-020-16237-1,In-situ structure and catalytic mechanism of NiFe and CoFe layered double hydroxides during oxygen evolution,kept,10 pages via https://www.nature.com/articles/s41467-020-16237-1.pdf
+electrocatalysis,10.1038/s41467-018-05341-y,Atomic-level insight into super-efficient electrocatalytic oxygen evolution on iron and vanadium co-doped nickel (oxy)hydroxide,kept,12 pages via https://www.nature.com/articles/s41467-018-05341-y.pdf
+electrocatalysis,10.1038/s41467-021-21919-5,Regulating Fe-spin state by atomically dispersed Mn-N in Fe-N-C catalysts with high oxygen reduction activity,kept,10 pages via https://www.nature.com/articles/s41467-021-21919-5.pdf
+electrocatalysis,10.1038/s41467-018-03896-4,Anchoring zero valence single atoms of nickel and iron on graphdiyne for hydrogen evolution,kept,10 pages via https://www.nature.com/articles/s41467-018-03896-4.pdf
+electrocatalysis,10.1038/s41467-018-07850-2,Enhanced oxygen reduction with single-atomic-site iron catalysts for a zinc-air battery and hydrogen-air fuel cell,skipped,already used (this or another domain)
+electrocatalysis,10.1038/s41467-018-03712-z,Ultrathin bismuth nanosheets from in situ topotactic transformation for selective electrocatalytic CO2 reduction to formate,kept,8 pages via https://www.nature.com/articles/s41467-018-03712-z.pdf
+electrocatalysis,10.1038/s41467-022-28728-4,Splicing the active phases of copper/cobalt-based catalysts achieves high-rate tandem electroreduction of nitrate to ammonia,kept,13 pages via https://www.nature.com/articles/s41467-022-28728-4.pdf
+electrocatalysis,10.1038/s41467-019-09290-y,Cascade anchoring strategy for general mass production of high-loading single-atomic metal-nitrogen catalysts,kept,11 pages via https://www.nature.com/articles/s41467-019-09290-y.pdf
+electrocatalysis,10.1021/acscentsci.0c01532,Organic Electrochemistry: Molecular Syntheses with Potential,skipped,venue ACS Central Science not in --venues
+electrocatalysis,10.1038/s41586-020-2908-2,Key role of chemistry versus bias in electrocatalytic oxygen evolution,skipped,licence unknown
+electrocatalysis,10.1002/advs.201700691,Advanced Architectures and Relatives of Air Electrodes in Zn–Air Batteries,skipped,venue Advanced Science not in --venues
+electrocatalysis,10.1038/s41467-022-35664-w,Active hydrogen boosts electrochemical nitrate reduction to ammonia,kept,13 pages via https://www.nature.com/articles/s41467-022-35664-w.pdf
+electrocatalysis,10.1038/s41467-022-35533-6,Ampere-level current density ammonia electrochemical synthesis using CuCo nanosheets simulating nitrite reductase bifunctional nature,kept,13 pages via https://www.nature.com/articles/s41467-022-35533-6.pdf
+electrocatalysis,10.1126/science.ade1499,La- and Mn-doped cobalt spinel oxygen evolution catalyst for proton exchange membrane electrolysis,skipped,licence unknown
+electrocatalysis,10.1038/s41524-019-0210-3,A review of oxygen reduction mechanisms for metal-free carbon-based electrocatalysts,skipped,venue npj Computational Materials not in --venues
+electrocatalysis,10.1038/s41467-018-04213-9,Ambient ammonia synthesis via palladium-catalyzed electrohydrogenation of dinitrogen at low overpotential,kept,7 pages via https://www.nature.com/articles/s41467-018-04213-9.pdf
+electrocatalysis,10.1038/s41467-021-24828-9,Engineering single-atomic ruthenium catalytic sites on defective nickel-iron layered double hydroxide for overall water splitting,kept,11 pages via https://www.nature.com/articles/s41467-021-24828-9.pdf
+electrocatalysis,10.1038/s41467-021-25048-x,Electrocatalytic upcycling of polyethylene terephthalate to commodity chemicals and H2 fuel,kept,9 pages via https://www.nature.com/articles/s41467-021-25048-x.pdf
+electrocatalysis,10.1002/advs.201800064,Recent Progress on Layered Double Hydroxides and Their Derivatives for Electrocatalytic Water Splitting,skipped,venue Advanced Science not in --venues
+electrocatalysis,10.1038/s41467-018-03429-z,Nitrogen-doped tungsten carbide nanoarray as an efficient bifunctional electrocatalyst for water splitting in acid,kept,10 pages via https://www.nature.com/articles/s41467-018-03429-z.pdf
+electrocatalysis,10.1038/s41467-022-30379-4,Unraveling the electronegativity-dominated intermediate adsorption on high-entropy alloy electrocatalysts,skipped,publisher: unreadable PDF (LimitReachedError) | europepmc: unreadable PDF (LimitReachedError) | unpaywall: unreadable PDF (LimitReachedError)
+electrocatalysis,10.1038/s41467-018-05758-5,High-performance artificial nitrogen fixation at ambient conditions using a metal-free electrocatalyst,kept,8 pages via https://www.nature.com/articles/s41467-018-05758-5.pdf
+electrocatalysis,10.1038/s41467-022-31660-2,Subnanometric Ru clusters with upshifted D band center improve performance for alkaline hydrogen evolution reaction,kept,10 pages via https://www.nature.com/articles/s41467-022-31660-2.pdf
+electrocatalysis,10.1038/s41467-018-02819-7,Active sites of copper-complex catalytic materials for electrochemical carbon dioxide reduction,kept,9 pages via https://www.nature.com/articles/s41467-018-02819-7.pdf
+electrocatalysis,10.1038/s41467-018-08144-3,Chromium-ruthenium oxide solid solution electrocatalyst for highly efficient oxygen evolution reaction in acidic media,skipped,already used (this or another domain)
+electrocatalysis,10.1038/s41467-020-15873-x,Direct evidence of boosted oxygen evolution over perovskite by enhanced lattice oxygen participation,kept,10 pages via https://www.nature.com/articles/s41467-020-15873-x.pdf
+electrocatalysis,10.1038/s41467-019-09666-0,Boosting oxygen evolution of single-atomic ruthenium through electronic coupling with cobalt-iron layered double hydroxides,kept,11 pages via https://www.nature.com/articles/s41467-019-09666-0.pdf
+electrocatalysis,10.1126/science.adh8615,From nature to industry: Harnessing enzymes for biocatalysis,skipped,publisher: no URL | europepmc: no URL | unpaywall: no URL
+electrocatalysis,10.1038/s41467-018-07792-9,Morphology and surface chemistry engineering toward pH-universal catalysts for hydrogen evolution at high current density,kept,9 pages via https://www.nature.com/articles/s41467-018-07792-9.pdf
+electrocatalysis,10.1038/s41467-021-23390-8,Modifying redox properties and local bonding of Co3O4 by CeO2 enhances oxygen evolution catalysis in acid,kept,11 pages via https://www.nature.com/articles/s41467-021-23390-8.pdf
+electrocatalysis,10.1038/s41586-021-03454-x,Correlative operando microscopy of oxygen evolution electrocatalysts,skipped,licence unknown
+electrocatalysis,10.1038/s41467-023-39366-9,Fe/Cu diatomic catalysts for electrochemical nitrate reduction to ammonia,kept,10 pages via https://www.nature.com/articles/s41467-023-39366-9.pdf
+electrocatalysis,10.1038/s41467-019-08805-x,Promoting electrocatalytic CO2 reduction to formate via sulfur-boosting water activation on indium surfaces,kept,10 pages via https://www.nature.com/articles/s41467-019-08805-x.pdf
+electrocatalysis,10.1038/s41467-021-21595-5,Modulating electronic structure of metal-organic frameworks by introducing atomically dispersed Ru for efficient hydrogen evolution,skipped,already used (this or another domain)
+electrocatalysis,10.1038/s41467-020-19277-9,Fast site-to-site electron transfer of high-entropy alloy nanocatalyst driving redox electrocatalysis,kept,9 pages via https://www.nature.com/articles/s41467-020-19277-9.pdf
+electrocatalysis,10.1038/s41467-019-12886-z,Dynamic oxygen adsorption on single-atomic Ruthenium catalyst with high performance for acidic oxygen evolution reaction,kept,9 pages via https://www.nature.com/articles/s41467-019-12886-z.pdf
+electrocatalysis,10.1038/s41467-019-10819-4,Structural defects on converted bismuth oxide nanotubes enable highly active electrocatalysis of carbon dioxide reduction,kept,10 pages via https://www.nature.com/articles/s41467-019-10819-4.pdf
+electrocatalysis,10.1038/s41467-020-19214-w,Engineering active sites on hierarchical transition bimetal oxides/sulfides heterostructure array enabling robust overall water splitting,kept,12 pages via https://www.nature.com/articles/s41467-020-19214-w.pdf
+electrocatalysis,10.1038/s41467-022-29875-4,Activating lattice oxygen in NiFe-based (oxy)hydroxide for water electrolysis,kept,12 pages via https://www.nature.com/articles/s41467-022-29875-4.pdf
+electrocatalysis,10.1038/s41467-019-09765-y,Single platinum atoms embedded in nanoporous cobalt selenide as electrocatalyst for accelerating hydrogen evolution reaction,kept,9 pages via https://www.nature.com/articles/s41467-019-09765-y.pdf
+electrocatalysis,10.1038/s41467-019-13051-2,Missing-linker metal-organic frameworks for oxygen evolution reaction,skipped,already used (this or another domain)
+electrocatalysis,10.1002/advs.201900246,Defect‐Rich Heterogeneous MoS2/NiS2 Nanosheets Electrocatalysts for Efficient Overall Water Splitting,skipped,venue Advanced Science not in --venues
+electrocatalysis,10.1038/s41467-018-05878-y,Selectively nitrogen-doped carbon materials as superior metal-free catalysts for oxygen reduction,kept,11 pages via https://www.nature.com/articles/s41467-018-05878-y.pdf
+organic photovoltaics,10.1038/s41467-019-10351-5,Over 16% efficiency organic photovoltaic cells enabled by a chlorinated acceptor with increased open-circuit voltages,kept,8 pages via https://www.nature.com/articles/s41467-019-10351-5.pdf
+organic photovoltaics,10.1126/science.aba0893,Resolving spatial and energetic distributions of trap states in metal halide perovskite solar cells,skipped,licence unknown
+organic photovoltaics,10.1126/science.aav8680,Thermodynamically stabilized β-CsPbI 3 –based perovskite solar cells with efficiencies >18%,skipped,publisher: no URL | europepmc: no URL | unpaywall: no URL
+organic photovoltaics,10.1126/science.aau5701,A Eu 3+ -Eu 2+ ion redox shuttle imparts operational durability to Pb-I perovskite solar cells,skipped,licence unknown
+organic photovoltaics,10.1038/nature25147,Bright triplet excitons in caesium lead halide perovskites,skipped,licence unknown
+organic photovoltaics,10.1126/sciadv.aaz8867,Self-driving laboratory for accelerated discovery of thin-film materials,skipped,publisher: no URL | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: no URL
+organic photovoltaics,10.1038/s41467-020-16509-w,Cathode engineering with perylene-diimide interlayer enabling over 17% efficiency single-junction organic solar cells,kept,10 pages via https://www.nature.com/articles/s41467-020-16509-w.pdf
+organic photovoltaics,10.1038/s41467-018-07255-1,Addressing the stability issue of perovskite solar cells for commercial applications,kept,4 pages via https://www.nature.com/articles/s41467-018-07255-1.pdf
+organic photovoltaics,10.1038/s41467-018-05761-w,Accelerated discovery of stable lead-free hybrid organic-inorganic perovskites via machine learning,kept,8 pages via https://www.nature.com/articles/s41467-018-05761-w.pdf
+organic photovoltaics,10.1038/s41467-020-17867-1,Delocalization of exciton and electron wavefunction in non-fullerene acceptor molecules enables efficient organic solar cells,kept,10 pages via https://www.nature.com/articles/s41467-020-17867-1.pdf
+organic photovoltaics,10.1038/s41467-018-03169-0,Surface passivation engineering strategy to fully-inorganic cubic CsPbI3 perovskites for high-performance solar cells,kept,8 pages via https://www.nature.com/articles/s41467-018-03169-0.pdf
+organic photovoltaics,10.1038/s41467-019-13909-5,Highly efficient all-inorganic perovskite solar cells with suppressed non-radiative recombination by a Lewis base,kept,9 pages via https://www.nature.com/articles/s41467-019-13909-5.pdf
+organic photovoltaics,10.1038/s41467-023-37526-5,19.31% binary organic solar cell and low non-radiative recombination enabled by non-monotonic intermediate state transition,kept,11 pages via https://www.nature.com/articles/s41467-023-37526-5.pdf
+organic photovoltaics,10.1038/s41467-020-16034-w,Nucleation-controlled growth of superior lead-free perovskite Cs3Bi2I9 single-crystals for high-performance X-ray detection,kept,11 pages via https://www.nature.com/articles/s41467-020-16034-w.pdf
+organic photovoltaics,10.1002/advs.201903259,Progress in Stability of Organic Solar Cells,skipped,venue Advanced Science not in --venues
+organic photovoltaics,10.1038/s43246-022-00325-4,Next-generation applications for integrated perovskite solar cells,skipped,venue Communications Materials not in --venues
+organic photovoltaics,10.1038/s41467-019-08386-9,Enabling low voltage losses and high photocurrent in fullerene-free organic photovoltaics,kept,8 pages via https://www.nature.com/articles/s41467-019-08386-9.pdf
+organic photovoltaics,10.1002/advs.202000186,Polymer Materials for High‐Performance Triboelectric Nanogenerators,skipped,venue Advanced Science not in --venues
+organic photovoltaics,10.1038/s41467-019-10098-z,Simple non-fused electron acceptors for efficient and stable organic solar cells,kept,9 pages via https://www.nature.com/articles/s41467-019-10098-z.pdf
+organic photovoltaics,10.1126/science.abj2637,Metastable Dion-Jacobson 2D structure enables efficient and stable perovskite solar cells,skipped,licence unknown
+organic photovoltaics,10.1038/s41586-020-2219-7,Two-dimensional halide perovskite lateral epitaxial heterostructures,skipped,licence unknown
+organic photovoltaics,10.1038/s41467-019-10634-x,Lead halide perovskites for photocatalytic organic synthesis,kept,10 pages via https://www.nature.com/articles/s41467-019-10634-x.pdf
+organic photovoltaics,10.1038/s41467-021-22049-8,A general approach to high-efficiency perovskite solar cells by any antisolvent,kept,11 pages via https://www.nature.com/articles/s41467-021-22049-8.pdf
+organic photovoltaics,10.1002/advs.201700387,Recent Progress on the Long‐Term Stability of Perovskite Solar Cells,skipped,venue Advanced Science not in --venues
+organic photovoltaics,10.1038/s41586-021-03840-5,The role of charge recombination to triplet excitons in organic solar cells,skipped,licence unknown
+organic photovoltaics,10.1126/sciadv.abj7930,23.7% Efficient inverted perovskite solar cells by dual interfacial modification,skipped,publisher: no URL | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: no URL
+organic photovoltaics,10.1038/s41467-024-51359-w,Molecular interaction induced dual fibrils towards organic solar cells with certified efficiency over 20%,kept,10 pages via https://www.nature.com/articles/s41467-024-51359-w.pdf
+organic photovoltaics,10.1126/science.abo2757,Ion-modulated radical doping of spiro-OMeTAD for more efficient and stable perovskite solar cells,skipped,licence other-oa
+organic photovoltaics,10.1038/s41586-022-04455-0,Perovskite–organic tandem solar cells with indium oxide interconnect,skipped,licence other-oa
+organic photovoltaics,10.1038/s41467-019-11001-6,Noncovalently fused-ring electron acceptors with near-infrared absorption for high-performance organic solar cells,kept,10 pages via https://www.nature.com/articles/s41467-019-11001-6.pdf
+organic photovoltaics,10.1038/s41467-020-19029-9,Long-range exciton diffusion in molecular non-fullerene acceptors,kept,10 pages via https://www.nature.com/articles/s41467-020-19029-9.pdf
+organic photovoltaics,10.1039/c8sc05284k,Doping strategies for small molecule organic hole-transport materials: impacts on perovskite solar cell performance and stability,skipped,venue Chemical Science not in --venues
+organic photovoltaics,10.1038/s41467-021-25394-w,Completely non-fused electron acceptor with 3D-interpenetrated crystalline structure enables efficient and stable organic solar cell,kept,12 pages via https://www.nature.com/articles/s41467-021-25394-w.pdf
+organic photovoltaics,10.1038/s41586-024-08103-7,High-efficiency and thermally stable FACsPbI3 perovskite photovoltaics,skipped,publisher: no URL | europepmc: no URL | unpaywall: no URL
+organic photovoltaics,10.1038/s41467-020-16621-x,Optimized active layer morphology toward efficient and polymer batch insensitive organic solar cells,kept,9 pages via https://www.nature.com/articles/s41467-020-16621-x.pdf
+organic photovoltaics,10.1038/s41467-022-30927-y,Small reorganization energy acceptors enable low energy losses in non-fullerene organic solar cells,kept,10 pages via https://www.nature.com/articles/s41467-022-30927-y.pdf
+organic photovoltaics,10.1038/s41467-021-21945-3,A molecular photosensitizer achieves a Voc of 1.24 V enabling highly efficient and stable dye-sensitized solar cells with copper(II/I)-based electrolyte,kept,10 pages via https://www.nature.com/articles/s41467-021-21945-3.pdf
+organic photovoltaics,10.1126/sciadv.abo7422,Sequential vacuum-evaporated perovskite solar cells with more than 24% efficiency,kept,8 pages via https://europepmc.org/articles/PMC10942770?pdf=render
+organic photovoltaics,10.1038/s41467-018-07382-9,Dimensionality engineering of hybrid halide perovskite light absorbers,kept,14 pages via https://www.nature.com/articles/s41467-018-07382-9.pdf
+organic photovoltaics,10.1038/s41467-019-12613-8,Reconfiguration of interfacial energy band structure for high-performance inverted structure perovskite solar cells,kept,9 pages via https://www.nature.com/articles/s41467-019-12613-8.pdf
+organic photovoltaics,10.1038/s41467-024-46022-3,Rational molecular and device design enables organic solar cells approaching 20% efficiency,kept,10 pages via https://www.nature.com/articles/s41467-024-46022-3.pdf
+organic photovoltaics,10.1038/s41467-018-06204-2,In-situ cross-linking strategy for efficient and operationally stable methylammoniun lead iodide solar cells,kept,10 pages via https://www.nature.com/articles/s41467-018-06204-2.pdf
+organic photovoltaics,10.1038/s41467-020-18378-9,Random terpolymer based on thiophene-thiazolothiazole unit enabling efficient non-fullerene organic solar cells,kept,9 pages via https://www.nature.com/articles/s41467-020-18378-9.pdf
+organic photovoltaics,10.1038/s41467-019-13292-1,All-small-molecule organic solar cells with over 14% efficiency by optimizing hierarchical morphologies,kept,9 pages via https://www.nature.com/articles/s41467-019-13292-1.pdf
+organic photovoltaics,10.1038/s41467-018-07017-z,Design and application of volatilizable solid additives in non-fullerene organic solar cells,kept,9 pages via https://www.nature.com/articles/s41467-018-07017-z.pdf
+organic photovoltaics,10.1038/s41467-022-29803-6,Vertically optimized phase separation with improved exciton diffusion enables efficient organic solar cells with thick active layers,kept,11 pages via https://www.nature.com/articles/s41467-022-29803-6.pdf
+organic photovoltaics,10.1038/s41467-019-08980-x,Synthetic control over orientational degeneracy of spacer cations enhances solar cell efficiency in two-dimensional perovskites,kept,11 pages via https://www.nature.com/articles/s41467-019-08980-x.pdf
+photocatalysis,10.1038/s41586-020-2442-2,A mobile robotic chemist,skipped,licence unknown
+photocatalysis,10.1038/s41467-020-18350-7,Unique S-scheme heterojunctions in self-assembled TiO2/CsPbBr3 hybrids for CO2 photoreduction,kept,9 pages via https://www.nature.com/articles/s41467-020-18350-7.pdf
+photocatalysis,10.1038/s41467-021-24511-z,Interfacial chemical bond and internal electric field modulated Z-scheme Sv-ZnIn2S4/MoSe2 photocatalyst for efficient hydrogen evolution,kept,11 pages via https://www.nature.com/articles/s41467-021-24511-z.pdf
+photocatalysis,10.1038/s41467-018-03765-0,Tuning defects in oxides at room temperature by lithium reduction,kept,9 pages via https://www.nature.com/articles/s41467-018-03765-0.pdf
+photocatalysis,10.1038/s41586-018-0835-2,Photoredox catalysis using infrared light via triplet fusion upconversion,skipped,licence unknown
+photocatalysis,10.1038/s41586-022-04443-4,Reconstructed covalent organic frameworks,kept,19 pages via https://www.nature.com/articles/s41586-022-04443-4.pdf
+photocatalysis,10.1038/s41467-021-21527-3,Rational design of isostructural 2D porphyrin-based covalent organic frameworks for tunable photocatalytic hydrogen evolution,skipped,already used (this or another domain)
+photocatalysis,10.1126/science.aaw3254,Organic semiconductor photocatalyst can bifunctionalize arenes and heteroarenes,skipped,licence unknown
+photocatalysis,10.1038/s41586-022-05183-1,Spatiotemporal imaging of charge transfer in photocatalyst particles,kept,19 pages via https://www.researchsquare.com/article/rs-251007/latest.pdf
+photocatalysis,10.1038/s41467-022-28995-1,Protruding Pt single-sites on hexagonal ZnIn2S4 to accelerate photocatalytic hydrogen evolution,kept,10 pages via https://www.nature.com/articles/s41467-022-28995-1.pdf
+photocatalysis,10.1038/s41467-020-14333-w,Manipulating spin polarization of titanium dioxide for efficient photocatalysis,kept,9 pages via https://www.nature.com/articles/s41467-020-14333-w.pdf
+photocatalysis,10.1002/advs.201903171,Z‐Scheme Photocatalytic Systems for Solar Water Splitting,skipped,venue Advanced Science not in --venues
+photocatalysis,10.1038/s41467-018-03666-2,Size-dependent activity and selectivity of carbon dioxide photocatalytic reduction over platinum nanoparticles,kept,11 pages via https://www.nature.com/articles/s41467-018-03666-2.pdf
+photocatalysis,10.1126/science.aar6376,Catalytic enantioselective Minisci-type addition to heteroarenes,skipped,licence unknown
+photocatalysis,10.1038/s41467-022-32449-z,Linking oxidative and reductive clusters to prepare crystalline porous catalysts for photocatalytic CO2 reduction with H2O,kept,10 pages via https://www.nature.com/articles/s41467-022-32449-z.pdf
+photocatalysis,10.1038/s41467-021-21526-4,Boosting photocatalytic hydrogen production from water by photothermally induced biphase systems,kept,10 pages via https://www.nature.com/articles/s41467-021-21526-4.pdf
+photocatalysis,10.1038/s41467-019-10996-2,Fundamentals and applications of photocatalytic CO2 methanation,kept,12 pages via https://www.nature.com/articles/s41467-019-10996-2.pdf
+photocatalysis,10.1038/s41467-021-27698-3,Single-atom Cu anchored catalysts for photocatalytic renewable H2 production with a quantum efficiency of 56%,kept,10 pages via https://www.nature.com/articles/s41467-021-27698-3.pdf
+photocatalysis,10.1038/s41467-019-10392-w,Isolated single atom cobalt in Bi3O4Br atomic layers to trigger efficient CO2 photoreduction,kept,7 pages via https://www.nature.com/articles/s41467-019-10392-w.pdf
+photocatalysis,10.1038/s41467-023-42887-y,Developing Ni single-atom sites in carbon nitride for efficient photocatalytic H2O2 production,kept,13 pages via https://www.nature.com/articles/s41467-023-42887-y.pdf
+photocatalysis,10.1038/s41467-017-02547-4,Carbon-doped SnS2 nanostructure as a high-efficiency solar fuel catalyst under visible light,kept,10 pages via https://www.nature.com/articles/s41467-017-02547-4.pdf
+photocatalysis,10.1038/s41467-023-36710-x,Tuning excited state electronic structure and charge transport in covalent organic frameworks for enhanced photocatalytic performance,kept,12 pages via https://www.nature.com/articles/s41467-023-36710-x.pdf
+photocatalysis,10.1038/s41467-024-49004-7,Ultrafast electron transfer at the In2O3/Nb2O5 S-scheme interface for CO2 photoreduction,skipped,publisher: no URL | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: no URL
+photocatalysis,10.1038/s41467-023-40991-7,Dual donor-acceptor covalent organic frameworks for hydrogen peroxide photosynthesis,kept,12 pages via https://www.nature.com/articles/s41467-023-40991-7.pdf
+photocatalysis,10.1126/science.aay4106,Microenvironment mapping via Dexter energy transfer on immune cells,skipped,licence unknown
+photocatalysis,10.1038/s41467-019-10634-x,Lead halide perovskites for photocatalytic organic synthesis,skipped,already used (this or another domain)
+photocatalysis,10.1038/s41467-020-20823-8,A metal-free photocatalyst for highly efficient hydrogen peroxide photoproduction in real seawater,kept,10 pages via https://www.nature.com/articles/s41467-020-20823-8.pdf
+photocatalysis,10.1038/s41467-022-30035-x,Covalent organic frameworks with high quantum efficiency in sacrificial photocatalytic hydrogen evolution,kept,9 pages via https://www.nature.com/articles/s41467-022-30035-x.pdf
+photocatalysis,10.1038/s41467-022-28146-6,Unraveling of cocatalysts photodeposited selectively on facets of BiVO4 to boost solar water splitting,kept,9 pages via https://www.nature.com/articles/s41467-022-28146-6.pdf
+photocatalysis,10.1039/c9sc03800k,A stable covalent organic framework for photocatalytic carbon dioxide reduction,skipped,venue Chemical Science not in --venues
+photocatalysis,10.1038/s41467-021-24882-3,Synergy of ferroelectric polarization and oxygen vacancy to promote CO2 photoreduction,kept,10 pages via https://www.nature.com/articles/s41467-021-24882-3.pdf
+photocatalysis,10.1038/s41467-019-08651-x,Porous hypercrosslinked polymer-TiO2-graphene composite photocatalysts for visible-light-driven CO2 conversion,kept,10 pages via https://www.nature.com/articles/s41467-019-08651-x.pdf
+photocatalysis,10.1038/s41467-022-29076-z,In situ photodeposition of platinum clusters on a covalent organic framework for photocatalytic hydrogen production,skipped,already used (this or another domain)
+photocatalysis,10.1038/s41467-021-21925-7,Modulating electron density of vacancy site by single Au atom for effective CO2 photoreduction,kept,10 pages via https://www.nature.com/articles/s41467-021-21925-7.pdf
+photocatalysis,10.1038/s41467-020-16742-3,Direct and indirect Z-scheme heterostructure-coupled photosystem enabling cooperation of CO2 reduction and H2O oxidation,kept,11 pages via https://www.nature.com/articles/s41467-020-16742-3.pdf
+photocatalysis,10.1038/s41467-021-24048-1,Mechanistic analysis of multiple processes controlling solar-driven H2O2 synthesis using engineered polymeric carbon nitride,kept,11 pages via https://www.nature.com/articles/s41467-021-24048-1.pdf
+photocatalysis,10.1038/s41467-020-18944-1,Rationally designed transition metal hydroxide nanosheet arrays on graphene for artificial CO2 reduction,kept,9 pages via https://www.nature.com/articles/s41467-020-18944-1.pdf
+photocatalysis,10.1038/s41467-018-07420-6,Understanding structure-activity relationships in linear polymer photocatalysts for hydrogen evolution,kept,11 pages via https://www.nature.com/articles/s41467-018-07420-6.pdf
+photocatalysis,10.1038/s41467-023-36778-5,Room-temperature photosynthesis of propane from CO2 with Cu single atoms on vacancy-rich TiO2,kept,9 pages via https://www.nature.com/articles/s41467-023-36778-5.pdf
+photocatalysis,10.1002/advs.201900796,Graphitic Carbon Nitride with Dopant Induced Charge Localization for Enhanced Photoreduction of CO 2 to CH 4,skipped,venue Advanced Science not in --venues
+photocatalysis,10.1002/advs.201900053,Structure‐Activity Relationship of Defective Metal‐Based Photocatalysts for Water Splitting: Experimental and Theoretical Perspectives,skipped,venue Advanced Science not in --venues
+photocatalysis,10.1038/s41467-023-36779-4,Designing covalent organic frameworks with Co-O4 atomic sites for efficient CO2 photoreduction,kept,11 pages via https://www.nature.com/articles/s41467-023-36779-4.pdf
+photocatalysis,10.1038/s41467-022-28686-x,Overall photosynthesis of H2O2 by an inorganic semiconductor,kept,8 pages via https://www.nature.com/articles/s41467-022-28686-x.pdf
+thermoelectrics,10.1038/s41586-019-1335-8,Unsupervised word embeddings capture latent knowledge from materials science literature,skipped,licence unknown
+thermoelectrics,10.1126/science.aaz5045,Giant thermopower of ionic gelatin near room temperature,skipped,publisher: no URL | europepmc: no URL | unpaywall: no URL
+thermoelectrics,10.1038/s41467-018-07508-z,Plasmon induced thermoelectric effect in graphene,kept,9 pages via https://www.nature.com/articles/s41467-018-07508-z.pdf
+thermoelectrics,10.1038/s41467-021-22440-5,Efficient calculation of carrier scattering rates from first principles,kept,9 pages via https://www.nature.com/articles/s41467-021-22440-5.pdf
+thermoelectrics,10.1126/sciadv.aaw0536,Wearable thermoelectrics for personalized thermoregulation,skipped,publisher: HTTPError: HTTP Error 403: Forbidden | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: HTTPError: HTTP Error 403: Forbidden
+thermoelectrics,10.1038/s41467-021-21103-9,A flexible electromagnetic wave-electricity harvester,kept,8 pages via https://www.nature.com/articles/s41467-021-21103-9.pdf
+thermoelectrics,10.1038/s41467-019-08835-5,High performance n-type Ag2Se film on nylon membrane for flexible thermoelectric power generator,kept,7 pages via https://www.nature.com/articles/s41467-019-08835-5.pdf
+thermoelectrics,10.1126/sciadv.abb9083,Hierarchically patterned self-powered sensors for multifunctional tactile sensing,kept,9 pages via https://europepmc.org/articles/PMC7438107?pdf=render
+thermoelectrics,10.1038/s41467-018-04958-3,Discovery of ZrCoBi based half Heuslers with high thermoelectric conversion efficiency,kept,9 pages via https://www.nature.com/articles/s41467-018-04958-3.pdf
+thermoelectrics,10.1038/s41467-020-14399-6,Stretchable fabric generates electric power from woven thermoelectric fibers,kept,10 pages via https://www.nature.com/articles/s41467-020-14399-6.pdf
+thermoelectrics,10.1038/s41467-018-08223-5,Discovery of TaFeSb-based half-Heuslers with high thermoelectric performance,kept,8 pages via https://www.nature.com/articles/s41467-018-08223-5.pdf
+thermoelectrics,10.1002/advs.201700602,"Tin Selenide (SnSe): Growth, Properties, and Applications",skipped,venue Advanced Science not in --venues
+thermoelectrics,10.1126/sciadv.abe0586,"High-performance wearable thermoelectric generator with self-healing, recycling, and Lego-like reconfiguring capabilities",kept,8 pages via https://europepmc.org/articles/PMC7875524?pdf=render
+thermoelectrics,10.1038/s41467-019-09874-8,Phase-field modeling and machine learning of electric-thermal-mechanical breakdown of polymer-based dielectrics,kept,10 pages via https://www.nature.com/articles/s41467-019-09874-8.pdf
+thermoelectrics,10.1038/s41467-020-19756-z,High-performance compliant thermoelectric generators with magnetically self-assembled soft heat conductors for self-powered wearable electronics,skipped,publisher: no URL | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: no URL
+thermoelectrics,10.1038/s41467-019-09707-8,Ultra-high performance wearable thermoelectric coolers with less materials,kept,13 pages via https://www.nature.com/articles/s41467-019-09707-8.pdf
+thermoelectrics,10.1038/s41467-018-06251-9,Exceptional thermoelectric properties of flexible organic−inorganic hybrids with monodispersed and periodic nanophase,kept,8 pages via https://www.nature.com/articles/s41467-018-06251-9.pdf
+thermoelectrics,10.1038/s41467-023-37436-6,Staggered circular nanoporous graphene converts electromagnetic waves into electricity,kept,9 pages via https://www.nature.com/articles/s41467-023-37436-6.pdf
+thermoelectrics,10.1038/s41467-019-08930-7,Polymer gels with tunable ionic Seebeck coefficient for ultra-sensitive printed thermopiles,kept,8 pages via https://www.nature.com/articles/s41467-019-08930-7.pdf
+thermoelectrics,10.1038/s41467-022-28798-4,Maximizing the performance of n-type Mg3Bi2 based materials for room-temperature power generation and thermoelectric cooling,kept,9 pages via https://www.nature.com/articles/s41467-022-28798-4.pdf
+thermoelectrics,10.1038/s41586-019-1074-x,Production of phosphorene nanoribbons,skipped,licence other-oa
+thermoelectrics,10.1126/sciadv.aau5849,Compliant and stretchable thermoelectric coils for energy harvesting in miniature flexible devices,kept,7 pages via https://europepmc.org/articles/PMC6214638?pdf=render
+thermoelectrics,10.1038/s41467-021-27916-y,A record thermoelectric efficiency in tellurium-free modules for low-grade waste heat recovery,kept,8 pages via https://www.nature.com/articles/s41467-021-27916-y.pdf
+thermoelectrics,10.1002/advs.201903389,Halide Perovskites: Thermal Transport and Prospects for Thermoelectricity,skipped,venue Advanced Science not in --venues
+thermoelectrics,10.1038/s41467-021-23569-z,Entropy engineering promotes thermoelectric performance in p-type chalcogenides,kept,8 pages via https://www.nature.com/articles/s41467-021-23569-z.pdf
+thermoelectrics,10.1038/s41467-020-15135-w,Elastic conducting polymer composites in thermoelectric modules,kept,10 pages via https://www.nature.com/articles/s41467-020-15135-w.pdf
+thermoelectrics,10.1038/s41467-024-45092-7,Flexible power generators by Ag2Se thin films with record-high thermoelectric performance,kept,11 pages via https://www.nature.com/articles/s41467-024-45092-7.pdf
+thermoelectrics,10.1126/sciadv.abi7233,Giant negative thermopower of ionic hydrogel by synergistic coordination and hydration interactions,kept,10 pages via https://europepmc.org/articles/PMC8612679?pdf=render
+thermoelectrics,10.1002/advs.201902923,"High‐Performance Thermoelectric SnSe: Aqueous Synthesis, Innovations, and Challenges",skipped,venue Advanced Science not in --venues
+thermoelectrics,10.1038/s41467-021-22528-y,A high-conductivity n-type polymeric ink for printed electronics,kept,8 pages via https://www.nature.com/articles/s41467-021-22528-y.pdf
+thermoelectrics,10.1038/s41467-022-33774-z,Evolution of defect structures leading to high ZT in GeTe-based thermoelectric materials,kept,9 pages via https://www.nature.com/articles/s41467-022-33774-z.pdf
+thermoelectrics,10.1126/sciadv.aaz8423,Semiconductor glass with superior flexibility and high room temperature thermoelectric performance,kept,7 pages via https://europepmc.org/articles/PMC7148084?pdf=render
+thermoelectrics,10.1038/s41467-020-19867-7,Scalable thermoelectric fibers for multifunctional textile-electronics,kept,8 pages via https://www.nature.com/articles/s41467-020-19867-7.pdf
+thermoelectrics,10.1038/s41467-021-21391-1,Towards tellurium-free thermoelectric modules for power generation from low-grade heat,kept,6 pages via https://www.nature.com/articles/s41467-021-21391-1.pdf
+thermoelectrics,10.1038/s41467-018-05248-8,Suppression of atom motion and metal deposition in mixed ionic electronic conductors,kept,8 pages via https://www.nature.com/articles/s41467-018-05248-8.pdf
+thermoelectrics,10.1126/sciadv.aar5606,Thermal conductivity in Bi 0.5 Sb 1.5 Te 3+ x and the role of dense dislocation arrays at grain boundaries,kept,8 pages via https://europepmc.org/articles/PMC5983911?pdf=render
+thermoelectrics,10.1002/advs.202001362,Thermoelectric Generators: Alternative Power Supply for Wearable Electrocardiographic Systems,skipped,venue Advanced Science not in --venues
+thermoelectrics,10.1038/s41467-019-13773-3,Enhanced control of self-doping in halide perovskites for improved thermoelectric performance,kept,9 pages via https://www.nature.com/articles/s41467-019-13773-3.pdf
+thermoelectrics,10.1002/advs.202106052,"Energy‐Saving Pathways for Thermoelectric Nanomaterial Synthesis: Hydrothermal/Solvothermal, Microwave‐Assisted, Solution‐Based, and Powder Processing",skipped,venue Advanced Science not in --venues
+thermoelectrics,10.1126/science.abh1619,Low thermal conductivity in a modular inorganic material with bonding anisotropy and mismatch,skipped,licence other-oa
+thermoelectrics,10.1038/s41467-020-17063-1,A thermally activated and highly miscible dopant for n-type organic thermoelectrics,kept,10 pages via https://www.nature.com/articles/s41467-020-17063-1.pdf
+polymer membranes,10.1038/s41467-017-02529-6,MXene molecular sieving membranes for highly efficient gas separation,kept,7 pages via https://www.nature.com/articles/s41467-017-02529-6.pdf
+polymer membranes,10.1038/s41467-020-15771-2,Polyamide nanofiltration membrane with highly uniform sub-nanometre pores for sub-1 Å precision separation,kept,9 pages via https://www.nature.com/articles/s41467-020-15771-2.pdf
+polymer membranes,10.1126/science.ade1499,La- and Mn-doped cobalt spinel oxygen evolution catalyst for proton exchange membrane electrolysis,skipped,licence unknown
+polymer membranes,10.1038/s41467-018-04467-3,Nanoparticle-templated nanofiltration membranes for ultrahigh performance desalination,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-017-02479-z,Green synthesis of graphene oxide by seconds timescale water electrolytic oxidation,kept,9 pages via https://www.nature.com/articles/s41467-017-02479-z.pdf
+polymer membranes,10.1126/sciadv.aar2904,Molecularly selective nanoporous membrane-based wearable organic electrochemical device for noninvasive cortisol sensing,skipped,publisher: HTTPError: HTTP Error 403: Forbidden | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: HTTPError: HTTP Error 403: Forbidden
+polymer membranes,10.1126/sciadv.aaq0066,Ultrafast selective transport of alkali metal ions in metal organic frameworks with subnanometer pores,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-018-03919-0,Highly stable graphene-oxide-based membranes with superior permeability,kept,8 pages via https://www.nature.com/articles/s41467-018-03919-0.pdf
+polymer membranes,10.1038/s41467-020-19212-y,Dopants fixation of Ruthenium for boosting acidic oxygen evolution stability and activity,kept,11 pages via https://www.nature.com/articles/s41467-020-19212-y.pdf
+polymer membranes,10.1038/s41467-023-37008-8,Unraveling oxygen vacancy site mechanism of Rh-doped RuO2 catalyst for long-lasting acidic water oxidation,kept,10 pages via https://www.nature.com/articles/s41467-023-37008-8.pdf
+polymer membranes,10.1126/science.aar7432,mRNA structure determines specificity of a polyQ-driven phase separation,skipped,licence unknown
+polymer membranes,10.1126/science.aau6313,Stoichiometry controls activity of phase-separated clusters of actin signaling proteins,skipped,licence unknown
+polymer membranes,10.1038/s41467-019-10157-5,Covalent organic framework membranes through a mixed-dimensional assembly for molecular separations,kept,10 pages via https://www.nature.com/articles/s41467-019-10157-5.pdf
+polymer membranes,10.1038/s41467-023-36380-9,Customized reaction route for ruthenium oxide towards stabilized water oxidation in high-performance PEM electrolyzers,kept,14 pages via https://www.nature.com/articles/s41467-023-36380-9.pdf
+polymer membranes,10.1038/s41467-019-08835-5,High performance n-type Ag2Se film on nylon membrane for flexible thermoelectric power generator,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-019-08622-2,Magnetic field alignment of stable proton-conducting channels in an electrolyte membrane,kept,13 pages via https://www.nature.com/articles/s41467-019-08622-2.pdf
+polymer membranes,10.1038/s41467-022-30691-z,"Superstrong, superstiff, and conductive alginate hydrogels",kept,10 pages via https://www.nature.com/articles/s41467-022-30691-z.pdf
+polymer membranes,10.1038/s41467-020-20768-y,The SARS-CoV-2 nucleocapsid phosphoprotein forms mutually exclusive condensates with RNA and the membrane-associated M protein,kept,15 pages via https://www.nature.com/articles/s41467-020-20768-y.pdf
+polymer membranes,10.1038/s41467-020-20298-7,MOF-in-COF molecular sieving membrane for selective hydrogen separation,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41586-019-1502-y,DEAD-box ATPases are global regulators of phase-separated organelles,skipped,licence other-oa
+polymer membranes,10.1038/s41467-020-19843-1,Nucleocapsid protein of SARS-CoV-2 phase separates into RNA-rich polymerase-containing condensates,kept,10 pages via https://www.nature.com/articles/s41467-020-19843-1.pdf
+polymer membranes,10.1038/s41467-022-33474-8,Near-infrared phosphorescent carbon dots for sonodynamic precision tumor therapy,kept,14 pages via https://www.nature.com/articles/s41467-022-33474-8.pdf
+polymer membranes,10.1126/sciadv.abb1110,Self-standing and flexible covalent organic framework (COF) membranes for molecular separation,kept,8 pages via https://europepmc.org/articles/PMC7541068?pdf=render
+polymer membranes,10.1038/s41467-019-14056-7,Laminated self-standing covalent organic framework membrane with uniformly distributed subnanopores for ionic and molecular sieving,kept,9 pages via https://www.nature.com/articles/s41467-019-14056-7.pdf
+polymer membranes,10.1038/s41467-020-16580-3,Liquid-liquid phase separation induces pathogenic tau conformations in vitro,kept,16 pages via https://www.nature.com/articles/s41467-020-16580-3.pdf
+polymer membranes,10.1038/s41467-022-28183-1,Polyamide-based membranes with structural homogeneity for ultrafast molecular sieving,kept,11 pages via https://www.nature.com/articles/s41467-022-28183-1.pdf
+polymer membranes,10.1038/s41586-018-0735-5,Efferocytosis induces a novel SLC program to promote glucose uptake and lactate release,skipped,licence unknown
+polymer membranes,10.1002/advs.201700817,A Multimaterial Scaffold With Tunable Properties: Toward Bone Tissue Repair,skipped,venue Advanced Science not in --venues
+polymer membranes,10.1126/sciadv.aau1393,Paralyzed membrane: Current-driven synthesis of a metal-organic framework with sharpened propene/propane separation,skipped,publisher: HTTPError: HTTP Error 403: Forbidden | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: HTTPError: HTTP Error 403: Forbidden
+polymer membranes,10.1038/s41467-018-05254-w,An autophagy assay reveals the ESCRT-III component CHMP2A as a regulator of phagophore closure,kept,13 pages via https://www.nature.com/articles/s41467-018-05254-w.pdf
+polymer membranes,10.1038/s41586-023-05888-x,Near-frictionless ion transport within triazine framework membranes,skipped,licence unknown
+polymer membranes,10.1126/sciadv.abe8706,Molecularly soldered covalent organic frameworks for ultrafast precision sieving,skipped,publisher: HTTPError: HTTP Error 403: Forbidden | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: HTTPError: HTTP Error 403: Forbidden
+polymer membranes,10.1038/s41586-023-06255-6,Phase separation of FSP1 promotes ferroptosis,kept,27 pages via https://www.nature.com/articles/s41586-023-06255-6.pdf
+polymer membranes,10.1038/s41467-018-06072-w,Compartmentalised RNA catalysis in membrane-free coacervate protocells,kept,9 pages via https://www.nature.com/articles/s41467-018-06072-w.pdf
+polymer membranes,10.1038/s41467-018-04294-6,Functionalized boron nitride membranes with ultrafast solvent transport performance for molecular separation,kept,8 pages via https://www.nature.com/articles/s41467-018-04294-6.pdf
+polymer membranes,10.1038/s41586-018-0292-y,Electrically controlled water permeation through graphene oxide membranes,skipped,licence unknown
+polymer membranes,10.1038/s41586-022-05032-1,Aligned macrocycle pores in ultrathin films for accurate molecular sieving,kept,10 pages via https://www.nature.com/articles/s41586-022-05032-1.pdf
+polymer membranes,10.1126/sciadv.abl9271,Single-site Pt-doped RuO 2 hollow nanospheres with interstitial C for high-performance acidic overall water splitting,skipped,publisher: no URL | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: no URL
+polymer membranes,10.1126/science.adi9531,Ice-confined synthesis of highly ionized 3D-quasilayered polyamide nanofiltration membranes,skipped,publisher: no URL | europepmc: no URL | unpaywall: no URL
+polymer membranes,10.1038/s41467-024-46887-4,Extreme Li-Mg selectivity via precise ion size differentiation of polyamide membrane,kept,9 pages via https://www.nature.com/articles/s41467-024-46887-4.pdf
+polymer membranes,10.1126/science.abf5991,Ion-capture electrodialysis using multifunctional adsorptive membranes,skipped,licence unknown
+polymer membranes,10.1002/advs.201900085,Sunlight Polymerization of Poly(amidoxime) Hydrogel Membrane for Enhanced Uranium Extraction from Seawater,skipped,venue Advanced Science not in --venues
+polymer membranes,10.1038/s41467-020-17373-4,Ion sieving by a two-dimensional Ti3C2Tx alginate lamellar membrane with stable interlayer spacing,kept,10 pages via https://www.nature.com/articles/s41467-020-17373-4.pdf
+polymer membranes,10.1126/sciadv.aay3998,Ultrathin water-stable metal-organic framework membranes for ion separation,skipped,publisher: HTTPError: HTTP Error 403: Forbidden | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: HTTPError: HTTP Error 403: Forbidden
+polymer membranes,10.1038/s41467-018-02941-6,Ultrafast ion sieving using nanoporous polymeric membranes,kept,9 pages via https://www.nature.com/articles/s41467-018-02941-6.pdf
+polymer membranes,10.1038/s41467-020-20628-9,Carbon hollow fiber membranes for a molecular sieve with precise-cutoff ultramicropores for superior hydrogen separation,kept,9 pages via https://www.nature.com/articles/s41467-020-20628-9.pdf
+polymer membranes,10.1038/s41467-022-34849-7,Covalent organic framework membranes for efficient separation of monovalent cations,kept,11 pages via https://www.nature.com/articles/s41467-022-34849-7.pdf
+polymer membranes,10.1038/s41467-019-12114-8,Membrane adsorbers with ultrahigh metal-organic framework loading for high flux separations,kept,9 pages via https://www.nature.com/articles/s41467-019-12114-8.pdf
+polymer membranes,10.1038/s41467-021-26053-w,Efficient CO2 electroreduction on facet-selective copper films with high conversion rate,kept,11 pages via https://www.nature.com/articles/s41467-021-26053-w.pdf
+polymer membranes,10.1038/s41467-022-28180-4,General synthesis of ultrafine metal oxide/reduced graphene oxide nanocomposites for ultrahigh-flux nanofiltration membrane,kept,10 pages via https://www.nature.com/articles/s41467-022-28180-4.pdf
+high-entropy alloys,10.1038/s41586-020-2275-z,Short-range order and its impact on the CrCoNi medium-entropy alloy,skipped,licence unknown
+high-entropy alloys,10.1038/s41467-019-08460-2,Enhanced strength–ductility synergy in ultrafine-grained eutectic high-entropy alloys by inheriting microstructural lamellae,kept,8 pages via https://www.nature.com/articles/s41467-019-08460-2.pdf
+high-entropy alloys,10.1126/sciadv.abg1600,High-entropy materials for catalysis: A new frontier,skipped,publisher: no URL | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: no URL
+high-entropy alloys,10.1038/s41467-019-11848-9,Highly efficient decomposition of ammonia using high-entropy alloy catalysts,kept,12 pages via https://www.nature.com/articles/s41467-019-11848-9.pdf
+high-entropy alloys,10.1038/s41467-019-11464-7,Strengthening in multi-principal element alloys with local-chemical-order roughened dislocation pathways,kept,11 pages via https://www.nature.com/articles/s41467-019-11464-7.pdf
+high-entropy alloys,10.1038/s41524-017-0060-9,Understanding the physical metallurgy of the CoCrFeMnNi high-entropy alloy: an atomistic simulation study,skipped,venue npj Computational Materials not in --venues
+high-entropy alloys,10.1038/s41467-022-30379-4,Unraveling the electronegativity-dominated intermediate adsorption on high-entropy alloy electrocatalysts,skipped,publisher: unreadable PDF (LimitReachedError) | europepmc: unreadable PDF (LimitReachedError) | unpaywall: unreadable PDF (LimitReachedError)
+high-entropy alloys,10.1126/science.abo4940,Machine learning–enabled high-entropy alloy discovery,skipped,licence other-oa
+high-entropy alloys,10.1038/s41467-020-19277-9,Fast site-to-site electron transfer of high-entropy alloy nanocatalyst driving redox electrocatalysis,skipped,already used (this or another domain)
+high-entropy alloys,10.1038/s41467-018-06600-8,High-content ductile coherent nanoprecipitates achieve ultrastrong high-entropy alloys,kept,8 pages via https://www.nature.com/articles/s41467-018-06600-8.pdf
+high-entropy alloys,10.1126/sciadv.aav2002,Outstanding radiation resistance of tungsten-based high-entropy alloys,kept,9 pages via https://europepmc.org/articles/PMC6397024?pdf=render
+high-entropy alloys,10.1038/s41467-019-13311-1,Tailoring heterogeneities in high-entropy alloys to promote strength–ductility synergy,kept,10 pages via https://www.nature.com/articles/s41467-019-13311-1.pdf
+high-entropy alloys,10.1038/s41467-020-16085-z,Dual heterogeneous structures lead to ultrahigh strength and uniform ductility in a Co-Cr-Ni medium-entropy alloy,kept,7 pages via https://www.nature.com/articles/s41467-020-16085-z.pdf
+high-entropy alloys,10.1038/s41467-019-10303-z,"Electrosynthesis of high-entropy metallic glass nanoparticles for designer, multi-functional electrocatalysis",kept,8 pages via https://www.nature.com/articles/s41467-019-10303-z.pdf
+high-entropy alloys,10.1126/science.abp8070,Exceptional fracture toughness of CrCoNi-based medium- and high-entropy alloys at 20 kelvin,skipped,publisher: no URL | europepmc: no URL | unpaywall: no URL
+high-entropy alloys,10.1038/s41467-020-15934-1,Synthesis of high-entropy alloy nanoparticles on supports by the fast moving bed pyrolysis,kept,11 pages via https://www.nature.com/articles/s41467-020-15934-1.pdf
+high-entropy alloys,10.1038/s41467-021-26425-2,Subnanometer high-entropy alloy nanowires enable remarkable hydrogen oxidation catalysis,kept,8 pages via https://www.nature.com/articles/s41467-021-26425-2.pdf
+high-entropy alloys,10.1038/s41467-023-44261-4,Unusual Sabatier principle on high entropy alloy catalysts for hydrogen evolution reactions,kept,11 pages via https://www.nature.com/articles/s41467-023-44261-4.pdf
+high-entropy alloys,10.1038/s41467-020-14641-1,Real-time observations of TRIP-induced ultrahigh strain hardening in a dual-phase CrMnFeCoNi high-entropy alloy,kept,8 pages via https://www.nature.com/articles/s41467-020-14641-1.pdf
+high-entropy alloys,10.1126/sciadv.aat8712,A high-entropy alloy with hierarchical nanoprecipitates and ultrahigh strength,skipped,licence unknown
+high-entropy alloys,10.1038/s41467-021-25134-0,Atomistic simulations of dislocation mobility in refractory high-entropy alloys and the effect of chemical short-range order,kept,14 pages via https://www.nature.com/articles/s41467-021-25134-0.pdf
+high-entropy alloys,10.1038/s41467-019-09700-1,High entropy alloys as a bold step forward in alloy development,skipped,publisher: 3 pages (expected 4-40) | europepmc: 3 pages (expected 4-40) | unpaywall: 3 pages (expected 4-40)
+high-entropy alloys,10.1002/advs.202100870,Nanoprecipitate‐Strengthened High‐Entropy Alloys,skipped,venue Advanced Science not in --venues
+high-entropy alloys,10.1038/s41467-021-25264-5,Simultaneously enhancing the ultimate strength and ductility of high-entropy alloys via short-range ordering,kept,11 pages via https://www.nature.com/articles/s41467-021-25264-5.pdf
+high-entropy alloys,10.1038/s41467-018-03846-0,Magnetically-driven phase transformation strengthening in high entropy alloys,kept,9 pages via https://www.nature.com/articles/s41467-018-03846-0.pdf
+high-entropy alloys,10.1038/s41467-024-45914-8,Extracting accurate materials data from research papers with conversational language models and prompt engineering,kept,11 pages via https://www.nature.com/articles/s41467-024-45914-8.pdf
+high-entropy alloys,10.1038/s41586-021-03607-y,Bifunctional nanoprecipitates strengthen and ductilize a medium-entropy alloy,skipped,licence unknown
+high-entropy alloys,10.1126/sciadv.abb3108,Amorphization in extreme deformation of the CrMnFeCoNi high-entropy alloy,skipped,publisher: HTTPError: HTTP Error 403: Forbidden | europepmc: not a PDF (probably an HTML landing or bot-check page) | unpaywall: HTTPError: HTTP Error 403: Forbidden
+high-entropy alloys,10.1038/s41524-019-0265-1,Machine learning guided appraisal and exploration of phase design for high entropy alloys,skipped,venue npj Computational Materials not in --venues
+high-entropy alloys,10.1126/sciadv.aax4002,Cooperative deformation in high-entropy alloys at ultralow temperatures,skipped,publisher: no URL | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: no URL
+high-entropy alloys,10.1038/s41524-018-0138-z,Uncovering electron scattering mechanisms in NiFeCoCrMn derived concentrated solid solution and high entropy alloys,skipped,venue npj Computational Materials not in --venues
+high-entropy alloys,10.1038/s41467-021-24523-9,High-throughput design of high-performance lightweight high-entropy alloys,kept,10 pages via https://www.nature.com/articles/s41467-021-24523-9.pdf
+high-entropy alloys,10.1038/s41467-020-16791-8,A strong and ductile medium-entropy alloy resists hydrogen embrittlement and corrosion,kept,8 pages via https://www.nature.com/articles/s41467-020-16791-8.pdf
+high-entropy alloys,10.1039/d0sc02351e,On the electronic structure and hydrogen evolution reaction activity of platinum group metal-based high-entropy-alloy nanoparticles,skipped,venue Chemical Science not in --venues
+high-entropy alloys,10.1038/s41467-023-36075-1,High entropy liquid electrolytes for lithium batteries,kept,12 pages via https://www.nature.com/articles/s41467-023-36075-1.pdf
+high-entropy alloys,10.1038/s41467-021-24228-z,Hydrogen spillover-driven synthesis of high-entropy alloy nanoparticles as a robust catalyst for CO2 hydrogenation,kept,11 pages via https://www.nature.com/articles/s41467-021-24228-z.pdf
+high-entropy alloys,10.1126/sciadv.aba9543,Ultrastrong lightweight compositionally complex steels via dual-nanoprecipitation,skipped,publisher: no URL | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: no URL
+high-entropy alloys,10.1038/s41467-019-10012-7,Engineering atomic-level complexity in high-entropy and complex concentrated alloys,kept,8 pages via https://www.nature.com/articles/s41467-019-10012-7.pdf
+high-entropy alloys,10.1038/s41467-018-04780-x,Twinning in metastable high-entropy alloys,kept,7 pages via https://www.nature.com/articles/s41467-018-04780-x.pdf
+high-entropy alloys,10.1038/s41467-022-32444-4,Phase-selective recrystallization makes eutectic high-entropy alloys ultra-ductile,kept,8 pages via https://www.nature.com/articles/s41467-022-32444-4.pdf
+high-entropy alloys,10.1038/s41467-021-25807-w,Strength can be controlled by edge dislocations in refractory high-entropy alloys,kept,8 pages via https://www.nature.com/articles/s41467-021-25807-w.pdf
+high-entropy alloys,10.1038/s41467-021-23569-z,Entropy engineering promotes thermoelectric performance in p-type chalcogenides,skipped,already used (this or another domain)
+high-entropy alloys,10.1038/s41467-025-58648-y,High-entropy alloy enables multi-path electron synergism and lattice oxygen activation for enhanced oxygen evolution activity,kept,14 pages via https://www.nature.com/articles/s41467-025-58648-y.pdf
+high-entropy alloys,10.1038/s41467-019-10533-1,Materials informatics for the screening of multi-principal elements and high-entropy alloys,kept,10 pages via https://www.nature.com/articles/s41467-019-10533-1.pdf
+high-entropy alloys,10.1126/sciadv.aaz4748,Temperature dependence of elastic and plastic deformation behavior of a refractory high-entropy alloy,skipped,publisher: no URL | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: no URL
+high-entropy alloys,10.1038/s41467-024-45874-z,Single-atom Mo-tailored high-entropy-alloy ultrathin nanosheets with intrinsic tensile strain enhance electrocatalysis,kept,11 pages via https://www.nature.com/articles/s41467-024-45874-z.pdf
+high-entropy alloys,10.1038/s41467-021-23689-6,Enhancing fatigue life by ductile-transformable multicomponent B2 precipitates in a high-entropy alloy,kept,10 pages via https://www.nature.com/articles/s41467-021-23689-6.pdf
+high-entropy alloys,10.1038/s41467-024-54554-x,General-purpose machine-learned potential for 16 elemental metals and their alloys,kept,15 pages via https://europepmc.org/articles/PMC11589123?pdf=render
+high-entropy alloys,10.1038/s41524-020-0308-7,Machine-learning informed prediction of high-entropy solid solution formation: Beyond the Hume-Rothery rules,skipped,venue npj Computational Materials not in --venues
+high-entropy alloys,10.1126/sciadv.adq6758,MoZn-based high entropy alloy catalysts enabled dual activation and stabilization in alkaline oxygen evolution,skipped,publisher: no URL | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: no URL
+high-entropy alloys,10.1126/sciadv.abe3105,Deformation-induced crystalline-to-amorphous phase transformation in a CrMnFeCoNi high-entropy alloy,kept,9 pages via https://europepmc.org/articles/PMC8011962?pdf=render
+zeolites/porous carbons,10.1038/s41467-018-03903-8,In vivo guiding nitrogen-doped carbon nanozyme for tumor catalytic therapy,kept,11 pages via https://www.nature.com/articles/s41467-018-03903-8.pdf
+zeolites/porous carbons,10.1038/s41467-020-16848-8,Engineering unsymmetrically coordinated Cu-S1N3 single atom sites with enhanced oxygen reduction activity,skipped,already used (this or another domain)
+zeolites/porous carbons,10.1126/science.aaw1108,Hydrophobic zeolite modification for in situ peroxide formation in methane oxidation to methanol,skipped,licence unknown
+zeolites/porous carbons,10.1038/s41467-019-09510-5,Scalable synthesis of ant-nest-like bulk porous silicon for high-performance lithium-ion battery anodes,kept,11 pages via https://www.nature.com/articles/s41467-019-09510-5.pdf
+zeolites/porous carbons,10.1038/s41524-018-0081-z,A strategy to apply machine learning to small datasets in materials science,skipped,venue npj Computational Materials not in --venues
+zeolites/porous carbons,10.1126/sciadv.aao6657,Dynamic traction of lattice-confined platinum atoms into mesoporous carbon matrix for hydrogen evolution reaction,skipped,publisher: HTTPError: HTTP Error 403: Forbidden | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: HTTPError: HTTP Error 403: Forbidden
+zeolites/porous carbons,10.1038/s41467-020-15217-9,Hierarchical porous silicon structures with extraordinary mechanical strength as high-performance lithium-ion battery anodes,kept,9 pages via https://www.nature.com/articles/s41467-020-15217-9.pdf
+zeolites/porous carbons,10.1038/s41467-019-09394-5,Atomically dispersed nickel–nitrogen–sulfur species anchored on porous carbon nanosheets for efficient water oxidation,kept,9 pages via https://www.nature.com/articles/s41467-019-09394-5.pdf
+zeolites/porous carbons,10.1038/s41467-020-15934-1,Synthesis of high-entropy alloy nanoparticles on supports by the fast moving bed pyrolysis,skipped,already used (this or another domain)
+zeolites/porous carbons,10.1038/s41467-021-24329-9,Highly active and selective oxygen reduction to H2O2 on boron-doped carbon for high production rates,kept,12 pages via https://www.nature.com/articles/s41467-021-24329-9.pdf
+zeolites/porous carbons,10.1038/s41467-020-14402-0,Carbon dioxide electroreduction on single-atom nickel decorated carbon membranes with industry compatible current densities,kept,8 pages via https://www.nature.com/articles/s41467-020-14402-0.pdf
+zeolites/porous carbons,10.1038/s41467-020-16715-6,Nanocasting SiO2 into metal–organic frameworks imparts dual protection to high-loading Fe single-atom electrocatalysts,skipped,already used (this or another domain)
+zeolites/porous carbons,10.1038/s41467-021-21103-9,A flexible electromagnetic wave-electricity harvester,skipped,already used (this or another domain)
+zeolites/porous carbons,10.1038/s41467-020-16381-8,Selective electroreduction of CO2 to acetone by single copper atoms anchored on N-doped porous carbon,kept,10 pages via https://www.nature.com/articles/s41467-020-16381-8.pdf
+zeolites/porous carbons,10.1038/s41467-019-14237-4,Efficient electron transmission in covalent organic framework nanosheets for highly active electrocatalytic carbon dioxide reduction,kept,10 pages via https://www.nature.com/articles/s41467-019-14237-4.pdf
+zeolites/porous carbons,10.1038/s41467-019-09157-2,Fluorinated MOF platform for selective removal and sensing of SO2 from flue gas and air,skipped,already used (this or another domain)
+zeolites/porous carbons,10.1039/d2sc06010h,Regulation of the Si/Al ratios and Al distributions of zeolites and their impact on properties,skipped,venue Chemical Science not in --venues
+zeolites/porous carbons,10.1038/s41467-018-06629-9,Exceptional catalytic effects of black phosphorus quantum dots in shuttling-free lithium sulfur batteries,kept,11 pages via https://www.nature.com/articles/s41467-018-06629-9.pdf
+zeolites/porous carbons,10.1002/advs.202002658,Growth of NiAl‐Layered Double Hydroxide on Graphene toward Excellent Anticorrosive Microwave Absorption Application,skipped,venue Advanced Science not in --venues
+zeolites/porous carbons,10.1126/science.aay8447,Control of zeolite pore interior for chemoselective alkyne/olefin separations,skipped,licence other-oa
+zeolites/porous carbons,10.1038/s41586-021-03923-3,In situ formation of ZnOx species for efficient propane dehydrogenation,skipped,publisher: no URL | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: no URL
+zeolites/porous carbons,10.1038/s41467-018-04152-5,Topologically guided tuning of Zr-MOF pore structures for highly selective separation of C6 alkane isomers,kept,11 pages via https://www.nature.com/articles/s41467-018-04152-5.pdf
+zeolites/porous carbons,10.1126/sciadv.aax9324,Inverse design of porous materials using artificial neural networks,kept,7 pages via https://europepmc.org/articles/PMC6941911?pdf=render
+zeolites/porous carbons,10.1038/s41467-020-20489-2,Selective capture of carbon dioxide from hydrocarbons using a metal-organic framework,kept,8 pages via https://www.nature.com/articles/s41467-020-20489-2.pdf
+zeolites/porous carbons,10.1038/s41467-019-11619-6,A versatile route to fabricate single atom catalysts with high chemoselectivity and regioselectivity in hydrogenation,kept,9 pages via https://www.nature.com/articles/s41467-019-11619-6.pdf
+zeolites/porous carbons,10.1038/s41586-018-0820-9,Chemical control of structure and guest uptake by a conformationally mobile porous material,kept,15 pages via http://eprints.gla.ac.uk/173747/7/173747.pdf
+zeolites/porous carbons,10.1002/advs.201903089,High‐Valence Nickel Single‐Atom Catalysts Coordinated to Oxygen Sites for Extraordinarily Activating Oxygen Evolution Reaction,skipped,venue Advanced Science not in --venues
+zeolites/porous carbons,10.1038/s41467-019-08644-w,Block copolymer derived uniform mesopores enable ultrafast electron and ion transport at high mass loadings,kept,10 pages via https://www.nature.com/articles/s41467-019-08644-w.pdf
+zeolites/porous carbons,10.1038/s41467-019-10185-1,Tuning porosity in macroscopic monolithic metal-organic frameworks for exceptional natural gas storage,kept,11 pages via https://www.nature.com/articles/s41467-019-10185-1.pdf
+zeolites/porous carbons,10.1038/s41467-022-35415-x,CO2 electroreduction to multicarbon products in strongly acidic electrolyte via synergistically modulating the local microenvironment,kept,11 pages via https://www.nature.com/articles/s41467-022-35415-x.pdf
+zeolites/porous carbons,10.1002/advs.201902547,N/O Dual‐Doped Environment‐Friendly Hard Carbon as Advanced Anode for Potassium‐Ion Batteries,skipped,venue Advanced Science not in --venues
+zeolites/porous carbons,10.1038/s41467-020-18820-y,High-power lithium–selenium batteries enabled by atomic cobalt electrocatalyst in hollow carbon cathode,kept,12 pages via https://www.nature.com/articles/s41467-020-18820-y.pdf
+zeolites/porous carbons,10.1021/acscentsci.0c01130,Metal@Zeolite Hybrid Materials for Catalysis,skipped,licence other-oa
+zeolites/porous carbons,10.1126/sciadv.aau6852,Block copolymer–based porous carbon fibers,skipped,publisher: no URL | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: no URL
+zeolites/porous carbons,10.1002/advs.201800036,"B, N Codoped and Defect‐Rich Nanocarbon Material as a Metal‐Free Bifunctional Electrocatalyst for Oxygen Reduction and Evolution Reactions",skipped,venue Advanced Science not in --venues
+zeolites/porous carbons,10.1021/acscentsci.9b00193,A Machine Learning Approach to Zeolite Synthesis Enabled by Automatic Literature Data Extraction,skipped,licence other-oa
+zeolites/porous carbons,10.1038/s41467-024-46389-3,Inter-site structural heterogeneity induction of single atom Fe catalysts for robust oxygen reduction,kept,14 pages via https://www.nature.com/articles/s41467-024-46389-3.pdf
+zeolites/porous carbons,10.1038/s41467-020-14672-8,Single-pass transformation of syngas into ethanol with high selectivity by triple tandem catalysis,kept,11 pages via https://www.nature.com/articles/s41467-020-14672-8.pdf
+zeolites/porous carbons,10.1038/s41467-018-06296-w,A cocoon silk chemistry strategy to ultrathin N-doped carbon nanosheet with metal single-site catalysts,kept,9 pages via https://www.nature.com/articles/s41467-018-06296-w.pdf
+zeolites/porous carbons,10.1002/advs.202100625,Recent Advances in Metal–Organic Frameworks Derived Nanocomposites for Photocatalytic Applications in Energy and Environment,skipped,venue Advanced Science not in --venues
+zeolites/porous carbons,10.1038/s41467-018-04748-x,Stable complete methane oxidation over palladium based zeolite catalysts,kept,8 pages via https://www.nature.com/articles/s41467-018-04748-x.pdf
+zeolites/porous carbons,10.1038/s42004-018-0028-9,Water harvesting from air with a hygroscopic salt in a hydrogel–derived matrix,skipped,venue Communications Chemistry not in --venues
+zeolites/porous carbons,10.1038/s41467-019-09849-9,A tightly-bonded and flexible mesoporous zeolite-cotton hybrid hemostat,kept,9 pages via https://www.nature.com/articles/s41467-019-09849-9.pdf
+zeolites/porous carbons,10.1002/advs.202101824,Facile Synthesis of Atomic Fe‐N‐C Materials and Dual Roles Investigation of Fe‐N 4 Sites in Fenton‐Like Reactions,skipped,venue Advanced Science not in --venues
+zeolites/porous carbons,10.1126/sciadv.1701384,An optical authentication system based on imaging of excitation-selected lanthanide luminescence,skipped,publisher: HTTPError: HTTP Error 403: Forbidden | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: HTTPError: HTTP Error 403: Forbidden
+zeolites/porous carbons,10.1126/science.abn8289,Maximizing noble metal utilization in solid catalysts by control of nanoparticle location,skipped,licence other-oa
+zeolites/porous carbons,10.1038/s41467-019-13430-9,Multifunctional flexible membranes from sponge-like porous carbon nanofibers with high conductivity,kept,9 pages via https://www.nature.com/articles/s41467-019-13430-9.pdf
+zeolites/porous carbons,10.1038/s41467-018-04904-3,Single-layer graphene membranes by crack-free transfer for gas mixture separation,kept,11 pages via https://www.nature.com/articles/s41467-018-04904-3.pdf
+zeolites/porous carbons,10.1126/sciadv.abm3779,Design of Ru-Ni diatomic sites for efficient alkaline hydrogen oxidation,skipped,publisher: HTTPError: HTTP Error 403: Forbidden | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: HTTPError: HTTP Error 403: Forbidden
+zeolites/porous carbons,10.1038/s41467-019-11600-3,Nickel sulfide nanocrystals on nitrogen-doped porous carbon nanotubes with high-efficiency electrocatalysis for room-temperature sodium-sulfur batteries,kept,8 pages via https://www.nature.com/articles/s41467-019-11600-3.pdf
+zeolites/porous carbons,10.1002/advs.201902126,Nanocarbon Catalysts: Recent Understanding Regarding the Active Sites,skipped,venue Advanced Science not in --venues
+zeolites/porous carbons,10.1002/advs.201900299,"Noble Metal Particles Confined in Zeolites: Synthesis, Characterization, and Applications",skipped,venue Advanced Science not in --venues
+zeolites/porous carbons,10.1038/s41467-023-36646-2,Synergistic promotions between CO2 capture and in-situ conversion on Ni-CaO composite catalyst,kept,10 pages via https://www.nature.com/articles/s41467-023-36646-2.pdf
+zeolites/porous carbons,10.1039/d1sc00915j,"Graphene–carbon 2D heterostructures with hierarchically-porous P,N-doped layered architecture for capacitive deionization",skipped,venue Chemical Science not in --venues
+zeolites/porous carbons,10.1038/s41467-024-47270-z,Upgrading CO2 to sustainable aromatics via perovskite-mediated tandem catalysis,kept,13 pages via https://www.nature.com/articles/s41467-024-47270-z.pdf
+zeolites/porous carbons,10.1126/sciadv.aaz0906,Exceptional capacitive deionization rate and capacity by block copolymer–based porous carbon fibers,skipped,publisher: HTTPError: HTTP Error 403: Forbidden | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: HTTPError: HTTP Error 403: Forbidden
+zeolites/porous carbons,10.1002/advs.201901129,Atomic‐ and Molecular‐Level Design of Functional Metal–Organic Frameworks (MOFs) and Derivatives for Energy and Environmental Applications,skipped,venue Advanced Science not in --venues
+zeolites/porous carbons,10.1038/s41467-021-24976-y,Long-life lithium-sulfur batteries with high areal capacity based on coaxial CNTs@TiN-TiO2 sponge,kept,8 pages via https://www.nature.com/articles/s41467-021-24976-y.pdf
+zeolites/porous carbons,10.1038/s41467-018-03012-6,Evolution and stabilization of subnanometric metal species in confined space by in situ TEM,kept,10 pages via https://www.nature.com/articles/s41467-018-03012-6.pdf
+hydrogels,10.1038/s41586-020-2612-2,Effects of extracellular matrix viscoelasticity on cellular behaviour,skipped,licence unknown
+hydrogels,10.1126/science.aav9051,3D bioprinting of collagen to rebuild components of the human heart,skipped,publisher: HTTPError: HTTP Error 403: Forbidden | europepmc: no URL | unpaywall: HTTPError: HTTP Error 403: Forbidden
+hydrogels,10.1126/science.aat5691,Three-dimensional intact-tissue sequencing of single-cell transcriptional states,skipped,licence unknown
+hydrogels,10.1038/s41586-021-03212-z,Strong tough hydrogels via the synergy of freeze-casting and salting out,skipped,licence unknown
+hydrogels,10.1126/science.aav9750,Multivascular networks and functional intravascular topologies within biocompatible hydrogels,skipped,licence unknown
+hydrogels,10.1002/advs.201700527,Antibacterial Hydrogels,skipped,venue Advanced Science not in --venues
+hydrogels,10.1038/s41467-019-09003-5,Pure PEDOT:PSS hydrogels,kept,10 pages via https://www.nature.com/articles/s41467-019-09003-5.pdf
+hydrogels,10.1002/advs.201900344,3D Printing of Personalized Thick and Perfusable Cardiac Patches and Hearts,skipped,venue Advanced Science not in --venues
+hydrogels,10.1126/science.aau7114,Volumetric additive manufacturing via tomographic reconstruction,skipped,publisher: no URL | europepmc: no URL | unpaywall: no URL
+hydrogels,10.1038/s41467-019-09351-2,Plant-inspired adhesive and tough hydrogel based on Ag-Lignin nanoparticles-triggered dynamic redox catechol chemistry,kept,10 pages via https://www.nature.com/articles/s41467-019-09351-2.pdf
+hydrogels,10.1038/s41467-020-15316-7,3D printing of conducting polymers,kept,8 pages via https://www.nature.com/articles/s41467-020-15316-7.pdf
+hydrogels,10.1038/s41467-018-03759-y,Precisely printable and biocompatible silk fibroin bioink for digital light processing 3D printing,kept,14 pages via https://www.nature.com/articles/s41467-018-03759-y.pdf
+hydrogels,10.1038/s41467-019-10004-7,A strongly adhesive hemostatic hydrogel for the repair of arterial and heart bleeds,kept,11 pages via https://www.nature.com/articles/s41467-019-10004-7.pdf
+hydrogels,10.1126/sciadv.aat0098,MXenes stretch hydrogel sensor performance to new limits,kept,7 pages via https://europepmc.org/articles/PMC6003726?pdf=render
+hydrogels,10.1126/sciadv.aau8528,Anti-fatigue-fracture hydrogels,kept,9 pages via https://europepmc.org/articles/PMC6357728?pdf=render
+hydrogels,10.1126/sciadv.abj0153,Sustained oxygenation accelerates diabetic wound healing by promoting epithelialization and angiogenesis and decreasing inflammation,kept,14 pages via https://europepmc.org/articles/PMC8397271?pdf=render
+hydrogels,10.1002/advs.202003627,"Highly Stretchable, Adhesive, Biocompatible, and Antibacterial Hydrogel Dressings for Wound Healing",skipped,venue Advanced Science not in --venues
+hydrogels,10.1002/advs.201801664,Self‐Healing Hydrogels: The Next Paradigm Shift in Tissue Engineering?,skipped,venue Advanced Science not in --venues
+hydrogels,10.1002/advs.201801584,Recent Progress in Biomimetic Anisotropic Hydrogel Actuators,skipped,venue Advanced Science not in --venues
+hydrogels,10.1038/s41467-018-05222-4,Mechanically tunable conductive interpenetrating network hydrogels that mimic the elastic moduli of biological tissue,kept,9 pages via https://www.nature.com/articles/s41467-018-05222-4.pdf
+hydrogels,10.1002/advs.202303326,Tailoring the Swelling‐Shrinkable Behavior of Hydrogels for Biomedical Applications,skipped,venue Advanced Science not in --venues
+hydrogels,10.1126/sciadv.aaw3963,Bioinspired mechanically active adhesive dressings to accelerate wound closure,skipped,publisher: no URL | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: no URL
+hydrogels,10.1126/sciadv.aba4261,3D printing of highly stretchable hydrogel with diverse UV curable polymers,skipped,publisher: no URL | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: no URL
+hydrogels,10.1038/s41467-018-03456-w,A supramolecular biomimetic skin combining a wide spectrum of mechanical properties and multiple sensory capabilities,kept,7 pages via https://www.nature.com/articles/s41467-018-03456-w.pdf
+hydrogels,10.1002/advs.202106015,Engineering Robust Ag‐Decorated Polydopamine Nano‐Photothermal Platforms to Combat Bacterial Infection and Prompt Wound Healing,skipped,venue Advanced Science not in --venues
+hydrogels,10.1038/s41467-019-13605-4,Extracellular matrix hydrogel derived from decellularized tissues enables endodermal organoid culture,kept,14 pages via https://www.nature.com/articles/s41467-019-13605-4.pdf
+hydrogels,10.1002/advs.201902673,Smart Flexible Electronics‐Integrated Wound Dressing for Real‐Time Monitoring and On‐Demand Treatment of Infected Wounds,skipped,venue Advanced Science not in --venues
+hydrogels,10.1038/s41467-023-39634-8,Lean-water hydrogel electrolyte for zinc ion batteries,kept,10 pages via https://www.nature.com/articles/s41467-023-39634-8.pdf
+hydrogels,10.1038/s41467-021-21029-2,3D bioprinting of high cell-density heterogeneous tissue models through spheroid fusion within self-healing hydrogels,kept,13 pages via https://www.nature.com/articles/s41467-021-21029-2.pdf
+hydrogels,10.1038/s41467-022-30691-z,"Superstrong, superstiff, and conductive alginate hydrogels",skipped,already used (this or another domain)
+hydrogels,10.1126/sciadv.aba4311,Dissolved oxygen from microalgae-gel patch promotes chronic wound healing in diabetes,kept,10 pages via https://europepmc.org/articles/PMC7228761?pdf=render
+hydrogels,10.1002/advs.201801076,Jammed Microgel Inks for 3D Printing Applications,skipped,venue Advanced Science not in --venues
+hydrogels,10.1038/s41467-022-30224-8,"Strong, tough, ionic conductive, and freezing-tolerant all-natural hydrogel enabled by cellulose-bentonite coordination interactions",kept,11 pages via https://www.nature.com/articles/s41467-022-30224-8.pdf
+hydrogels,10.1038/s41467-019-11511-3,Microporous methacrylated glycol chitosan-montmorillonite nanocomposite hydrogel for bone tissue engineering,kept,10 pages via https://www.nature.com/articles/s41467-019-11511-3.pdf
+hydrogels,10.1126/sciadv.adh4327,"Injectable, self-healing hydrogel adhesives with firm tissue adhesion and on-demand biodegradation for sutureless wound closure",skipped,publisher: HTTPError: HTTP Error 403: Forbidden | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: HTTPError: HTTP Error 403: Forbidden
+hydrogels,10.1038/s41467-018-06641-z,Matrix mechanical plasticity regulates cancer cell migration through confining microenvironments,kept,13 pages via https://www.nature.com/articles/s41467-018-06641-z.pdf
+hydrogels,10.1038/s41467-023-42333-z,A biocompatible electrolyte enables highly reversible Zn anode for zinc ion battery,kept,14 pages via https://www.nature.com/articles/s41467-023-42333-z.pdf
+hydrogels,10.1038/s41586-018-0089-z,Bioengineering strategies to accelerate stem cell therapeutics,skipped,licence unknown
+hydrogels,10.1002/advs.202002425,"Ice Inhibition for Cryopreservation: Materials, Strategies, and Challenges",skipped,venue Advanced Science not in --venues
+hydrogels,10.1038/s41467-020-14871-3,Fatigue-resistant adhesion of hydrogels,kept,9 pages via https://www.nature.com/articles/s41467-020-14871-3.pdf
+hydrogels,10.1038/s41467-019-09601-3,Directed self-assembly of herbal small molecules into sustained release hydrogels for treating neural inflammation,kept,12 pages via https://www.nature.com/articles/s41467-019-09601-3.pdf
+hydrogels,10.1038/s41467-018-02906-9,Control of cell morphology and differentiation by substrates with independently tunable elasticity and viscous dissipation,kept,13 pages via https://www.nature.com/articles/s41467-018-02906-9.pdf
+hydrogels,10.1002/advs.202001379,Extrusion 3D Printing of Polymeric Materials with Advanced Properties,skipped,venue Advanced Science not in --venues
+hydrogels,10.1002/advs.202105586,Exosomes‐Loaded Electroconductive Hydrogel Synergistically Promotes Tissue Repair after Spinal Cord Injury via Immunoregulation and Enhancement of Myelinated Axon Growth,skipped,venue Advanced Science not in --venues
+hydrogels,10.1038/s41467-018-03915-4,A cancer vaccine-mediated postoperative immunotherapy for recurrent and metastatic tumors,kept,12 pages via https://www.nature.com/articles/s41467-018-03915-4.pdf
+hydrogels,10.1038/s41467-024-44968-y,Hydrogel dressings with intrinsic antibiofilm and antioxidative dual functionalities accelerate infected diabetic wound healing,kept,19 pages via https://www.nature.com/articles/s41467-024-44968-y.pdf
+hydrogels,10.1038/s41586-023-06520-8,Shape memory polymer with programmable recovery onset,kept,12 pages via https://www.researchsquare.com/article/rs-1425552/latest.pdf
+hydrogels,10.1038/s41467-019-13171-9,Adjacent cationic–aromatic sequences yield strong electrostatic adhesion of hydrogels in seawater,kept,8 pages via https://www.nature.com/articles/s41467-019-13171-9.pdf
+hydrogels,10.1038/s41467-022-29279-4,Tissue extracellular matrix hydrogels as alternatives to Matrigel for culturing gastrointestinal organoids,kept,21 pages via https://www.nature.com/articles/s41467-022-29279-4.pdf
+hydrogels,10.1038/s41467-019-12044-5,Multi-stimuli-responsive programmable biomimetic actuator,kept,10 pages via https://www.nature.com/articles/s41467-019-12044-5.pdf
+hydrogels,10.1126/sciadv.aav1281,Sutureless repair of corneal injuries using naturally derived bioadhesive hydrogels,kept,14 pages via https://europepmc.org/articles/PMC6426459?pdf=render
+hydrogels,10.1002/advs.201700848,Black‐Phosphorus‐Incorporated Hydrogel as a Sprayable and Biodegradable Photothermal Platform for Postsurgical Treatment of Cancer,skipped,venue Advanced Science not in --venues
+hydrogels,10.1038/s41467-020-14674-6,Improved osmotic energy conversion in heterogeneous membrane boosted by three-dimensional hydrogel interface,kept,8 pages via https://www.nature.com/articles/s41467-020-14674-6.pdf
+hydrogels,10.1038/s41467-019-10243-8,Anisotropic and self-healing hydrogels with multi-responsive actuating capability,kept,11 pages via https://www.nature.com/articles/s41467-019-10243-8.pdf
+MOF,10.1038/s42004-019-0184-6,Metal-organic framework functionalization and design strategies for advanced electrochemical energy storage devices,skipped,already used (this or another domain)
+MOF,10.1038/s41467-018-07850-2,Enhanced oxygen reduction with single-atomic-site iron catalysts for a zinc-air battery and hydrogen-air fuel cell,skipped,already used (this or another domain)
+MOF,10.1038/s41467-020-16848-8,Engineering unsymmetrically coordinated Cu-S1N3 single atom sites with enhanced oxygen reduction activity,skipped,already used (this or another domain)
+MOF,10.1038/s41586-019-1798-7,Data-driven design of metal–organic frameworks for wet flue gas CO2 capture,skipped,licence unknown
+MOF,10.1126/sciadv.aat9180,Secondary building units as the turning point in the development of the reticular chemistry of MOFs,skipped,licence unknown
+MOF,10.1038/s41467-018-04467-3,Nanoparticle-templated nanofiltration membranes for ultrahigh performance desalination,skipped,already used (this or another domain)
+MOF,10.1038/s41467-019-10218-9,Metal-organic frameworks with photocatalytic bactericidal activity for integrated air cleaning,skipped,already used (this or another domain)
+MOF,10.1038/s41467-017-02600-2,A versatile MOF-based trap for heavy metal ion capture and dispersion,skipped,already used (this or another domain)
+MOF,10.1038/s41467-024-45563-x,Structured information extraction from scientific text with large language models,skipped,already used (this or another domain)
+MOF,10.1038/s41467-021-26947-9,Horizontally arranged zinc platelet electrodeposits modulated by fluorinated covalent organic framework film for high-rate and durable aqueous zinc ion batteries,skipped,already used (this or another domain)
+MOF,10.1002/advs.201801526,Metal–Organic Framework‐Based Stimuli‐Responsive Systems for Drug Delivery,skipped,venue Advanced Science not in --venues
+MOF,10.1038/s41467-018-08144-3,Chromium-ruthenium oxide solid solution electrocatalyst for highly efficient oxygen evolution reaction in acidic media,skipped,already used (this or another domain)
+MOF,10.1038/s41467-018-03162-7,Adsorption-based atmospheric water harvesting device for arid climates,skipped,already used (this or another domain)
+MOF,10.1126/sciadv.aat3198,Practical water production from desert air,skipped,already used (this or another domain)
+MOF,10.1038/s41467-021-21595-5,Modulating electronic structure of metal-organic frameworks by introducing atomically dispersed Ru for efficient hydrogen evolution,skipped,already used (this or another domain)
+MOF,10.1038/s41467-019-12857-4,Conductive 2D metal-organic framework for high-performance cathodes in aqueous rechargeable zinc batteries,skipped,already used (this or another domain)
+MOF,10.1038/s41467-019-13051-2,Missing-linker metal-organic frameworks for oxygen evolution reaction,skipped,already used (this or another domain)
+MOF,10.1039/d0sc01432j,Bimetallic metal–organic frameworks and their derivatives,skipped,venue Chemical Science not in --venues
+MOF,10.1021/acscentsci.9b00745,Rapid Cycling and Exceptional Yield in a Metal-Organic Framework Water Harvester,skipped,licence other-oa
+MOF,10.1038/s41467-020-17755-8,Understanding the diversity of the metal-organic framework ecosystem,skipped,already used (this or another domain)
+MOF,10.1038/s41467-021-21527-3,Rational design of isostructural 2D porphyrin-based covalent organic frameworks for tunable photocatalytic hydrogen evolution,skipped,already used (this or another domain)
+MOF,10.1126/sciadv.aaq0066,Ultrafast selective transport of alkali metal ions in metal organic frameworks with subnanometer pores,skipped,already used (this or another domain)
+MOF,10.1038/s41467-019-09942-z,Circularly polarized light detection using chiral hybrid perovskite,skipped,already used (this or another domain)
+MOF,10.1126/sciadv.abb2695,Integrated cascade nanozyme catalyzes in vivo ROS scavenging for anti-inflammatory therapy,skipped,already used (this or another domain)
+MOF,10.1021/acscentsci.8b00073,Stable Metal–Organic Frameworks with Group 4 Metals: Current Status and Trends,skipped,licence other-oa
+MOF,10.1126/science.aao0865,Atomic-resolution transmission electron microscopy of electron beam–sensitive crystalline materials,skipped,licence unknown
+MOF,10.1021/acscentsci.0c00690,Postsynthetic Modification: An Enabling Technology for the Advancement of Metal–Organic Frameworks,skipped,licence other-oa
+MOF,10.1038/s41586-018-0366-x,Direct arylation of strong aliphatic C–H bonds,skipped,licence unknown
+MOF,10.1038/s41467-019-14199-7,Self-assembled single-atom nanozyme for enhanced photodynamic therapy treatment of tumor,skipped,already used (this or another domain)
+MOF,10.1038/s41467-020-15141-y,Synergistic electroreduction of carbon dioxide to carbon monoxide on bimetallic layered conjugated metal-organic frameworks,skipped,already used (this or another domain)
+MOF,10.1002/advs.202104374,Metal‐Organic Framework Based Gas Sensors,skipped,venue Advanced Science not in --venues
+MOF,10.1021/acscentsci.0c00678,"Metal–Organic Frameworks for Water Harvesting from Air, Anywhere, Anytime",skipped,licence other-oa
+MOF,10.1038/s41467-019-09365-w,Exceptional hydrogen storage achieved by screening nearly half a million metal-organic frameworks,skipped,already used (this or another domain)
+MOF,10.1038/s41467-018-06938-z,Oriented electron transmission in polyoxometalate-metalloporphyrin organic framework for highly selective electroreduction of CO2,skipped,already used (this or another domain)
+MOF,10.1038/s41467-020-16715-6,Nanocasting SiO2 into metal–organic frameworks imparts dual protection to high-loading Fe single-atom electrocatalysts,skipped,already used (this or another domain)
+MOF,10.1002/advs.202001274,"Carbon‐Based Composite Phase Change Materials for Thermal Energy Storage, Transfer, and Conversion",skipped,venue Advanced Science not in --venues
+MOF,10.1038/s41467-019-08434-4,Stable radical anions generated from a porous perylenediimide metal-organic framework for boosting near-infrared photothermal conversion,skipped,already used (this or another domain)
+MOF,10.1038/s41586-018-0669-y,Catalytic enantioconvergent coupling of secondary and tertiary electrophiles with olefins,skipped,licence unknown
+MOF,10.1038/s41467-020-20298-7,MOF-in-COF molecular sieving membrane for selective hydrogen separation,skipped,already used (this or another domain)
+MOF,10.1126/science.abb3976,Cooperative carbon capture and steam regeneration with tetraamine-appended metal–organic frameworks,skipped,licence unknown
+MOF,10.1021/acscentsci.7b00605,"Rapid, Selective Heavy Metal Removal from Water by a Metal–Organic Framework/Polydopamine Composite",skipped,licence other-oa
+MOF,10.1038/s41467-022-30687-9,Towards universal neural network potential for material discovery applicable to arbitrary combination of 45 elements,skipped,already used (this or another domain)
+MOF,10.1039/c9sc03800k,A stable covalent organic framework for photocatalytic carbon dioxide reduction,skipped,venue Chemical Science not in --venues
+MOF,10.1038/s41467-019-09157-2,Fluorinated MOF platform for selective removal and sensing of SO2 from flue gas and air,skipped,already used (this or another domain)
+MOF,10.1126/sciadv.aar3208,Favoring the unfavored: Selective electrochemical nitrogen fixation using a reticular chemistry approach,skipped,title does not match the field (--title-match)
+MOF,10.1021/acscentsci.0c00687,Metal–Organic Frameworks for Enzyme Immobilization: Beyond Host Matrix Materials,skipped,licence other-oa
+MOF,10.1021/acscentsci.9b01006,Single Crystals of Electrically Conductive Two-Dimensional Metal–Organic Frameworks: Structural and Electrical Transport Properties,skipped,licence other-oa
+MOF,10.1038/s41467-022-29076-z,In situ photodeposition of platinum clusters on a covalent organic framework for photocatalytic hydrogen production,skipped,already used (this or another domain)
+MOF,10.1038/s41467-023-40007-4,"Covalent organic frameworks for direct photosynthesis of hydrogen peroxide from water, air and sunlight",skipped,already used (this or another domain)
+MOF,10.1002/advs.201900547,Ammoniating Covalent Organic Framework (COF) for High‐Performance and Selective Extraction of Toxic and Radioactive Uranium Ions,skipped,venue Advanced Science not in --venues
+MOF,10.1038/s41467-019-13153-x,Packaging and delivering enzymes by amorphous metal-organic frameworks,kept,8 pages via https://www.nature.com/articles/s41467-019-13153-x.pdf
+MOF,10.1002/advs.201902590,Electrospinning of Metal–Organic Frameworks for Energy and Environmental Applications,skipped,venue Advanced Science not in --venues
+MOF,10.1038/s41467-018-04152-5,Topologically guided tuning of Zr-MOF pore structures for highly selective separation of C6 alkane isomers,skipped,already used (this or another domain)
+MOF,10.1126/sciadv.aao6827,A metal-organic framework with ultrahigh glass-forming ability,kept,7 pages via https://europepmc.org/articles/PMC5844704?pdf=render
+MOF,10.1126/sciadv.aaz6108,Targeted gene silencing in vivo by platelet membrane–coated metal-organic framework nanoparticles,kept,10 pages via https://europepmc.org/articles/PMC7101224?pdf=render
+MOF,10.1126/sciadv.aau1393,Paralyzed membrane: Current-driven synthesis of a metal-organic framework with sharpened propene/propane separation,kept,8 pages via https://europepmc.org/articles/PMC6218190?pdf=render
+MOF,10.1038/s41467-020-20489-2,Selective capture of carbon dioxide from hydrocarbons using a metal-organic framework,skipped,already used (this or another domain)
+MOF,10.1038/s41467-021-25095-4,Spin-state reconfiguration induced by alternating magnetic field for efficient oxygen evolution reaction,skipped,title does not match the field (--title-match)
+MOF,10.1038/s41467-018-07414-4,A robust zirconium amino acid metal-organic framework for proton conduction,kept,8 pages via https://www.nature.com/articles/s41467-018-07414-4.pdf
+MOF,10.1038/s41467-018-05141-4,A coronene-based semiconducting two-dimensional metal-organic framework with ferromagnetic behavior,kept,9 pages via https://www.nature.com/articles/s41467-018-05141-4.pdf
+MOF,10.1038/s41467-024-49762-4,2D/2D coupled MOF/Fe composite metamaterials enable robust ultra–broadband microwave absorption,kept,10 pages via https://europepmc.org/articles/PMC11226717?pdf=render
+organic photovoltaics,10.1038/s41467-019-10351-5,Over 16% efficiency organic photovoltaic cells enabled by a chlorinated acceptor with increased open-circuit voltages,skipped,already used (this or another domain)
+organic photovoltaics,10.1126/science.aba0893,Resolving spatial and energetic distributions of trap states in metal halide perovskite solar cells,skipped,licence unknown
+organic photovoltaics,10.1126/science.aav8680,Thermodynamically stabilized β-CsPbI 3 –based perovskite solar cells with efficiencies >18%,skipped,title does not match the field (--title-match)
+organic photovoltaics,10.1126/science.aau5701,A Eu 3+ -Eu 2+ ion redox shuttle imparts operational durability to Pb-I perovskite solar cells,skipped,licence unknown
+organic photovoltaics,10.1038/nature25147,Bright triplet excitons in caesium lead halide perovskites,skipped,licence unknown
+organic photovoltaics,10.1126/sciadv.aaz8867,Self-driving laboratory for accelerated discovery of thin-film materials,skipped,title does not match the field (--title-match)
+organic photovoltaics,10.1038/s41467-020-16509-w,Cathode engineering with perylene-diimide interlayer enabling over 17% efficiency single-junction organic solar cells,skipped,already used (this or another domain)
+organic photovoltaics,10.1038/s41467-018-07255-1,Addressing the stability issue of perovskite solar cells for commercial applications,skipped,already used (this or another domain)
+organic photovoltaics,10.1038/s41467-018-05761-w,Accelerated discovery of stable lead-free hybrid organic-inorganic perovskites via machine learning,skipped,already used (this or another domain)
+organic photovoltaics,10.1038/s41467-020-17867-1,Delocalization of exciton and electron wavefunction in non-fullerene acceptor molecules enables efficient organic solar cells,skipped,already used (this or another domain)
+organic photovoltaics,10.1038/s41467-018-03169-0,Surface passivation engineering strategy to fully-inorganic cubic CsPbI3 perovskites for high-performance solar cells,skipped,already used (this or another domain)
+organic photovoltaics,10.1038/s41467-019-13909-5,Highly efficient all-inorganic perovskite solar cells with suppressed non-radiative recombination by a Lewis base,skipped,already used (this or another domain)
+organic photovoltaics,10.1038/s41467-023-37526-5,19.31% binary organic solar cell and low non-radiative recombination enabled by non-monotonic intermediate state transition,skipped,already used (this or another domain)
+organic photovoltaics,10.1038/s41467-020-16034-w,Nucleation-controlled growth of superior lead-free perovskite Cs3Bi2I9 single-crystals for high-performance X-ray detection,skipped,already used (this or another domain)
+organic photovoltaics,10.1002/advs.201903259,Progress in Stability of Organic Solar Cells,skipped,venue Advanced Science not in --venues
+organic photovoltaics,10.1038/s43246-022-00325-4,Next-generation applications for integrated perovskite solar cells,skipped,venue Communications Materials not in --venues
+organic photovoltaics,10.1038/s41467-019-08386-9,Enabling low voltage losses and high photocurrent in fullerene-free organic photovoltaics,skipped,already used (this or another domain)
+organic photovoltaics,10.1002/advs.202000186,Polymer Materials for High‐Performance Triboelectric Nanogenerators,skipped,venue Advanced Science not in --venues
+organic photovoltaics,10.1038/s41467-019-10098-z,Simple non-fused electron acceptors for efficient and stable organic solar cells,skipped,already used (this or another domain)
+organic photovoltaics,10.1126/science.abj2637,Metastable Dion-Jacobson 2D structure enables efficient and stable perovskite solar cells,skipped,licence unknown
+organic photovoltaics,10.1038/s41586-020-2219-7,Two-dimensional halide perovskite lateral epitaxial heterostructures,skipped,licence unknown
+organic photovoltaics,10.1038/s41467-019-10634-x,Lead halide perovskites for photocatalytic organic synthesis,skipped,already used (this or another domain)
+organic photovoltaics,10.1038/s41467-021-22049-8,A general approach to high-efficiency perovskite solar cells by any antisolvent,skipped,already used (this or another domain)
+organic photovoltaics,10.1002/advs.201700387,Recent Progress on the Long‐Term Stability of Perovskite Solar Cells,skipped,venue Advanced Science not in --venues
+organic photovoltaics,10.1038/s41586-021-03840-5,The role of charge recombination to triplet excitons in organic solar cells,skipped,licence unknown
+organic photovoltaics,10.1126/sciadv.abj7930,23.7% Efficient inverted perovskite solar cells by dual interfacial modification,skipped,title does not match the field (--title-match)
+organic photovoltaics,10.1038/s41467-024-51359-w,Molecular interaction induced dual fibrils towards organic solar cells with certified efficiency over 20%,skipped,already used (this or another domain)
+organic photovoltaics,10.1126/science.abo2757,Ion-modulated radical doping of spiro-OMeTAD for more efficient and stable perovskite solar cells,skipped,licence other-oa
+organic photovoltaics,10.1038/s41586-022-04455-0,Perovskite–organic tandem solar cells with indium oxide interconnect,skipped,licence other-oa
+organic photovoltaics,10.1038/s41467-019-11001-6,Noncovalently fused-ring electron acceptors with near-infrared absorption for high-performance organic solar cells,skipped,already used (this or another domain)
+organic photovoltaics,10.1038/s41467-020-19029-9,Long-range exciton diffusion in molecular non-fullerene acceptors,skipped,already used (this or another domain)
+organic photovoltaics,10.1039/c8sc05284k,Doping strategies for small molecule organic hole-transport materials: impacts on perovskite solar cell performance and stability,skipped,venue Chemical Science not in --venues
+organic photovoltaics,10.1038/s41467-021-25394-w,Completely non-fused electron acceptor with 3D-interpenetrated crystalline structure enables efficient and stable organic solar cell,skipped,already used (this or another domain)
+organic photovoltaics,10.1038/s41586-024-08103-7,High-efficiency and thermally stable FACsPbI3 perovskite photovoltaics,skipped,title does not match the field (--title-match)
+organic photovoltaics,10.1038/s41467-020-16621-x,Optimized active layer morphology toward efficient and polymer batch insensitive organic solar cells,skipped,already used (this or another domain)
+organic photovoltaics,10.1038/s41467-022-30927-y,Small reorganization energy acceptors enable low energy losses in non-fullerene organic solar cells,skipped,already used (this or another domain)
+organic photovoltaics,10.1038/s41467-021-21945-3,A molecular photosensitizer achieves a Voc of 1.24 V enabling highly efficient and stable dye-sensitized solar cells with copper(II/I)-based electrolyte,skipped,already used (this or another domain)
+organic photovoltaics,10.1126/sciadv.abo7422,Sequential vacuum-evaporated perovskite solar cells with more than 24% efficiency,skipped,already used (this or another domain)
+organic photovoltaics,10.1038/s41467-018-07382-9,Dimensionality engineering of hybrid halide perovskite light absorbers,skipped,already used (this or another domain)
+organic photovoltaics,10.1038/s41467-019-12613-8,Reconfiguration of interfacial energy band structure for high-performance inverted structure perovskite solar cells,skipped,already used (this or another domain)
+organic photovoltaics,10.1038/s41467-024-46022-3,Rational molecular and device design enables organic solar cells approaching 20% efficiency,skipped,already used (this or another domain)
+organic photovoltaics,10.1038/s41467-018-06204-2,In-situ cross-linking strategy for efficient and operationally stable methylammoniun lead iodide solar cells,skipped,already used (this or another domain)
+organic photovoltaics,10.1038/s41467-020-18378-9,Random terpolymer based on thiophene-thiazolothiazole unit enabling efficient non-fullerene organic solar cells,skipped,already used (this or another domain)
+organic photovoltaics,10.1038/s41467-019-13292-1,All-small-molecule organic solar cells with over 14% efficiency by optimizing hierarchical morphologies,skipped,already used (this or another domain)
+organic photovoltaics,10.1038/s41467-018-07017-z,Design and application of volatilizable solid additives in non-fullerene organic solar cells,skipped,already used (this or another domain)
+organic photovoltaics,10.1038/s41467-022-29803-6,Vertically optimized phase separation with improved exciton diffusion enables efficient organic solar cells with thick active layers,skipped,already used (this or another domain)
+organic photovoltaics,10.1038/s41467-019-08980-x,Synthetic control over orientational degeneracy of spacer cations enhances solar cell efficiency in two-dimensional perovskites,skipped,already used (this or another domain)
+organic photovoltaics,10.1038/s41467-019-08508-3,Simplified synthetic routes for low cost and high photovoltaic performance n-type organic semiconductor acceptors,skipped,title does not match the field (--title-match)
+organic photovoltaics,10.1038/s41467-018-07204-y,Myths and reality of HPbI3 in halide perovskite solar cells,skipped,title does not match the field (--title-match)
+organic photovoltaics,10.1038/s41467-020-14926-5,Simultaneous enhanced efficiency and thermal stability in organic solar cells from a polymer acceptor additive,kept,10 pages via https://www.nature.com/articles/s41467-020-14926-5.pdf
+organic photovoltaics,10.1038/s41467-021-21292-3,Interpenetrating interfaces for efficient perovskite solar cells with high operational stability and mechanical robustness,skipped,title does not match the field (--title-match)
+organic photovoltaics,10.1038/s41467-023-39832-4,All-polymer organic solar cells with nano-to-micron hierarchical morphology and large light receiving angle,kept,10 pages via https://www.nature.com/articles/s41467-023-39832-4.pdf
+organic photovoltaics,10.1038/s41467-019-09093-1,Impacts of alkaline on the defects property and crystallization kinetics in perovskite solar cells,skipped,title does not match the field (--title-match)
+organic photovoltaics,10.1038/s41467-021-25718-w,Non-fullerene acceptor organic photovoltaics with intrinsic operational lifetimes over 30 years,kept,9 pages via https://europepmc.org/articles/PMC8440764?pdf=render
+organic photovoltaics,10.1038/s41467-020-17868-0,Space-charge-limited electron and hole currents in hybrid organic-inorganic perovskites,skipped,title does not match the field (--title-match)
+organic photovoltaics,10.1038/s41467-022-30225-7,Asymmetric electron acceptor enables highly luminescent organic solar cells with certified efficiency over 18%,kept,11 pages via https://www.nature.com/articles/s41467-022-30225-7.pdf
+organic photovoltaics,10.1126/science.add8786,"Radical polymeric p-doping and grain modulation for stable, efficient perovskite solar modules",skipped,title does not match the field (--title-match)
+organic photovoltaics,10.1038/s41467-018-07438-w,Excess charge-carrier induced instability of hybrid perovskites,skipped,title does not match the field (--title-match)
+organic photovoltaics,10.1038/s41467-021-22558-6,Self-powered ultraflexible photonic skin for continuous bio-signal detection via air-operation-stable polymer light-emitting diodes,skipped,title does not match the field (--title-match)
+organic photovoltaics,10.1038/s41467-024-51760-5,Co-adsorbed self-assembled monolayer enables high-performance perovskite and organic solar cells,kept,13 pages via https://www.nature.com/articles/s41467-024-51760-5.pdf
+polymer membranes,10.1038/s41467-017-02529-6,MXene molecular sieving membranes for highly efficient gas separation,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-020-15771-2,Polyamide nanofiltration membrane with highly uniform sub-nanometre pores for sub-1 Å precision separation,skipped,already used (this or another domain)
+polymer membranes,10.1126/science.ade1499,La- and Mn-doped cobalt spinel oxygen evolution catalyst for proton exchange membrane electrolysis,skipped,licence unknown
+polymer membranes,10.1038/s41467-018-04467-3,Nanoparticle-templated nanofiltration membranes for ultrahigh performance desalination,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-017-02479-z,Green synthesis of graphene oxide by seconds timescale water electrolytic oxidation,skipped,already used (this or another domain)
+polymer membranes,10.1126/sciadv.aar2904,Molecularly selective nanoporous membrane-based wearable organic electrochemical device for noninvasive cortisol sensing,kept,10 pages via https://europepmc.org/articles/PMC6054510?pdf=render
+polymer membranes,10.1126/sciadv.aaq0066,Ultrafast selective transport of alkali metal ions in metal organic frameworks with subnanometer pores,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-018-03919-0,Highly stable graphene-oxide-based membranes with superior permeability,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-020-19212-y,Dopants fixation of Ruthenium for boosting acidic oxygen evolution stability and activity,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-023-37008-8,Unraveling oxygen vacancy site mechanism of Rh-doped RuO2 catalyst for long-lasting acidic water oxidation,skipped,already used (this or another domain)
+polymer membranes,10.1126/science.aar7432,mRNA structure determines specificity of a polyQ-driven phase separation,skipped,licence unknown
+polymer membranes,10.1126/science.aau6313,Stoichiometry controls activity of phase-separated clusters of actin signaling proteins,skipped,licence unknown
+polymer membranes,10.1038/s41467-019-10157-5,Covalent organic framework membranes through a mixed-dimensional assembly for molecular separations,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-023-36380-9,Customized reaction route for ruthenium oxide towards stabilized water oxidation in high-performance PEM electrolyzers,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-019-08835-5,High performance n-type Ag2Se film on nylon membrane for flexible thermoelectric power generator,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-019-08622-2,Magnetic field alignment of stable proton-conducting channels in an electrolyte membrane,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-022-30691-z,"Superstrong, superstiff, and conductive alginate hydrogels",skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-020-20768-y,The SARS-CoV-2 nucleocapsid phosphoprotein forms mutually exclusive condensates with RNA and the membrane-associated M protein,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-020-20298-7,MOF-in-COF molecular sieving membrane for selective hydrogen separation,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41586-019-1502-y,DEAD-box ATPases are global regulators of phase-separated organelles,skipped,licence other-oa
+polymer membranes,10.1038/s41467-020-19843-1,Nucleocapsid protein of SARS-CoV-2 phase separates into RNA-rich polymerase-containing condensates,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-022-33474-8,Near-infrared phosphorescent carbon dots for sonodynamic precision tumor therapy,skipped,already used (this or another domain)
+polymer membranes,10.1126/sciadv.abb1110,Self-standing and flexible covalent organic framework (COF) membranes for molecular separation,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-019-14056-7,Laminated self-standing covalent organic framework membrane with uniformly distributed subnanopores for ionic and molecular sieving,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-020-16580-3,Liquid-liquid phase separation induces pathogenic tau conformations in vitro,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-022-28183-1,Polyamide-based membranes with structural homogeneity for ultrafast molecular sieving,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41586-018-0735-5,Efferocytosis induces a novel SLC program to promote glucose uptake and lactate release,skipped,licence unknown
+polymer membranes,10.1002/advs.201700817,A Multimaterial Scaffold With Tunable Properties: Toward Bone Tissue Repair,skipped,venue Advanced Science not in --venues
+polymer membranes,10.1126/sciadv.aau1393,Paralyzed membrane: Current-driven synthesis of a metal-organic framework with sharpened propene/propane separation,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-018-05254-w,An autophagy assay reveals the ESCRT-III component CHMP2A as a regulator of phagophore closure,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41586-023-05888-x,Near-frictionless ion transport within triazine framework membranes,skipped,licence unknown
+polymer membranes,10.1126/sciadv.abe8706,Molecularly soldered covalent organic frameworks for ultrafast precision sieving,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41586-023-06255-6,Phase separation of FSP1 promotes ferroptosis,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-018-06072-w,Compartmentalised RNA catalysis in membrane-free coacervate protocells,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-018-04294-6,Functionalized boron nitride membranes with ultrafast solvent transport performance for molecular separation,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41586-018-0292-y,Electrically controlled water permeation through graphene oxide membranes,skipped,licence unknown
+polymer membranes,10.1038/s41586-022-05032-1,Aligned macrocycle pores in ultrathin films for accurate molecular sieving,skipped,already used (this or another domain)
+polymer membranes,10.1126/sciadv.abl9271,Single-site Pt-doped RuO 2 hollow nanospheres with interstitial C for high-performance acidic overall water splitting,skipped,title does not match the field (--title-match)
+polymer membranes,10.1126/science.adi9531,Ice-confined synthesis of highly ionized 3D-quasilayered polyamide nanofiltration membranes,skipped,publisher: no URL | europepmc: no URL | unpaywall: no URL
+polymer membranes,10.1038/s41467-024-46887-4,Extreme Li-Mg selectivity via precise ion size differentiation of polyamide membrane,skipped,already used (this or another domain)
+polymer membranes,10.1126/science.abf5991,Ion-capture electrodialysis using multifunctional adsorptive membranes,skipped,licence unknown
+polymer membranes,10.1002/advs.201900085,Sunlight Polymerization of Poly(amidoxime) Hydrogel Membrane for Enhanced Uranium Extraction from Seawater,skipped,venue Advanced Science not in --venues
+polymer membranes,10.1038/s41467-020-17373-4,Ion sieving by a two-dimensional Ti3C2Tx alginate lamellar membrane with stable interlayer spacing,skipped,already used (this or another domain)
+polymer membranes,10.1126/sciadv.aay3998,Ultrathin water-stable metal-organic framework membranes for ion separation,skipped,publisher: HTTPError: HTTP Error 403: Forbidden | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: HTTPError: HTTP Error 403: Forbidden
+polymer membranes,10.1038/s41467-018-02941-6,Ultrafast ion sieving using nanoporous polymeric membranes,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-020-20628-9,Carbon hollow fiber membranes for a molecular sieve with precise-cutoff ultramicropores for superior hydrogen separation,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-022-34849-7,Covalent organic framework membranes for efficient separation of monovalent cations,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-019-12114-8,Membrane adsorbers with ultrahigh metal-organic framework loading for high flux separations,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-021-26053-w,Efficient CO2 electroreduction on facet-selective copper films with high conversion rate,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-022-28180-4,General synthesis of ultrafine metal oxide/reduced graphene oxide nanocomposites for ultrahigh-flux nanofiltration membrane,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-023-44625-w,Solar-driven membrane separation for direct lithium extraction from artificial salt-lake brine,kept,9 pages via https://www.nature.com/articles/s41467-023-44625-w.pdf
+polymer membranes,10.1126/sciadv.abe9924,Highly selective and high-performance osmotic power generators in subnanochannel membranes enabled by metal-organic frameworks,skipped,publisher: HTTPError: HTTP Error 403: Forbidden | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: HTTPError: HTTP Error 403: Forbidden
+polymer membranes,10.1126/sciadv.abe5085,Mitovesicles are a novel population of extracellular vesicles of mitochondrial origin altered in Down syndrome,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41467-023-36848-8,Polyamide membranes with nanoscale ordered structures for fast permeation and highly selective ion-ion separation,kept,9 pages via https://www.nature.com/articles/s41467-023-36848-8.pdf
+polymer membranes,10.1126/sciadv.aaz4301,Designing exceptional gas-separation polymer membranes using machine learning,skipped,publisher: HTTPError: HTTP Error 403: Forbidden | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: HTTPError: HTTP Error 403: Forbidden
+polymer membranes,10.1038/s41586-023-05840-z,Ultrafiltration separation of Am(VI)-polyoxometalate from lanthanides,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41467-020-19809-3,Asymmetric polyamide nanofilms with highly ordered nanovoids for water purification,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41467-022-35105-8,Antifouling graphene oxide membranes for oil-water separation via hydrophobic chain engineering,kept,9 pages via https://www.nature.com/articles/s41467-022-35105-8.pdf
+polymer membranes,10.1038/s41467-023-43291-2,Anhydrous interfacial polymerization of sub-1 Å sieving polyamide membrane,kept,10 pages via https://www.nature.com/articles/s41467-023-43291-2.pdf
+polymer membranes,10.1038/s41467-022-31295-3,Bipolar membrane electrolyzers enable high single-pass CO2 electroreduction to multicarbon products,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41467-019-09107-y,Proteome-wide solubility and thermal stability profiling reveals distinct regulatory roles for ATP,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41467-021-23721-9,Layered double hydroxide membrane with high hydroxide conductivity and ion selectivity for energy storage device,kept,10 pages via https://www.nature.com/articles/s41467-021-23721-9.pdf
+polymer membranes,10.1038/s41467-020-16912-3,Strain-induced room-temperature ferroelectricity in SrTiO3 membranes,skipped,title does not match the field (--title-match)
+polymer membranes,10.1126/science.aba9806,N -Aryl–linked spirocyclic polymers for membrane separations of complex hydrocarbon mixtures,skipped,licence other-oa
+polymer membranes,10.1038/s41467-019-08680-6,Macrophage achieves self-protection against oxidative stress-induced ageing through the Mst-Nrf2 axis,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41467-021-26733-7,Programmable viscoelasticity in protein-RNA condensates with disordered sticker-spacer polypeptides,skipped,title does not match the field (--title-match)
+polymer membranes,10.1126/sciadv.aaz0013,“Skin-like” fabric for personal moisture management,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41586-023-05991-z,Structural basis of NINJ1-mediated plasma membrane rupture in cell death,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41467-023-41169-x,Quaternization-spiro design of chlorine-resistant and high-permeance lithium separation membranes,kept,11 pages via https://www.nature.com/articles/s41467-023-41169-x.pdf
+polymer membranes,10.1038/s41467-019-10792-y,Lysine/RNA-interactions drive and regulate biomolecular condensation,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41586-024-08140-2,Selective ion transport through hydrated micropores in polymer membranes,kept,18 pages via https://europepmc.org/articles/PMC11560840?pdf=render
+polymer membranes,10.1038/s41467-018-05723-2,Efficient and scalable synthesis of highly aligned and compact two-dimensional nanosheet films with record performances,skipped,title does not match the field (--title-match)
+polymer membranes,10.1126/sciadv.aay9035,Biomimetic anisotropic polymeric nanoparticles coated with red blood cell membranes for enhanced circulation and toxin removal,skipped,title does not match the field (--title-match)
+polymer membranes,10.1002/advs.202203527,Emergence of MXene and MXene–Polymer Hybrid Membranes as Future‐ Environmental Remediation Strategies,skipped,licence other-oa
+polymer membranes,10.1126/sciadv.abm4149,Metal-organic framework enables ultraselective polyamide membrane for desalination and water reuse,kept,11 pages via https://europepmc.org/articles/PMC8906575?pdf=render
+polymer membranes,10.1038/s41467-022-32804-0,In-situ growth of robust superlubricated nano-skin on electrospun nanofibers for post-operative adhesion prevention,skipped,title does not match the field (--title-match)
+polymer membranes,10.1002/advs.202103663,Self‐Enhancing Gel Polymer Electrolyte by In Situ Construction for Enabling Safe Lithium Metal Battery,skipped,venue Advanced Science not in --venues
+polymer membranes,10.1126/sciadv.abn9545,Machine learning enables interpretable discovery of innovative polymers for gas separation membranes,skipped,publisher: HTTPError: HTTP Error 403: Forbidden | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: HTTPError: HTTP Error 403: Forbidden
+polymer membranes,10.1038/s41467-020-17584-9,Scalable neutral H2O2 electrosynthesis by platinum diphosphide nanocrystals by regulating oxygen reduction reaction pathways,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41467-019-13430-9,Multifunctional flexible membranes from sponge-like porous carbon nanofibers with high conductivity,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-018-08029-5,Artificial light-driven ion pump for photoelectric energy conversion,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41467-020-15038-w,Tailoring the molecular structure of crosslinked polymers for pervaporation desalination,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41586-019-1391-0,Conformation space of a heterodimeric ABC exporter under turnover conditions,skipped,licence unknown
+polymer membranes,10.1038/s41467-018-04904-3,Single-layer graphene membranes by crack-free transfer for gas mixture separation,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-022-31028-6,Transforming Ti3C2Tx MXene’s intrinsic hydrophilicity into superhydrophobicity for efficient photothermal membrane desalination,kept,10 pages via https://www.nature.com/articles/s41467-022-31028-6.pdf
+polymer membranes,10.1038/s41467-022-28643-8,Assembling covalent organic framework membranes with superior ion exchange capacity,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41586-018-0201-4,Structural basis for regulation of human acetyl-CoA carboxylase,skipped,title does not match the field (--title-match)
+polymer membranes,10.1126/science.abd0966,Ultrafast water permeation through nanochannels with a densely fluorous interior surface,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41467-020-18686-0,Highly efficient oxygen evolution reaction via facile bubble transport realized by three-dimensionally stack-printed catalysts,skipped,title does not match the field (--title-match)
+polymer membranes,10.1002/advs.202102209,Stabilizing Fe–N–C Catalysts as Model for Oxygen Reduction Reaction,skipped,venue Advanced Science not in --venues
+polymer membranes,10.1038/s41467-020-19404-6,Molecularly-porous ultrathin membranes for highly selective organic solvent nanofiltration,kept,10 pages via https://www.nature.com/articles/s41467-020-19404-6.pdf
+polymer membranes,10.1038/s41467-021-25290-3,Exclusive and ultrasensitive detection of formaldehyde at room temperature using a flexible and monolithic chemiresistive sensor,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41467-018-05342-x,Topical ferumoxytol nanoparticles disrupt biofilms and prevent tooth decay in vivo via intrinsic catalytic activity,skipped,title does not match the field (--title-match)
+polymer membranes,10.1126/sciadv.abe5683,Biomimetic and flexible piezoelectric mobile acoustic sensors with multiresonant ultrathin structures for machine learning biometrics,skipped,title does not match the field (--title-match)
+polymer membranes,10.1002/advs.201900290,"A Chest‐Laminated Ultrathin and Stretchable E‐Tattoo for the Measurement of Electrocardiogram, Seismocardiogram, and Cardiac Time Intervals",skipped,venue Advanced Science not in --venues
+polymer membranes,10.1126/sciadv.aav1851,Etching gas-sieving nanopores in single-layer graphene with an angstrom precision for high-performance gas mixture separation,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41467-023-40742-8,Two-dimensional MXene membranes with biomimetic sub-nanochannels for enhanced cation sieving,kept,10 pages via https://www.nature.com/articles/s41467-023-40742-8.pdf
+polymer membranes,10.1038/s41467-019-09902-7,Structural basis for reversible amyloids of hnRNPA1 elucidates their role in stress granule assembly,skipped,title does not match the field (--title-match)
+polymer membranes,10.1126/science.abq0598,Hydrophobic polyamide nanofilms provide rapid transport for crude oil separation,skipped,licence unknown
+polymer membranes,10.1002/advs.201802066,Iron Single Atoms on Graphene as Nonprecious Metal Catalysts for High‐Temperature Polymer Electrolyte Membrane Fuel Cells,skipped,venue Advanced Science not in --venues
+polymer membranes,10.1038/s41467-017-02529-6,MXene molecular sieving membranes for highly efficient gas separation,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-020-15771-2,Polyamide nanofiltration membrane with highly uniform sub-nanometre pores for sub-1 Å precision separation,skipped,already used (this or another domain)
+polymer membranes,10.1126/science.ade1499,La- and Mn-doped cobalt spinel oxygen evolution catalyst for proton exchange membrane electrolysis,skipped,licence unknown
+polymer membranes,10.1038/s41467-018-04467-3,Nanoparticle-templated nanofiltration membranes for ultrahigh performance desalination,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-017-02479-z,Green synthesis of graphene oxide by seconds timescale water electrolytic oxidation,skipped,already used (this or another domain)
+polymer membranes,10.1126/sciadv.aar2904,Molecularly selective nanoporous membrane-based wearable organic electrochemical device for noninvasive cortisol sensing,skipped,already used (this or another domain)
+polymer membranes,10.1126/sciadv.aaq0066,Ultrafast selective transport of alkali metal ions in metal organic frameworks with subnanometer pores,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-018-03919-0,Highly stable graphene-oxide-based membranes with superior permeability,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-020-19212-y,Dopants fixation of Ruthenium for boosting acidic oxygen evolution stability and activity,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-023-37008-8,Unraveling oxygen vacancy site mechanism of Rh-doped RuO2 catalyst for long-lasting acidic water oxidation,skipped,already used (this or another domain)
+polymer membranes,10.1126/science.aar7432,mRNA structure determines specificity of a polyQ-driven phase separation,skipped,licence unknown
+polymer membranes,10.1126/science.aau6313,Stoichiometry controls activity of phase-separated clusters of actin signaling proteins,skipped,licence unknown
+polymer membranes,10.1038/s41467-019-10157-5,Covalent organic framework membranes through a mixed-dimensional assembly for molecular separations,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-023-36380-9,Customized reaction route for ruthenium oxide towards stabilized water oxidation in high-performance PEM electrolyzers,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-019-08835-5,High performance n-type Ag2Se film on nylon membrane for flexible thermoelectric power generator,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-019-08622-2,Magnetic field alignment of stable proton-conducting channels in an electrolyte membrane,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-022-30691-z,"Superstrong, superstiff, and conductive alginate hydrogels",skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-020-20768-y,The SARS-CoV-2 nucleocapsid phosphoprotein forms mutually exclusive condensates with RNA and the membrane-associated M protein,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-020-20298-7,MOF-in-COF molecular sieving membrane for selective hydrogen separation,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41586-019-1502-y,DEAD-box ATPases are global regulators of phase-separated organelles,skipped,licence other-oa
+polymer membranes,10.1038/s41467-020-19843-1,Nucleocapsid protein of SARS-CoV-2 phase separates into RNA-rich polymerase-containing condensates,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-022-33474-8,Near-infrared phosphorescent carbon dots for sonodynamic precision tumor therapy,skipped,already used (this or another domain)
+polymer membranes,10.1126/sciadv.abb1110,Self-standing and flexible covalent organic framework (COF) membranes for molecular separation,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-019-14056-7,Laminated self-standing covalent organic framework membrane with uniformly distributed subnanopores for ionic and molecular sieving,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-020-16580-3,Liquid-liquid phase separation induces pathogenic tau conformations in vitro,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-022-28183-1,Polyamide-based membranes with structural homogeneity for ultrafast molecular sieving,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41586-018-0735-5,Efferocytosis induces a novel SLC program to promote glucose uptake and lactate release,skipped,licence unknown
+polymer membranes,10.1002/advs.201700817,A Multimaterial Scaffold With Tunable Properties: Toward Bone Tissue Repair,skipped,title does not match the field (--title-match)
+polymer membranes,10.1126/sciadv.aau1393,Paralyzed membrane: Current-driven synthesis of a metal-organic framework with sharpened propene/propane separation,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-018-05254-w,An autophagy assay reveals the ESCRT-III component CHMP2A as a regulator of phagophore closure,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41586-023-05888-x,Near-frictionless ion transport within triazine framework membranes,skipped,licence unknown
+polymer membranes,10.1126/sciadv.abe8706,Molecularly soldered covalent organic frameworks for ultrafast precision sieving,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41586-023-06255-6,Phase separation of FSP1 promotes ferroptosis,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-018-06072-w,Compartmentalised RNA catalysis in membrane-free coacervate protocells,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-018-04294-6,Functionalized boron nitride membranes with ultrafast solvent transport performance for molecular separation,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41586-018-0292-y,Electrically controlled water permeation through graphene oxide membranes,skipped,licence unknown
+polymer membranes,10.1038/s41586-022-05032-1,Aligned macrocycle pores in ultrathin films for accurate molecular sieving,skipped,already used (this or another domain)
+polymer membranes,10.1126/sciadv.abl9271,Single-site Pt-doped RuO 2 hollow nanospheres with interstitial C for high-performance acidic overall water splitting,skipped,title does not match the field (--title-match)
+polymer membranes,10.1126/science.adi9531,Ice-confined synthesis of highly ionized 3D-quasilayered polyamide nanofiltration membranes,skipped,publisher: no URL | europepmc: no URL | unpaywall: no URL
+polymer membranes,10.1038/s41467-024-46887-4,Extreme Li-Mg selectivity via precise ion size differentiation of polyamide membrane,skipped,already used (this or another domain)
+polymer membranes,10.1126/science.abf5991,Ion-capture electrodialysis using multifunctional adsorptive membranes,skipped,licence unknown
+polymer membranes,10.1002/advs.201900085,Sunlight Polymerization of Poly(amidoxime) Hydrogel Membrane for Enhanced Uranium Extraction from Seawater,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41467-020-17373-4,Ion sieving by a two-dimensional Ti3C2Tx alginate lamellar membrane with stable interlayer spacing,skipped,already used (this or another domain)
+polymer membranes,10.1126/sciadv.aay3998,Ultrathin water-stable metal-organic framework membranes for ion separation,skipped,publisher: HTTPError: HTTP Error 403: Forbidden | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: HTTPError: HTTP Error 403: Forbidden
+polymer membranes,10.1038/s41467-018-02941-6,Ultrafast ion sieving using nanoporous polymeric membranes,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-020-20628-9,Carbon hollow fiber membranes for a molecular sieve with precise-cutoff ultramicropores for superior hydrogen separation,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-022-34849-7,Covalent organic framework membranes for efficient separation of monovalent cations,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-019-12114-8,Membrane adsorbers with ultrahigh metal-organic framework loading for high flux separations,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-021-26053-w,Efficient CO2 electroreduction on facet-selective copper films with high conversion rate,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-022-28180-4,General synthesis of ultrafine metal oxide/reduced graphene oxide nanocomposites for ultrahigh-flux nanofiltration membrane,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-023-44625-w,Solar-driven membrane separation for direct lithium extraction from artificial salt-lake brine,skipped,already used (this or another domain)
+polymer membranes,10.1126/sciadv.abe9924,Highly selective and high-performance osmotic power generators in subnanochannel membranes enabled by metal-organic frameworks,skipped,publisher: HTTPError: HTTP Error 403: Forbidden | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: HTTPError: HTTP Error 403: Forbidden
+polymer membranes,10.1126/sciadv.abe5085,Mitovesicles are a novel population of extracellular vesicles of mitochondrial origin altered in Down syndrome,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41467-023-36848-8,Polyamide membranes with nanoscale ordered structures for fast permeation and highly selective ion-ion separation,skipped,already used (this or another domain)
+polymer membranes,10.1126/sciadv.aaz4301,Designing exceptional gas-separation polymer membranes using machine learning,skipped,publisher: HTTPError: HTTP Error 403: Forbidden | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: HTTPError: HTTP Error 403: Forbidden
+polymer membranes,10.1038/s41586-023-05840-z,Ultrafiltration separation of Am(VI)-polyoxometalate from lanthanides,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41467-020-19809-3,Asymmetric polyamide nanofilms with highly ordered nanovoids for water purification,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41467-022-35105-8,Antifouling graphene oxide membranes for oil-water separation via hydrophobic chain engineering,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-023-43291-2,Anhydrous interfacial polymerization of sub-1 Å sieving polyamide membrane,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-022-31295-3,Bipolar membrane electrolyzers enable high single-pass CO2 electroreduction to multicarbon products,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41467-019-09107-y,Proteome-wide solubility and thermal stability profiling reveals distinct regulatory roles for ATP,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41467-021-23721-9,Layered double hydroxide membrane with high hydroxide conductivity and ion selectivity for energy storage device,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-020-16912-3,Strain-induced room-temperature ferroelectricity in SrTiO3 membranes,skipped,title does not match the field (--title-match)
+polymer membranes,10.1126/science.aba9806,N -Aryl–linked spirocyclic polymers for membrane separations of complex hydrocarbon mixtures,skipped,licence other-oa
+polymer membranes,10.1038/s41467-019-08680-6,Macrophage achieves self-protection against oxidative stress-induced ageing through the Mst-Nrf2 axis,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41467-021-26733-7,Programmable viscoelasticity in protein-RNA condensates with disordered sticker-spacer polypeptides,skipped,title does not match the field (--title-match)
+polymer membranes,10.1126/sciadv.aaz0013,“Skin-like” fabric for personal moisture management,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41586-023-05991-z,Structural basis of NINJ1-mediated plasma membrane rupture in cell death,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41467-023-41169-x,Quaternization-spiro design of chlorine-resistant and high-permeance lithium separation membranes,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-019-10792-y,Lysine/RNA-interactions drive and regulate biomolecular condensation,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41586-024-08140-2,Selective ion transport through hydrated micropores in polymer membranes,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-018-05723-2,Efficient and scalable synthesis of highly aligned and compact two-dimensional nanosheet films with record performances,skipped,title does not match the field (--title-match)
+polymer membranes,10.1126/sciadv.aay9035,Biomimetic anisotropic polymeric nanoparticles coated with red blood cell membranes for enhanced circulation and toxin removal,skipped,title does not match the field (--title-match)
+polymer membranes,10.1002/advs.202203527,Emergence of MXene and MXene–Polymer Hybrid Membranes as Future‐ Environmental Remediation Strategies,skipped,licence other-oa
+polymer membranes,10.1126/sciadv.abm4149,Metal-organic framework enables ultraselective polyamide membrane for desalination and water reuse,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-022-32804-0,In-situ growth of robust superlubricated nano-skin on electrospun nanofibers for post-operative adhesion prevention,skipped,title does not match the field (--title-match)
+polymer membranes,10.1002/advs.202103663,Self‐Enhancing Gel Polymer Electrolyte by In Situ Construction for Enabling Safe Lithium Metal Battery,skipped,title does not match the field (--title-match)
+polymer membranes,10.1126/sciadv.abn9545,Machine learning enables interpretable discovery of innovative polymers for gas separation membranes,skipped,publisher: HTTPError: HTTP Error 403: Forbidden | europepmc: HTTPError: HTTP Error 403: Forbidden | unpaywall: HTTPError: HTTP Error 403: Forbidden
+polymer membranes,10.1038/s41467-020-17584-9,Scalable neutral H2O2 electrosynthesis by platinum diphosphide nanocrystals by regulating oxygen reduction reaction pathways,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41467-019-13430-9,Multifunctional flexible membranes from sponge-like porous carbon nanofibers with high conductivity,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-018-08029-5,Artificial light-driven ion pump for photoelectric energy conversion,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41467-020-15038-w,Tailoring the molecular structure of crosslinked polymers for pervaporation desalination,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41586-019-1391-0,Conformation space of a heterodimeric ABC exporter under turnover conditions,skipped,licence unknown
+polymer membranes,10.1038/s41467-018-04904-3,Single-layer graphene membranes by crack-free transfer for gas mixture separation,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-022-31028-6,Transforming Ti3C2Tx MXene’s intrinsic hydrophilicity into superhydrophobicity for efficient photothermal membrane desalination,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-022-28643-8,Assembling covalent organic framework membranes with superior ion exchange capacity,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41586-018-0201-4,Structural basis for regulation of human acetyl-CoA carboxylase,skipped,title does not match the field (--title-match)
+polymer membranes,10.1126/science.abd0966,Ultrafast water permeation through nanochannels with a densely fluorous interior surface,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41467-020-18686-0,Highly efficient oxygen evolution reaction via facile bubble transport realized by three-dimensionally stack-printed catalysts,skipped,title does not match the field (--title-match)
+polymer membranes,10.1002/advs.202102209,Stabilizing Fe–N–C Catalysts as Model for Oxygen Reduction Reaction,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41467-020-19404-6,Molecularly-porous ultrathin membranes for highly selective organic solvent nanofiltration,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-021-25290-3,Exclusive and ultrasensitive detection of formaldehyde at room temperature using a flexible and monolithic chemiresistive sensor,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41467-018-05342-x,Topical ferumoxytol nanoparticles disrupt biofilms and prevent tooth decay in vivo via intrinsic catalytic activity,skipped,title does not match the field (--title-match)
+polymer membranes,10.1126/sciadv.abe5683,Biomimetic and flexible piezoelectric mobile acoustic sensors with multiresonant ultrathin structures for machine learning biometrics,skipped,title does not match the field (--title-match)
+polymer membranes,10.1002/advs.201900290,"A Chest‐Laminated Ultrathin and Stretchable E‐Tattoo for the Measurement of Electrocardiogram, Seismocardiogram, and Cardiac Time Intervals",skipped,title does not match the field (--title-match)
+polymer membranes,10.1126/sciadv.aav1851,Etching gas-sieving nanopores in single-layer graphene with an angstrom precision for high-performance gas mixture separation,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41467-023-40742-8,Two-dimensional MXene membranes with biomimetic sub-nanochannels for enhanced cation sieving,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-019-09902-7,Structural basis for reversible amyloids of hnRNPA1 elucidates their role in stress granule assembly,skipped,title does not match the field (--title-match)
+polymer membranes,10.1126/science.abq0598,Hydrophobic polyamide nanofilms provide rapid transport for crude oil separation,skipped,licence unknown
+polymer membranes,10.1002/advs.201802066,Iron Single Atoms on Graphene as Nonprecious Metal Catalysts for High‐Temperature Polymer Electrolyte Membrane Fuel Cells,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41467-017-02529-6,MXene molecular sieving membranes for highly efficient gas separation,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-020-15771-2,Polyamide nanofiltration membrane with highly uniform sub-nanometre pores for sub-1 Å precision separation,skipped,already used (this or another domain)
+polymer membranes,10.1126/science.ade1499,La- and Mn-doped cobalt spinel oxygen evolution catalyst for proton exchange membrane electrolysis,skipped,licence unknown
+polymer membranes,10.1038/s41467-018-04467-3,Nanoparticle-templated nanofiltration membranes for ultrahigh performance desalination,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-017-02479-z,Green synthesis of graphene oxide by seconds timescale water electrolytic oxidation,skipped,already used (this or another domain)
+polymer membranes,10.1126/sciadv.aar2904,Molecularly selective nanoporous membrane-based wearable organic electrochemical device for noninvasive cortisol sensing,skipped,already used (this or another domain)
+polymer membranes,10.1126/sciadv.aaq0066,Ultrafast selective transport of alkali metal ions in metal organic frameworks with subnanometer pores,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-018-03919-0,Highly stable graphene-oxide-based membranes with superior permeability,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-020-19212-y,Dopants fixation of Ruthenium for boosting acidic oxygen evolution stability and activity,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-023-37008-8,Unraveling oxygen vacancy site mechanism of Rh-doped RuO2 catalyst for long-lasting acidic water oxidation,skipped,already used (this or another domain)
+polymer membranes,10.1126/science.aar7432,mRNA structure determines specificity of a polyQ-driven phase separation,skipped,licence unknown
+polymer membranes,10.1126/science.aau6313,Stoichiometry controls activity of phase-separated clusters of actin signaling proteins,skipped,licence unknown
+polymer membranes,10.1038/s41467-019-10157-5,Covalent organic framework membranes through a mixed-dimensional assembly for molecular separations,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-023-36380-9,Customized reaction route for ruthenium oxide towards stabilized water oxidation in high-performance PEM electrolyzers,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-019-08835-5,High performance n-type Ag2Se film on nylon membrane for flexible thermoelectric power generator,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-019-08622-2,Magnetic field alignment of stable proton-conducting channels in an electrolyte membrane,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-022-30691-z,"Superstrong, superstiff, and conductive alginate hydrogels",skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-020-20768-y,The SARS-CoV-2 nucleocapsid phosphoprotein forms mutually exclusive condensates with RNA and the membrane-associated M protein,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-020-20298-7,MOF-in-COF molecular sieving membrane for selective hydrogen separation,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41586-019-1502-y,DEAD-box ATPases are global regulators of phase-separated organelles,skipped,licence other-oa
+polymer membranes,10.1038/s41467-020-19843-1,Nucleocapsid protein of SARS-CoV-2 phase separates into RNA-rich polymerase-containing condensates,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-022-33474-8,Near-infrared phosphorescent carbon dots for sonodynamic precision tumor therapy,skipped,already used (this or another domain)
+polymer membranes,10.1126/sciadv.abb1110,Self-standing and flexible covalent organic framework (COF) membranes for molecular separation,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-019-14056-7,Laminated self-standing covalent organic framework membrane with uniformly distributed subnanopores for ionic and molecular sieving,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-020-16580-3,Liquid-liquid phase separation induces pathogenic tau conformations in vitro,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-022-28183-1,Polyamide-based membranes with structural homogeneity for ultrafast molecular sieving,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41586-018-0735-5,Efferocytosis induces a novel SLC program to promote glucose uptake and lactate release,skipped,licence unknown
+polymer membranes,10.1002/advs.201700817,A Multimaterial Scaffold With Tunable Properties: Toward Bone Tissue Repair,skipped,title does not match the field (--title-match)
+polymer membranes,10.1126/sciadv.aau1393,Paralyzed membrane: Current-driven synthesis of a metal-organic framework with sharpened propene/propane separation,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-018-05254-w,An autophagy assay reveals the ESCRT-III component CHMP2A as a regulator of phagophore closure,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41586-023-05888-x,Near-frictionless ion transport within triazine framework membranes,skipped,licence unknown
+polymer membranes,10.1126/sciadv.abe8706,Molecularly soldered covalent organic frameworks for ultrafast precision sieving,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41586-023-06255-6,Phase separation of FSP1 promotes ferroptosis,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-018-06072-w,Compartmentalised RNA catalysis in membrane-free coacervate protocells,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41467-018-04294-6,Functionalized boron nitride membranes with ultrafast solvent transport performance for molecular separation,skipped,already used (this or another domain)
+polymer membranes,10.1038/s41586-018-0292-y,Electrically controlled water permeation through graphene oxide membranes,skipped,licence unknown
+polymer membranes,10.1038/s41586-022-05032-1,Aligned macrocycle pores in ultrathin films for accurate molecular sieving,skipped,already used (this or another domain)
+polymer membranes,10.1126/sciadv.abl9271,Single-site Pt-doped RuO 2 hollow nanospheres with interstitial C for high-performance acidic overall water splitting,skipped,title does not match the field (--title-match)
+polymer membranes,10.1126/science.adi9531,Ice-confined synthesis of highly ionized 3D-quasilayered polyamide nanofiltration membranes,skipped,publisher: no URL | europepmc: no URL | unpaywall: no URL
+polymer membranes,10.1038/s41467-024-46887-4,Extreme Li-Mg selectivity via precise ion size differentiation of polyamide membrane,skipped,already used (this or another domain)
+polymer membranes,10.1126/science.abf5991,Ion-capture electrodialysis using multifunctional adsorptive membranes,skipped,licence unknown
+polymer membranes,10.1002/advs.201900085,Sunlight Polymerization of Poly(amidoxime) Hydrogel Membrane for Enhanced Uranium Extraction from Seawater,skipped,title does not match the field (--title-match)
+polymer membranes,10.1038/s41467-020-17373-4,Ion sieving by a two-dimensional Ti3C2Tx alginate lamellar membrane with stable interlayer spacing,skipped,already used (this or another domain)
+polymer membranes,10.1126/sciadv.aay3998,Ultrathin water-stable metal-organic framework membranes for ion separation,kept,9 pages via https://europepmc.org/articles/PMC7274808?pdf=render

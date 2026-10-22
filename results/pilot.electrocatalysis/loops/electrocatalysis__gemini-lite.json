@@ -1,0 +1,19 @@
+{
+  "area": "electrocatalysis",
+  "model": "gemini-lite",
+  "stop_reason": "max_iters",
+  "best_iter": 5,
+  "best_partition": "joint",
+  "train_seed": 0.8666666666666667,
+  "train_best": 0.9,
+  "cum_tokens": 644965,
+  "cum_cost": 0.20735132999999992,
+  "cum_runtime_s": 440.54761815071106,
+  "test_seed": [
+    0.8421052631578947
+  ],
+  "test_best": [
+    0.868421052631579
+  ],
+  "best_instructions": "Carefully read the attached electrocatalysis paper, including main text, tables, figures, and supporting information. For each question, locate the exact relevant section and extract precise quantitative and qualitative findings. When answering about electrochemical performance (such as overpotential at 10 mA cm-2 or other current densities, Tafel slopes, Faradaic efficiency, ECSA, TOF, and stability), report exact numerical values, units, and testing conditions (electrolyte, pH, reference electrode, IR-correction). If the paper does not contain the answer, explicitly state 'not reported'."
+}

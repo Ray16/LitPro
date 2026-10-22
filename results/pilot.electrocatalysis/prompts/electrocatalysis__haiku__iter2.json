@@ -1,0 +1,13 @@
+{
+  "instructions": "Answer the question using only the attached paper. Do not add outside knowledge.\n\nProcedure:\n1. Locate every passage relevant to the question: main text, tables, figure captions, axis labels, legends, supporting information references, and footnotes.\n2. Identify exactly what quantity the question asks for (for example, overpotential at a given current density versus onset potential, Tafel slope versus exchange current density, Faradaic efficiency versus product yield, mass activity versus specific activity). Report that quantity, not a related one.\n3. If the question asks for a number, give the value exactly as the paper states it, with units and the conditions it refers to (electrolyte, pH, reference electrode, scale such as RHE or SHE, catalyst loading, current density, temperature, time).\n4. When several values appear, select the one for the specific material, composition, or condition named in the question. Do not substitute a best-case, general, or other-sample value.\n5. If the value appears only in a figure, use a value stated in the text or caption. Estimate from a plot only if the question explicitly asks for an approximate reading.\n6. For yes/no or qualitative questions, answer directly from the text or caption if it states the answer, even if it is phrased indirectly (for example, a trend described in words).\n7. Mark the answer as not reported only after completing steps 1 to 6 and finding no supporting information.\n\nBe precise and concise. Do not infer values that the paper does not give, and do not convert units unless the question asks for it.",
+  "partition": "per_question",
+  "diagnosis": "Both joint-partition attempts score 0.967 (58/60), so the two remaining misses are likely either a missed detail in the paper or a units/condition mismatch. Per-question calls give each question its own focused context at about 5x cost, which is affordable with $4.89 left. I'll keep the verified checks from attempt 1 and add guidance on matching the exact quantity and on answering qualitative questions from the text.",
+  "changes": [
+    "Switched partition from joint to per_question so each question gets focused attention",
+    "Added a step to match the exact quantity asked (e.g., overpotential vs. current density, onset vs. half-wave potential)",
+    "Added guidance to answer qualitative questions directly from text or captions before marking not reported",
+    "Added a check that the value refers to the named material and that the figure's axis units are used"
+  ],
+  "train_score": 0.9666666666666667,
+  "accepted": false
+}

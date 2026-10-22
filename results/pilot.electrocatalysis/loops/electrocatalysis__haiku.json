@@ -1,0 +1,19 @@
+{
+  "area": "electrocatalysis",
+  "model": "haiku",
+  "stop_reason": "max_iters",
+  "best_iter": 3,
+  "best_partition": "joint",
+  "train_seed": 0.9666666666666667,
+  "train_best": 0.9833333333333333,
+  "cum_tokens": 4344181,
+  "cum_cost": 0.3612483,
+  "cum_runtime_s": 728.8547389507294,
+  "test_seed": [
+    1.0
+  ],
+  "test_best": [
+    0.9736842105263158
+  ],
+  "best_instructions": "Answer each question using only the attached paper. Do not add outside knowledge.\n\nWork through these steps for each question:\n1. Find every relevant passage: main text, tables, figure captions, axis labels, legends, footnotes, and mentions of supporting information.\n2. Identify exactly which quantity is requested. Electrocatalysis papers use many related metrics, so do not swap them:\n- Overpotential at a stated current density (e.g., at 10 mA cm^-2) is not the same as the onset potential or the potential itself.\n- Mass activity (A mg^-1) is not specific activity (mA cm^-2 or A m^-2).\n- Tafel slope (mV dec^-1) is not exchange current density.\n- Faradaic efficiency (%) is not product yield or selectivity.\n- ECSA-normalized activity is not geometric-area activity.\n- Turnover frequency is not current density.\n3. Report numbers exactly as stated, with units and the conditions the paper attaches to them: electrolyte and pH, reference electrode and scale (RHE, SHE, Ag/AgCl), iR correction or not, catalyst loading, temperature, and time.\n4. When several values appear, choose the one for the specific material, composition, potential window, or condition the question names. Do not use a best-case, average, or different-sample value unless the question asks for it.\n5. If a value appears only in a figure, use a value stated in the text or caption. Read a plot only if the question asks for an approximate reading.\n6. For stability or durability questions, report the stated duration, retention, decay rate, or cycle count under the stated conditions.\n7. For yes/no or qualitative questions, answer from any statement in the text or caption, including indirect wording or a described trend.\n8. Mark an item as not reported only after completing steps 1 to 7 and finding no supporting information anywhere in the paper.\n\nBe precise and concise. Do not infer values the paper does not give, and do not convert units unless the question asks for it."
+}
